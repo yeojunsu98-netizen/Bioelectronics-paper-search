@@ -1,0 +1,132 @@
+project_name: Bioelectronics + Bioimaging Daily Literature Tracker
+bootstrap_days: 7
+lookback_hours: 40
+queries:
+- bioelectronics
+- organic bioelectronics
+- soft bioelectronics
+- stretchable bioelectronics
+- biointegrated electronics
+- implantable bioelectronics
+- wearable bioelectronics
+- soft neural interface
+- organic electrochemical transistor
+- mixed ionic electronic conductor
+- OMIEC
+- conducting polymer neural interface
+- iontronic biointerface
+- hydrogel bioelectronics
+- bioelectronic sensor
+- bioimaging
+- fluorescence bioimaging
+- molecular imaging fluorescence
+- organic fluorophore bioimaging
+- TADF bioimaging
+- near infrared fluorescence imaging
+- NIR-II fluorescence imaging
+- two photon fluorescence imaging
+- fluorescence lifetime imaging
+- neural fluorescence imaging
+- calcium imaging neural
+- voltage imaging neural
+keywords:
+  bioelectronics: 7
+  bioelectronic: 6
+  organic bioelectronics: 9
+  soft bioelectronics: 9
+  stretchable bioelectronics: 10
+  wearable bioelectronics: 7
+  implantable bioelectronics: 8
+  biointegrated electronics: 9
+  biointegrated: 6
+  biointerface: 5
+  bioelectronic interface: 8
+  neural interface: 7
+  neural interfaces: 7
+  soft neural interface: 9
+  neural recording: 6
+  neural stimulation: 6
+  electrophysiology: 4
+  electrophysiological: 4
+  organic electrochemical transistor: 10
+  organic electrochemical transistors: 10
+  oect: 8
+  organic mixed ionic electronic conductor: 10
+  organic mixed ionic-electronic conductor: 10
+  mixed ionic electronic conductor: 9
+  mixed ionic-electronic conductor: 9
+  omiec: 9
+  conducting polymer: 5
+  conductive polymer: 4
+  pedot:pss: 5
+  hydrogel electrode: 6
+  conductive hydrogel: 5
+  iontronic: 6
+  iontronics: 6
+  ionic electronic: 4
+  electrochemical transistor: 7
+  bioelectronic sensor: 7
+  biosensor: 3
+  implantable electrode: 5
+  flexible electrode: 4
+  stretchable electrode: 5
+  epidermal electronics: 7
+  electronic skin: 5
+  e-skin: 5
+  brain-machine interface: 6
+  brain computer interface: 5
+  brain-computer interface: 5
+  peripheral nerve: 4
+  vagus nerve: 4
+  electroceutical: 6
+  bioelectronic medicine: 7
+  bioimaging: 8
+  biological imaging: 6
+  fluorescence bioimaging: 10
+  fluorescent bioimaging: 9
+  fluorescence imaging: 6
+  molecular imaging: 5
+  optical imaging: 4
+  organic fluorophore: 6
+  fluorescent probe: 6
+  fluorescence probe: 6
+  tadf bioimaging: 12
+  thermally activated delayed fluorescence: 5
+  near infrared fluorescence: 7
+  near-infrared fluorescence: 7
+  nir fluorescence: 6
+  nir-ii: 8
+  nir ii: 8
+  second near-infrared: 8
+  two-photon imaging: 8
+  two photon imaging: 8
+  two-photon fluorescence: 8
+  two photon fluorescence: 8
+  fluorescence lifetime imaging: 9
+  flim: 6
+  super-resolution imaging: 7
+  super resolution imaging: 7
+  photoacoustic imaging: 6
+  bioluminescence imaging: 6
+  cell imaging: 4
+  live-cell imaging: 6
+  live cell imaging: 6
+  in vivo imaging: 5
+  in-vivo imaging: 5
+  neural imaging: 6
+  neuron imaging: 6
+  calcium imaging: 7
+  voltage imaging: 8
+  voltage-sensitive dye: 7
+  voltage sensitive dye: 7
+  membrane potential imaging: 8
+min_score: 6
+exclude_phrases:
+- electronic health record
+- bioinformatics pipeline
+max_pages_per_query:
+  semantic_scholar: 3
+  crossref: 5
+  arxiv: 3
+crossref_mailto: ''
+create_github_issue: true
