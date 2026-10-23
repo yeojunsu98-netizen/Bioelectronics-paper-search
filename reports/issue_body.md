@@ -1,6 +1,6 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-10-22
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-10-23
 
-- **New candidate records across sources:** 0
+- **New candidate records across sources:** 1
 - **Papers passing keyword filter:** 0
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
