@@ -5,6 +5,12 @@ on:
     # 13:30 UTC daily = 8:30 AM Chicago during daylight time, 7:30 AM during standard time.
     - cron: "30 13 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "tracker.py"
+      - "config.yml"
+      - ".github/workflows/daily.yml"
 
 permissions:
   contents: write
@@ -32,7 +38,19 @@ jobs:
         env:
           # Optional. The tracker works without this key; adding one can improve S2 rate limits.
           SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+          LITERATURE_LOOKBACK_HOURS: ${{ github.event_name == 'push' && '384' || '' }}
         run: python tracker.py
+
+      - name: Alert if every literature provider failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          TITLE="Bioelectronics literature tracker health — API failure"
+          if ! gh issue list --state open --limit 100 --json title --jq '.[].title' | grep -Fxq "$TITLE"; then
+            gh issue create --title "$TITLE" --body "All literature providers failed. Inspect the latest GitHub Actions job logs."
+          fi
 
       - name: Read run metadata
         id: meta
@@ -46,8 +64,30 @@ jobs:
           print(f"kept_count={m['kept_count']}")
           print(f"candidate_count={m['new_candidate_count']}")
           print(f"create_issue={'true' if m['create_github_issue'] else 'false'}")
+          print(f"health_degraded={'true' if m.get('health_degraded') else 'false'}")
           print(f"issue_body_path={m['issue_body_path']}")
           PY
+
+      - name: Notify when literature sources are degraded
+        if: steps.meta.outputs.health_degraded == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          TITLE="Bioelectronics literature tracker health — degraded sources"
+          if ! gh issue list --state open --limit 100 --json title --jq '.[].title' | grep -Fxq "$TITLE"; then
+            gh issue create --title "$TITLE" --body "One or more sources failed or returned zero records. Inspect reports/run_meta.json and the latest GitHub Actions logs."
+          fi
+
+      - name: Close degraded-source alert after recovery
+        if: steps.meta.outputs.health_degraded == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh issue list --state open --limit 100 --json number,title --jq '.[] | select(.title == "Bioelectronics literature tracker health — degraded sources") | .number' | while read -r number; do
+            gh issue close "$number" --comment "Literature sources passed the latest health check."
+          done
 
       - name: Commit report and state
         shell: bash
