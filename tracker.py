@@ -141,7 +141,7 @@ def save_seen(seen: dict[str, str]) -> None:
 
 
 def request_json(url: str, *, params: dict[str, Any] | None = None, headers: dict[str, str] | None = None,
-                 retries: int = 5, timeout: int = 45) -> dict[str, Any]:
+                 retries: int = 3, timeout: int = 30) -> dict[str, Any]:
     merged_headers = {}
     if headers:
         merged_headers.update(headers)
@@ -150,7 +150,12 @@ def request_json(url: str, *, params: dict[str, Any] | None = None, headers: dic
         try:
             r = SESSION.get(url, params=params, headers=merged_headers, timeout=timeout)
             if r.status_code == 429:
-                wait = min(60, 2 ** (attempt + 2))
+                last_exc = RuntimeError(f"HTTP 429 rate limit from {r.url}")
+                retry_after = r.headers.get("Retry-After", "")
+                try:
+                    wait = min(90, max(1, int(retry_after)))
+                except (TypeError, ValueError):
+                    wait = min(90, 15 * (attempt + 1))
                 print(f"  rate limited (429); sleeping {wait}s", file=sys.stderr)
                 time.sleep(wait)
                 continue
@@ -188,8 +193,7 @@ def semantic_scholar_search(query: str, cutoff: datetime, max_pages: int, api_ke
         try:
             data = request_json(url, params=params, headers=headers)
         except RuntimeError as e:
-            print(f"  skipped Semantic Scholar query after error: {e}", file=sys.stderr)
-            break
+            raise RuntimeError(f"Semantic Scholar query {query!r} failed: {e}") from e
 
         rows = data.get("data") or []
         if not rows:
@@ -249,8 +253,10 @@ def crossref_search(query: str, cutoff: datetime, now: datetime, max_pages: int,
     url = "https://api.crossref.org/works"
     cursor = "*"
     out: list[Paper] = []
-    from_ts = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
-    until_ts = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Crossref from-index-date/until-index-date filters require date strings;
+    # an ISO timestamp causes HTTP 400 (seen in the 2026-10-24 recovery run).
+    from_ts = cutoff.strftime("%Y-%m-%d")
+    until_ts = now.strftime("%Y-%m-%d")
 
     for _page in range(max_pages):
         params: dict[str, Any] = {
@@ -265,8 +271,7 @@ def crossref_search(query: str, cutoff: datetime, now: datetime, max_pages: int,
         try:
             data = request_json(url, params=params)
         except RuntimeError as e:
-            print(f"  skipped Crossref query after error: {e}", file=sys.stderr)
-            break
+            raise RuntimeError(f"Crossref query {query!r} failed: {e}") from e
         message = data.get("message") or {}
         items = message.get("items") or []
         if not items:
@@ -325,8 +330,7 @@ def arxiv_search(query: str, cutoff: datetime, max_pages: int) -> list[Paper]:
             r.raise_for_status()
             root = ET.fromstring(r.text)
         except (requests.RequestException, ET.ParseError) as e:
-            print(f"  skipped arXiv query after error: {e}", file=sys.stderr)
-            break
+            raise RuntimeError(f"arXiv query {query!r} failed: {e}") from e
         entries = root.findall("a:entry", ns)
         if not entries:
             break
@@ -504,7 +508,7 @@ def main() -> int:
     seen = load_seen()
     now = utcnow()
     bootstrap_days = int(cfg.get("bootstrap_days", 7))
-    lookback_hours = int(cfg.get("lookback_hours", 40))
+    lookback_hours = int(os.environ.get("LITERATURE_LOOKBACK_HOURS") or cfg.get("lookback_hours", 40))
     cutoff = now - (timedelta(days=bootstrap_days) if not seen else timedelta(hours=lookback_hours))
     print(f"Tracking window: {cutoff.isoformat()} -> {now.isoformat()}")
 
@@ -516,11 +520,44 @@ def main() -> int:
     s2_key = os.environ.get("SEMANTIC_SCHOLAR_API_KEY", "").strip()
     mailto = str(cfg.get("crossref_mailto") or "").strip()
 
+    # A successful workflow must mean the sources were queried, not merely
+    # that an empty report was written. Disable a provider after its first hard
+    # failure to avoid retrying it across every search term.
     all_papers: list[Paper] = []
+    provider_counts = {"Semantic Scholar": 0, "Crossref": 0, "arXiv": 0}
+    provider_queries = {"Semantic Scholar": 0, "Crossref": 0, "arXiv": 0}
+    provider_errors: dict[str, str] = {}
+    collectors = (
+        ("Semantic Scholar", lambda q: semantic_scholar_search(q, cutoff, s2_pages, s2_key)),
+        ("Crossref", lambda q: crossref_search(q, cutoff, now, cr_pages, mailto)),
+        ("arXiv", lambda q: arxiv_search(q, cutoff, ax_pages)),
+    )
     for query in queries:
-        all_papers.extend(semantic_scholar_search(query, cutoff, s2_pages, s2_key))
-        all_papers.extend(crossref_search(query, cutoff, now, cr_pages, mailto))
-        all_papers.extend(arxiv_search(query, cutoff, ax_pages))
+        for provider, collector in collectors:
+            if provider in provider_errors:
+                continue
+            try:
+                results = collector(query)
+                # Anonymous Semantic Scholar calls may be rate-limited at a low frequency.
+                if provider == "Semantic Scholar" and not s2_key:
+                    time.sleep(5.0)
+                provider_queries[provider] += 1
+                provider_counts[provider] += len(results)
+                all_papers.extend(results)
+            except (RuntimeError, requests.RequestException, ET.ParseError) as exc:
+                provider_errors[provider] = str(exc)
+                print(f"[SOURCE FAILED] {provider}: {exc}", file=sys.stderr)
+
+    print("Source diagnostics: " + json.dumps({
+        "successful_queries": provider_queries,
+        "records": provider_counts,
+        "errors": provider_errors,
+    }, ensure_ascii=False))
+    if not any(provider_queries.values()):
+        raise RuntimeError(
+            "All literature providers failed; refusing to write a misleading empty report. "
+            + json.dumps(provider_errors, ensure_ascii=False)
+        )
 
     merged = merge_papers(all_papers)
     print(f"Fetched {len(all_papers)} records; {len(merged)} after source-level deduplication.")
@@ -560,11 +597,18 @@ def main() -> int:
         run_day=run_day,
         project_name=str(cfg.get("project_name") or "Daily Literature Tracker"),
     )
+    health_degraded = bool(provider_errors) or not all_papers
     meta = {
         "run_day": run_day,
         "report_path": str(md_path.relative_to(ROOT)),
         "csv_path": str(csv_path.relative_to(ROOT)),
         "new_candidate_count": len(new_candidates),
+        "fetched_count": len(all_papers),
+        "lookback_hours": lookback_hours,
+        "source_query_counts": provider_queries,
+        "source_record_counts": provider_counts,
+        "source_errors": provider_errors,
+        "health_degraded": health_degraded,
         "kept_count": len(kept),
         "create_github_issue": bool(cfg.get("create_github_issue", True)),
     }
@@ -576,6 +620,8 @@ def main() -> int:
     issue_path.write_text(full_body, encoding="utf-8")
     meta["issue_body_path"] = str(issue_path.relative_to(ROOT))
     META_PATH.write_text(json.dumps(meta, indent=2) + "\n", encoding="utf-8")
+    if health_degraded:
+        print("[LITERATURE HEALTH WARNING] One or more providers failed or all sources returned zero records.", file=sys.stderr)
     print(json.dumps(meta, indent=2))
     return 0
 
