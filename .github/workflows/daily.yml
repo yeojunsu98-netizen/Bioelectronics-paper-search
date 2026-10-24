@@ -19,7 +19,7 @@ permissions:
 jobs:
   track:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
       - name: Check out repository
@@ -33,6 +33,10 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Record recovery window
+        if: github.event_name == 'push'
+        run: echo 'Backfilling the previous 384 hours of literature on this repair push.'
 
       - name: Collect new papers
         env:
