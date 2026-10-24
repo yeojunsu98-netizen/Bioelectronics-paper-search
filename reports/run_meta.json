@@ -2,8 +2,8 @@
   "run_day": "2026-10-24",
   "report_path": "reports/2026-10-24.md",
   "csv_path": "reports/2026-10-24.csv",
-  "new_candidate_count": 67969,
-  "fetched_count": 117524,
+  "new_candidate_count": 511,
+  "fetched_count": 763,
   "lookback_hours": 384,
   "source_query_counts": {
     "Semantic Scholar": 27,
@@ -12,12 +12,12 @@
   },
   "source_record_counts": {
     "Semantic Scholar": 398,
-    "Crossref": 117123,
+    "Crossref": 362,
     "arXiv": 3
   },
   "source_errors": {},
   "health_degraded": false,
-  "kept_count": 7068,
+  "kept_count": 422,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }

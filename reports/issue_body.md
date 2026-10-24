@@ -1,77 +1,13 @@
 # Bioelectronics + Bioimaging Daily Literature Tracker — 2026-10-24
 
-- **New candidate records across sources:** 67969
-- **Papers passing keyword filter:** 7068
+- **New candidate records across sources:** 511
+- **Papers passing keyword filter:** 422
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [Tailoring organic mixed ionic-electronic conductors for bioelectronic devices](https://doi.org/10.1117/12.3113053)
-
-**Authors:** Scott Keene  
-**Venue/category:** Organic and Hybrid Sensors, Detectors, and Bioelectronics XIX  
-**Date:** 2026-10-08  
-**DOI:** `10.1117/12.3113053`  
-**Source(s):** Crossref  
-**Keyword score:** 87  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, organic mixed ionic-electronic conductor, mixed ionic-electronic conductor, pedot:pss, electrochemical transistor, biosensor  
-
-**Abstract**
-
-PEDOT:PSS has become a choice material for bioelectronics because it is highly conductive, easily processible, and commercially available. However, PEDOT:PSS is dispersible in water and requires chemical crosslinking agents to stabilize films, at the cost of decreased electrical performance. Here, we show that baking PEDOT:PSS for a short time yields water stability comparable to that of chemically crosslinked films, with performance maintained for >20 days both in vivo. A focused femtosecond laser enables direct patterning of 3D PEDOT:PSS microstructures. I will also discuss how organic electrochemical transistors (OECTs) can amplify signals from electrochemical aptamer-based sensors. A linearly sweeping square-wave potential is applied to an aptamer-functionalized gate electrode, producing an AC current modulation across the transistor channel that is two orders of magnitude larger than that observed for the equivalent-sized electrode-based biosensor. Unlike traditional EAB sensors, our aptamer-based OECT (AB-OECT) sensors maintain output current with >1000x miniaturization.
-
----
-
-### 2. [Organic Electrochemical Transistors (OECTs) Toward Flexible and Wearable Bioelectronics](https://doi.org/10.3390/molecules25225288)
-
-**Authors:** Ariana Villarroel Marquez, Niall McEvoy, Amir Pakdel  
-**Venue/category:** Molecules  
-**Date:** 2020-11-13  
-**DOI:** `10.3390/molecules25225288`  
-**Source(s):** Crossref  
-**Keyword score:** 85  
-**Matched:** bioelectronics, bioelectronic, wearable bioelectronics, organic electrochemical transistor, organic electrochemical transistors, oect, conductive polymer, electrochemical transistor  
-
-**Abstract**
-
-Organic electronics have emerged as a fascinating area of research and technology in the past two decades and are anticipated to replace classic inorganic semiconductors in many applications. Research on organic light-emitting diodes, organic photovoltaics, and organic thin-film transistors is already in an advanced stage, and the derived devices are commercially available. A more recent case is the organic electrochemical transistors (OECTs), whose core component is a conductive polymer in contact with ions and solvent molecules of an electrolyte, thus allowing it to simultaneously regulate electron and ion transport. OECTs are very effective in ion-to-electron transduction and sensor signal amplification. The use of synthetically tunable, biocompatible, and depositable organic materials in OECTs makes them specially interesting for biological applications and printable devices. In this review, we provide an overview of the history of OECTs, their physical characterization, and their operation mechanism. We analyze OECT performance improvements obtained by geometry design and active material selection (i.e., conductive polymers and small molecules) and conclude with their broad range of applications from biological sensors to wearable devices.
-
----
-
-### 3. [The Regulating Role of Ionic Species in Organic Electrochemical Transistors: Toward High-Performance Bioelectronics](https://doi.org/10.1021/acsami.6c12258)
-
-**Authors:** Wanli Liu, Xuanlin Peng, Mengyu He, Hu Chen  
-**Venue/category:** ACS Applied Materials & Interfaces  
-**Date:** 2026-09-10  
-**DOI:** `10.1021/acsami.6c12258`  
-**Source(s):** Crossref  
-**Keyword score:** 84  
-**Matched:** bioelectronics, bioelectronic, organic bioelectronics, bioelectronic interface, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electrochemical transistors (OECTs) have emerged as highly promising platforms for next-generation bioelectronic interfaces, fundamentally driven by their unique mixed ionic–electronic conduction and volumetric doping mechanisms. Despite significant progress in understanding electronic transport, the intricate dynamics of ion transport—encompassing interfacial double-layer kinetics and complex electrolyte-channel interactions—continue to constrain ultimate device performance and introduce profound physical complexities. To address this critical gap, this review provides a systematic overview of the regulatory roles of ionic species in OECTs, bridging microscopic ion dynamics with macroscopic device performance. First, the theoretical foundations of ion transport kinetics and interfacial processes are discussed. Next, comprehensive molecular and architectural engineering strategies for optimizing ion transport, including polymer backbone modulation, side-chain tailoring, and the integration of functional electrolyte systems, are systematically examined. This is followed by an exploration of the practical manifestations of these precisely managed ionic effects in advanced applications, specifically highlighting broad biosensing capabilities and biomimetic neuromorphic computing. Finally, the review concludes by identifying persistent challenges, notably the intrinsic trade-off between crystallinity and ionic permeability, and outlines potential future trajectories for the development of robust, high-performance ion-regulated organic bioelectronics.
-
----
-
-### 4. [Melanin/PEDOT:PSS blend as organic mixed ionic electronic conductor (OMIEC) for sustainable electronics](https://doi.org/10.1039/d3ma00573a)
-
-**Authors:** Natan Luis Nozella, João Victor Morais Lima, Rafael Furlan de Oliveira, Carlos Frederico de Oliveira Graeff  
-**Venue/category:** Materials Advances  
-**Date:** 2023-01-01  
-**DOI:** `10.1039/d3ma00573a`  
-**Source(s):** Crossref  
-**Keyword score:** 81  
-**Matched:** organic electrochemical transistor, organic electrochemical transistors, organic mixed ionic electronic conductor, mixed ionic electronic conductor, omiec, pedot:pss, ionic electronic, electrochemical transistor  
-
-**Abstract**
-
-A new and green blend based on PEDOT:PSS and synthetic melanin is demonstrated as an organic mixed ionic electronic conductor (OMIEC) with enhanced ionic–electronic coupling for organic electrochemical transistors and supercapacitors.
-
----
-
-### 5. [Textile organic electrochemical transistors in biosensing and bioelectronics including materials architectures and emerging applications](https://www.semanticscholar.org/paper/107a171b12b8ab9e5a62edbc89eb265aa4b8b19c)
+### 1. [Textile organic electrochemical transistors in biosensing and bioelectronics including materials architectures and emerging applications](https://www.semanticscholar.org/paper/107a171b12b8ab9e5a62edbc89eb265aa4b8b19c)
 
 **Authors:** R. Brendgen, A. Schwarz-Pfeiffer  
 **Venue/category:** Discover Electrochemistry  
@@ -87,7 +23,7 @@ Organic electrochemical transistors (OECTs) have emerged as promising platforms 
 
 ---
 
-### 6. [Extended conjugated organic mixed ionic-electronic conductors for bioelectronic applications of organic electrochemical transistors](https://www.semanticscholar.org/paper/22ae7836fbdcbf970e7166d185af17134530de08)
+### 2. [Extended conjugated organic mixed ionic-electronic conductors for bioelectronic applications of organic electrochemical transistors](https://www.semanticscholar.org/paper/22ae7836fbdcbf970e7166d185af17134530de08)
 
 **Authors:** Guang-Yu Qi, Chen-Fei Kang, Xin-Ru Teng, Ya-Qi Yang, Zhao Li, Hao-Yuan Chen, Xu-Dong Su, Yu-Lin Zhang, Sen Zhang, Shi-Jie Wang, Hai-Rui Bai, Bing-Jun Wang et al.  
 **Venue/category:** Science China Chemistry  
@@ -99,55 +35,7 @@ Organic electrochemical transistors (OECTs) have emerged as promising platforms 
 
 ---
 
-### 7. [Microfabrication of Organic Electrochemical Transistors for High‐Performance Integrated Bioelectronics](https://doi.org/10.1002/admt.202401440)
-
-**Authors:** Giulia Frusconi, Zsolt M. Kovács‐Vajna, Paul W. M. Blom, Paschalis Gkoupidenis, Fabrizio Torricelli  
-**Venue/category:** Advanced Materials Technologies  
-**Date:** 2024-12-11  
-**DOI:** `10.1002/admt.202401440`  
-**Source(s):** Crossref  
-**Keyword score:** 76  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, conductive polymer, pedot:pss, electrochemical transistor  
-
-**Abstract**
-
-Abstract In bioelectronics, organic electrochemical transistors (OECTs) are pivotal in bridging electronic devices and biological systems, especially in sensing, neuromorphic interfacing, and biological monitoring. Current OECT fabrication methods face challenges due to conductive polymers incompatibility with photoresist solvents and the complexity of multi‐step parylene‐C coatings. This work introduces a scalable photolithographic fabrication process for high‐performance OECTs using the prototypical conductive polymer poly(3,4‐ethylenedioxythiophene) doped with poly(styrene sulfonate) (PEDOT:PSS). The method employs a two‐layer photoresist approach with controlled cross‐linking, incorporating (3‐glycidyloxypropyl)trimethoxysilane to pattern polymeric channel and encapsulate electrodes. This process yields high‐performance OECTs with highly reproducible characteristics, typical ON/OFF current modulation of 5 10 3 , and transconductance normalized to channel thickness > 200 S cm −1 . To avoid cytotoxic Ag/AgCl pellets, the impact of scaling polarizable gates is analyzed on device performance, including bare Au, protein‐functionalized, and PEDOT:PSS gates. The analysis provides design rules to tailor OECT performance for diverse applications. The effectiveness of the approach is demonstrated by integrating OECTs with polarizable gates in current‐driven circuit configuration, allowing ion detection at a supply voltage as low as 0.4 V with a sensitivity of up to 2620 mV dec −1 , the highest ever reported. These advancements open opportunities for next‐generation integrated bioelectronics and neuromorphic biosensing.
-
----
-
-### 8. [Solid-state organic electrochemical transistors (OECTs) based on gel electrolytes for biosensors and bioelectronics](https://doi.org/10.1039/d4ta05288a)
-
-**Authors:** Dongdong Lu, Hu Chen  
-**Venue/category:** Journal of Materials Chemistry A  
-**Date:** 2025-01-01  
-**DOI:** `10.1039/d4ta05288a`  
-**Source(s):** Crossref  
-**Keyword score:** 75  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor, biosensor  
-
-**Abstract**
-
-A minireview focusing on OECTs for biosensors and bioelectronics applications, highlighting gel electrolytes as effective strategies for enhancing flexibility, adhesiveness, self-healing ability, biocompatibility, and long-term stability of OECTs.
-
----
-
-### 9. [Highly stretchable PEDOT:PSS organic electrochemical transistors achieved via polyethylene glycol addition](https://doi.org/10.1088/2058-8585/ab5202)
-
-**Authors:** Yang Li, Shiming Zhang, Xinda Li, Venkata Ramana Nitin Unnava, Fabio Cicoira  
-**Venue/category:** Flexible and Printed Electronics  
-**Date:** 2019-11-19  
-**DOI:** `10.1088/2058-8585/ab5202`  
-**Source(s):** Crossref  
-**Keyword score:** 73  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, conducting polymer, pedot:pss, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electrochemical transistors (OECTs) are widely used in biosensing and bioelectronics, due to their ability to convert ionic signals into electronic signals and their high transconductance. Stretchable OECTs are particularly suited for on-skin and on-organ bioelectronics, since they are able to record or transmit signals under mechanical strain. Most stretchable OECTs are based on the conducting polymer poly(3, 4-ethylenedioxythiophene) doped with polystyrene sulfonate (PEDOT:PSS), which needs to be appropriately processed to yield stretchable films. Here we report stretchable OECTs that are obtained by modifying the mechanical properties of PEDOT:PSS films via the addition of low-molecular weight polyethylene glycol (PEG), which acts as a plasticizer. The presence of PEG in the films prevents the formation of cracks under strain while maintaining a high electrical conductivity, thus resulting in improved electromechanical properties. In particular, the additon of PEG leads to a higher channel thickness and increased ion mobility in the films, thus resulting in stretchable OECTs with high transconductance and fast response time. This work shows that high stretchability, high transconductance and fast repsonse time can be simultaneously obtained in OECTs, paving the way for their applications in conformable devices at the human-machine interface.
-
----
-
-### 10. [Architecting Organic Electrochemical Transistors for Bioelectronics: From Channel Micro‐Engineering to Microarray Systems](https://www.semanticscholar.org/paper/d95c994bf04d0bcb0454e7f5e20c133f42560d9f)
+### 3. [Architecting Organic Electrochemical Transistors for Bioelectronics: From Channel Micro‐Engineering to Microarray Systems](https://www.semanticscholar.org/paper/d95c994bf04d0bcb0454e7f5e20c133f42560d9f)
 
 **Authors:** Mahroza Kanwal Khan, Ying-Hui Zhong, Yi-Fei He, Wan Yue, Yao-Kang Zhang, Zhuang Xie, Xue-Chang Zhou  
 **Venue/category:** Advanced Functional Materials  
@@ -163,23 +51,7 @@ ABSTRACT Organic electrochemical transistors (OECTs) have emerged as transformat
 
 ---
 
-### 11. [Ultra‐Lightweight, Highly Permeable, and Waterproof Fibrous Organic Electrochemical Transistors for On‐Skin Bioelectronics](https://doi.org/10.1002/admt.202200611)
-
-**Authors:** Shuai Chen, Kunqi Hou, Ting Li, Xihu Wu, Zhe Wang, Lei Wei, Wei Lin Leong  
-**Venue/category:** Advanced Materials Technologies  
-**Date:** 2022-07-22  
-**DOI:** `10.1002/admt.202200611`  
-**Source(s):** Crossref  
-**Keyword score:** 72  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, conducting polymer, electrochemical transistor  
-
-**Abstract**
-
-Abstract Recently emerged on‐skin electronics with applications in human–machine interfaces and on‐body healthy monitoring call for the development of high‐performance skin‐like electrodes and semiconducting polymers. The development of waterproof and breathable membranes that can provide a high level of protection for human skins and a comfortable contact between electronics and skin are the pressing demands for on‐skin electronics. However, major challenges remain, such as the limited mechanical durability and permeability of gas and liquid, hindering long‐term stability and reusability. Herein, a fibrous electrolyte containing polymer matrix and ionic liquid, which is highly robust, breathable, waterproof, and conformal with human skin is reported. Serving as fibrous substrate and electrolyte of organic electrochemical transistors (OECTs), a high transconductance of ≈0.8 mS, stability over pulsing and time (≈1000 cycles and 30 days) are achieved. The softness of fibrous OECTs enables a comfortable contact after attaching to human skin, which can reduce the interfacial impedance to achieve a high‐quality local amplification of the electrocardiography signals (signal‐to‐noise ratio of 21.7 dB) even in skin squeezed state or after one week. These results indicated that our fibrous OECTs have huge potential for versatile on‐skin electronics such as non‐invasive medical monitoring, soft sensors, and textile electronics.
-
----
-
-### 12. [Scalable Patterning of Organic Electrochemical Transistors for Logic Gates and Neuromorphic Computing.](https://www.semanticscholar.org/paper/700a8b65971dcdd78d6fa6aa3603a267d06135cf)
+### 4. [Scalable Patterning of Organic Electrochemical Transistors for Logic Gates and Neuromorphic Computing.](https://www.semanticscholar.org/paper/700a8b65971dcdd78d6fa6aa3603a267d06135cf)
 
 **Authors:** Yi-Fan Xie, Jun-Yang Deng, Cheng-Qi Wei, Jia-Hao Zhao, Liu-Yuan Lan, Ya-Zhuo Kuang, Miao Cheng, Chang-Rui Liu, Yue Tian, Han-Lin Wang, Wan Yue, Jian Liu et al.  
 **Venue/category:** Small  
@@ -195,331 +67,7 @@ Organic electrochemical transistors (OECTs) are promising building blocks for bi
 
 ---
 
-### 13. [Flexible and Stretchable Organic Electrochemical Transistors for Physiological Sensing Devices](https://doi.org/10.1002/adma.202209906)
-
-**Authors:** Yao Yao, Wei Huang, Jianhua Chen, Xiaoxue Liu, Libing Bai, Wei Chen, Yuhua Cheng, Jianfeng Ping, Tobin J. Marks, Antonio Facchetti  
-**Venue/category:** Advanced Materials  
-**Date:** 2023-07-06  
-**DOI:** `10.1002/adma.202209906`  
-**Source(s):** Crossref  
-**Keyword score:** 71  
-**Matched:** bioelectronics, bioelectronic, stretchable bioelectronics, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
-
-**Abstract**
-
-Abstract Flexible and stretchable bioelectronics provides a biocompatible interface between electronics and biological systems and has received tremendous attention for in situ monitoring of various biological systems. Considerable progress in organic electronics has made organic semiconductors, as well as other organic electronic materials, ideal candidates for developing wearable, implantable, and biocompatible electronic circuits due to their potential mechanical compliance and biocompatibility. Organic electrochemical transistors (OECTs), as an emerging class of organic electronic building blocks, exhibit significant advantages in biological sensing due to the ionic nature at the basis of the switching behavior, low driving voltage (
-
----
-
-### 14. [Organic Electrochemical Transistors for In Vivo Bioelectronics](https://doi.org/10.1002/adma.202101874)
-
-**Authors:** Ali Nawaz, Qian Liu, Wei Lin Leong, Kathryn E. Fairfull‐Smith, Prashant Sonar  
-**Venue/category:** Advanced Materials  
-**Date:** 2021-10-04  
-**DOI:** `10.1002/adma.202101874`  
-**Source(s):** Crossref  
-**Keyword score:** 71  
-**Matched:** bioelectronics, bioelectronic, electrophysiological, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electrochemical transistors (OECTs) are presently a focus of intense research and hold great potential in expanding the horizons of the bioelectronics industry. The notable characteristics of OECTs, including their electrolyte‐gating, which offers intimate interfacing with biological environments, and aqueous stability, make them particularly suitable to be operated within a living organism (in vivo). Unlike the existing in vivo bioelectronic devices, mostly based on rigid metal electrodes, OECTs form a soft mechanical contact with the biological milieu and ensure a high signal‐to‐noise ratio because of their powerful amplification capability. Such features make OECTs particularly desirable for a wide range of in vivo applications, including electrophysiological recordings, neuron stimulation, and neurotransmitter detection, and regulation of plant processes in vivo. In this review, a systematic compilation of the in vivo applications is presented that are addressed by the OECT technology. First, the operating mechanisms, and the device design and materials design principles of OECTs are examined, and then multiple examples are provided from the literature while identifying the unique device properties that enable the application progress. Finally, one critically looks at the future of the OECT technology for in vivo bioelectronic applications.
-
----
-
-### 15. [High Iontronic Performance in Organic Electrochemical Transistors Enabled by Intramolecular Noncovalent Interactions](https://doi.org/10.1002/adma.202508541)
-
-**Authors:** Guocai Liu, Meng Zhang, Jikai Lv, Hao Wang, Bowei Ma, Xiaobin Gu, Yunlong Guo, Yunqi Liu, Hui Huang  
-**Venue/category:** Advanced Materials  
-**Date:** 2025-10-07  
-**DOI:** `10.1002/adma.202508541`  
-**Source(s):** Crossref  
-**Keyword score:** 70  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, iontronic, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electrochemical transistors (OECTs) show great potential in bioelectronics due to their iontronic coupling, low driving voltages ( g m ), limits their ability to acquire high‐precision biosignals. To address this issue, a series of poly(bithiophene)s (opg2T‐O, opg2T‐S, and opg2T‐Se) bearing 4,4′‐position glycol side chains are synthesized. Upon varying furan, thiophene, and selenophene comonomers, the intramolecular noncovalent interactions are systematically tuned. Comprehensive theoretical analyses reveal that opg2T‐Se demonstrates stronger intramolecular Se···O noncovalent interactions than the S···O interactions in opg2T‐S and opg2T‐O, affording a more planar and rigid molecular configuration in opg2T‐Se. Meanwhile, opg2T‐Se exhibits closer π – π stacking and lamellar‐packing and prefers an edge‐on orientation. Consequently, a record‐high geometry‐normalized transconductance ( g m,n ) of 415 S cm −1 , along with remarkable hole mobility ( µ = 2.99 cm 2 V −1 s −1 ) and volumetric capacitance ( C * = 423.3 F cm −3 ) are achieved in opg2T‐Se based OECTs. Importantly, the opg2T‐Se‐based devices exhibits much higher signal fidelity in in‐vitro human electrocardiogram (ECG) than the other two devices. This study highlights the importance of intramolecular noncovalent interaction in the channel layer materials for achieving high‐performance OECTs.
-
----
-
-### 16. [An Iontronic Multiplexer Based on Spatiotemporal Dynamics of Multiterminal Organic Electrochemical Transistors](https://doi.org/10.1002/adfm.202011013)
-
-**Authors:** Dimitrios A. Koutsouras, Morteza Hassanpour Amiri, Paul W. M. Blom, Fabrizio Torricelli, Kamal Asadi, Paschalis Gkoupidenis  
-**Venue/category:** Advanced Functional Materials  
-**Date:** 2021-03-24  
-**DOI:** `10.1002/adfm.202011013`  
-**Source(s):** Crossref  
-**Keyword score:** 70  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, iontronic, electrochemical transistor  
-
-**Abstract**
-
-Abstract The seamless integration of electronics with biology requires new bio‐inspired approaches that, analogously to nature, rely on the presence of electrolytes for signal multiplexing. On the contrary, conventional multiplexing schemes mostly rely on electronic carriers and require peripheral circuitry for their implementation, which imposes severe limitations toward their adoption in bio‐applications. Here, a bio‐inspired iontronic multiplexer based on spatiotemporal dynamics of organic electrochemical transistors (OECTs), with an electrolyte as the shared medium of communication, is shown. The iontronic system discriminates locally random‐access events with no need of peripheral circuitry or address assignment, thus deceasing significantly the integration complexity. The form factors of OECTs that allow for intimate biointerfacing as well as the electrochemical nature of the communication medium, open new avenues for unconventional multiplexing in the emerging fields of bioelectronics, wearables, and neuromorphic computing or sensing.
-
----
-
-### 17. [Stretchable Redox‐Active Semiconducting Polymers for High‐Performance Organic Electrochemical Transistors](https://doi.org/10.1002/adma.202201178)
-
-**Authors:** Yahao Dai, Shilei Dai, Nan Li, Yang Li, Maximilian Moser, Joseph Strzalka, Aleksander Prominski, Youdi Liu, Qingteng Zhang, Songsong Li, Huawei Hu, Wei Liu et al.  
-**Venue/category:** Advanced Materials  
-**Date:** 2022-05-02  
-**DOI:** `10.1002/adma.202201178`  
-**Source(s):** Crossref  
-**Keyword score:** 68  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, conducting polymer, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electrochemical transistors (OECTs) represent an emerging device platform for next‐generation bioelectronics owing to the uniquely high amplification and sensitivity to biological signals. For achieving seamless tissue–electronics interfaces for accurate signal acquisition, skin‐like softness and stretchability are essential requirements, but they have not yet been imparted onto high‐performance OECTs, largely due to the lack of stretchable redox‐active semiconducting polymers. Here, a stretchable semiconductor is reported for OECT devices, namely poly(2‐(3,3′‐bis(2‐(2‐(2‐methoxyethoxy)ethoxy)ethoxy)‐[2,2′‐bithiophen]‐5)yl thiophene) (p(g2T‐T)), which gives exceptional stretchability over 200% strain and 5000 repeated stretching cycles, together with OECT performance on par with the state‐of‐the‐art. Validated by systematic characterizations and comparisons of different polymers, the key design features of this polymer that enable the combination of high stretchability and high OECT performance are a nonlinear backbone architecture, a moderate side‐chain density, and a sufficiently high molecular weight. Using this highly stretchable polymer semiconductor, an intrinsically stretchable OECT is fabricated with high normalized transconductance (≈223 S cm −1 ) and biaxial stretchability up to 100% strain. Furthermore, on‐skin electrocardiogram (ECG) recording is demonstrated, which combines built‐in amplification and unprecedented skin conformability.
-
----
-
-### 18. [Organic Electrochemical Transistors in Tissue‐Interfaced Bioelectronics](https://doi.org/10.1002/advs.202513422)
-
-**Authors:** Ruixiang Bai, Zeyu Zhao, Feng Yan  
-**Venue/category:** Advanced Science  
-**Date:** 2025-12-07  
-**DOI:** `10.1002/advs.202513422`  
-**Source(s):** Crossref  
-**Keyword score:** 67  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electrochemical transistors (OECTs) have attracted considerable attention in the field of tissue‐interfaced bioelectronics. They uniquely bridge the ionic and electronic domains while offering mechanical compliance, biocompatibility, and high signal amplification. These characteristics make them especially advantageous for applications requiring stable, long‐term integration with soft, deformable, and dynamic biological tissues. This review provides a comprehensive summary of recent progress in the design, fabrication, and application of OECTs for biological integration. It begins by outlining the fundamental working mechanisms of OECTs and their advantages in transducing biological signals. Key strategies to enhance bio‐tissue interfacing are discussed, including molecular functionalization, interface orientation control, and mechanical matching. The review also covers developments in OECT‐based systems for skin‐mounted and implantable applications, with a focus on maintaining stability and responsiveness under dynamic physiological conditions. Particular attention is given to approaches that improve biocompatibility, reduce foreign body response, and enable minimally invasive operation in vivo. Finally, the article outlines key remaining challenges and suggests future directions to explore in this area.
-
----
-
-### 19. [Thin film organic electrochemical transistors based on hybrid PANI/PEDOT:PSS active layers for enhanced pH sensing](https://doi.org/10.1016/j.biosx.2021.100065)
-
-**Authors:** Silvia Demuru, Brince Paul Kunnel, Danick Briand  
-**Venue/category:** Biosensors and Bioelectronics: X  
-**Date:** 2021-05-01  
-**DOI:** `10.1016/j.biosx.2021.100065`  
-**Source(s):** Crossref  
-**Keyword score:** 63  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, pedot:pss, electrochemical transistor, biosensor  
-
----
-
-### 20. [Textile Organic Electrochemical Transistors as a Platform for Wearable Biosensors](https://doi.org/10.1038/srep33637)
-
-**Authors:** I. Gualandi, M. Marzocchi, A. Achilli, D. Cavedale, A. Bonfiglio, B. Fraboni  
-**Venue/category:** Scientific Reports  
-**Date:** 2016-09-26  
-**DOI:** `10.1038/srep33637`  
-**Source(s):** Crossref  
-**Keyword score:** 61  
-**Matched:** organic electrochemical transistor, organic electrochemical transistors, oect, conductive polymer, pedot:pss, electrochemical transistor, biosensor  
-
-**Abstract**
-
-Abstract The development of wearable chemical sensors is receiving a great deal of attention in view of non-invasive and continuous monitoring of physiological parameters in healthcare applications. This paper describes the development of a fully textile, wearable chemical sensor based on an organic electrochemical transistor (OECT) entirely made of conductive polymer (PEDOT:PSS). The active polymer patterns are deposited into the fabric by screen printing processes, thus allowing the device to actually “disappear” into it. We demonstrate the reliability of the proposed textile OECTs as a platform for developing chemical sensors capable to detect in real-time various redox active molecules (adrenaline, dopamine and ascorbic acid), by assessing their performance in two different experimental contexts: i) ideal operation conditions (i.e. totally dipped in an electrolyte solution); ii) real-life operation conditions (i.e. by sequentially adding few drops of electrolyte solution onto only one side of the textile sensor). The OECTs response has also been measured in artificial sweat, assessing how these sensors can be reliably used for the detection of biomarkers in body fluids. Finally, the very low operating potentials ( −4 W) make the here described textile OECTs very appealing for portable and wearable applications.
-
----
-
-### 21. [High-loading homogeneous crosslinking enabled ultra-stable vertical organic electrochemical transistors for implantable neural interfaces](https://doi.org/10.1016/j.nanoen.2024.110062)
-
-**Authors:** Lin Gao, Qiang Zhang, Yueping Lai, Miao Xie, Changjian Liu, Dayong Zhang, Yujie Peng, Libing Bai, Mengge Wu, Liang-Wen Feng, Wei Huang, Junsheng Yu et al.  
-**Venue/category:** Nano Energy  
-**Date:** 2024-10-01  
-**DOI:** `10.1016/j.nanoen.2024.110062`  
-**Source(s):** Crossref  
-**Keyword score:** 60  
-**Matched:** neural interface, neural interfaces, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
----
-
-### 22. [Fully Stretchable Ionically Tunable Organic Electrochemical Transistors for Wearable Adaptive Logic Bioelectronics](https://doi.org/10.1021/acsnano.6c05309)
-
-**Authors:** Heena Kim, Taeheon Kim, Yunsu Kim, Huijeong Lee, Hyunseok Shim  
-**Venue/category:** ACS Nano  
-**Date:** 2026-06-24  
-**DOI:** `10.1021/acsnano.6c05309`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
----
-
-### 23. [High-Performance All-Printed Vertical Step Organic Electrochemical Transistors for Flexible Bioelectronics and Logic Circuit Integration](https://doi.org/10.1021/acsaelm.5c02385)
-
-**Authors:** Yingjun Chen, Cindy G. Tang, Zhongliang Zhou, Ran Li, Zheng Liu, Ting Li, Wei Lin Leong  
-**Venue/category:** ACS Applied Electronic Materials  
-**Date:** 2026-02-23  
-**DOI:** `10.1021/acsaelm.5c02385`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
----
-
-### 24. [Interface engineering in organic electrochemical transistors toward multifunctional bioelectronics](https://doi.org/10.1039/d6mh00662k)
-
-**Authors:** Guo Liu, Siyu Di, Lianrui Cheng, Lianhong Shan, Xuefeng Zhang, Runjie Zhang, Deliu Zeng, Zerui Yu, Xinyue Hu, Xiaofang Wei, Fengjiao Zhang  
-**Venue/category:** Materials Horizons  
-**Date:** 2026-01-01  
-**DOI:** `10.1039/d6mh00662k`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
-**Abstract**
-
-This review shows how interface engineering in organic electrochemical transistors governs ion transport and biocompatibility, enabling advanced bioelectronics and outlining key strategies and challenges.
-
----
-
-### 25. [Fiber-based organic electrochemical transistors for re-shaping bioelectronics: integration on and in textiles](https://doi.org/10.1038/s41528-025-00488-3)
-
-**Authors:** Youngkwang Shin, Young Jin Jo, Yeong-sinn Ye, Kyungmin Kim, Sungbin Choi, Young Gil Kim, Tae-il Kim  
-**Venue/category:** npj Flexible Electronics  
-**Date:** 2025-11-11  
-**DOI:** `10.1038/s41528-025-00488-3`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
----
-
-### 26. [Flexible organic electrochemical transistors for bioelectronics](https://doi.org/10.1016/j.xcrp.2023.101673)
-
-**Authors:** Zeyu Zhao, Zhiyuan Tian, Feng Yan  
-**Venue/category:** Cell Reports Physical Science  
-**Date:** 2023-11-01  
-**DOI:** `10.1016/j.xcrp.2023.101673`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
----
-
-### 27. [Integrated internal ion-gated organic electrochemical transistors for stand-alone conformable bioelectronics](https://doi.org/10.1038/s41563-023-01599-w)
-
-**Authors:** Claudia Cea, Zifang Zhao, Duncan J. Wisniewski, George D. Spyropoulos, Anastasios Polyravas, Jennifer N. Gelinas, Dion Khodagholy  
-**Venue/category:** Nature Materials  
-**Date:** 2023-07-10  
-**DOI:** `10.1038/s41563-023-01599-w`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
-
-**Abstract**
-
-Abstract Organic electronics can be biocompatible and conformable, enhancing the ability to interface with tissue. However, the limitations of speed and integration have, thus far, necessitated reliance on silicon-based technologies for advanced processing, data transmission and device powering. Here we create a stand-alone, conformable, fully organic bioelectronic device capable of realizing these functions. This device, vertical internal ion-gated organic electrochemical transistor (vIGT), is based on a transistor architecture that incorporates a vertical channel and a miniaturized hydration access conduit to enable megahertz-signal-range operation within densely packed integrated arrays in the absence of crosstalk. These transistors demonstrated long-term stability in physiologic media, and were used to generate high-performance integrated circuits. We leveraged the high-speed and low-voltage operation of vertical internal ion-gated organic electrochemical transistors to develop alternating-current-powered conformable circuitry to acquire and wirelessly communicate signals. The resultant stand-alone device was implanted in freely moving rodents to acquire, process and transmit neurophysiologic brain signals. Such fully organic devices have the potential to expand the utility and accessibility of bioelectronics to a wide range of clinical and societal applications.
-
----
-
-### 28. [Organic electrochemical transistors in bioelectronic circuits](https://doi.org/10.1016/j.bios.2021.113461)
-
-**Authors:** Reem B. Rashid, Xudong Ji, Jonathan Rivnay  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2021-10-01  
-**DOI:** `10.1016/j.bios.2021.113461`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor, biosensor  
-
----
-
-### 29. [Integrated Ionic‐Additive Assisted Wet‐Spinning of Highly Conductive and Stretchable PEDOT:PSS Fiber for Fibrous Organic Electrochemical Transistors](https://doi.org/10.1002/aelm.202100231)
-
-**Authors:** Yanping Chen, Jie Meng, Yiman Xu, Yaogang Li, Qinghong Zhang, Chengyi Hou, Hengda Sun, Gang Wang, Hongzhi Wang  
-**Venue/category:** Advanced Electronic Materials  
-**Date:** 2021-06-06  
-**DOI:** `10.1002/aelm.202100231`  
-**Source(s):** Crossref  
-**Keyword score:** 59  
-**Matched:** organic electrochemical transistor, organic electrochemical transistors, oect, conductive polymer, pedot:pss, electrochemical transistor  
-
-**Abstract**
-
-Abstract As one of the most prevalently used conductive polymers, poly(3,4‐ethylenedioxythiophene):poly(styrene sulfonate) (PEDOT:PSS) has been studied for many years. Recently, especially with the development of smart clothing and wearable devices, PEDOT:PSS fiber is becoming the focus of researchers. However, the undesirable conductivity and stretchability hinder its applications. In this work, an integrated ionic‐additive assisted wet‐spinning strategy (IIAWS) is demonstrated to address the existing bottlenecks. The fabricated fiber exhibited an extremely high conductivity of 3573 S cm −1 and stretchability of about 30%. The mechanisms for conductivity enhancement in the entire preparation process are systematically studied and clarified. Furthermore, an all‐solid‐state fibrous organic electrochemical transistor (OECT) device based on the PEDOT:PSS fiber is fabricated with a transconductance of 2.44 mS and impressive bending property.
-
----
-
-### 30. [3D Printing of Robust High‐Performance Conducting Polymer Hydrogel‐Based Electrical Bioadhesive Interface for Soft Bioelectronics](https://doi.org/10.1002/smll.202308778)
-
-**Authors:** Jiawen Yu, Rongtai Wan, Fajuan Tian, Jie Cao, Wen Wang, Qi Liu, Hanjun Yang, Jingcheng Liu, Ximei Liu, Tao Lin, Jingkun Xu, Baoyang Lu  
-**Venue/category:** Small  
-**Date:** 2023-12-08  
-**DOI:** `10.1002/smll.202308778`  
-**Source(s):** Crossref  
-**Keyword score:** 58  
-**Matched:** bioelectronics, bioelectronic, soft bioelectronics, neural interface, neural interfaces, conducting polymer, pedot:pss  
-
-**Abstract**
-
-Abstract Electrical bioadhesive interface (EBI), especially conducting polymer hydrogel (CPH)‐based EBI, exhibits promising potential applications in various fields, including biomedical devices, neural interfaces, and wearable devices. However, current fabrication techniques of CPH‐based EBI mostly focus on conventional methods such as direct casting, injection, and molding, which remains a lingering challenge for further pushing them toward customized practical bioelectronic applications and commercialization. Herein, 3D printable high‐performance CPH‐based EBI precursor inks are developed through composite engineering of PEDOT:PSS and adhesive ionic macromolecular dopants within tough hydrogel matrices (PVA). Such inks allow the facile fabrication of high‐resolution and programmable patterned EBI through 3D printing. Upon successive freeze‐thawing, the as‐printed PEDOT:PSS‐based EBI simultaneously exhibits high conductivity of 1.2 S m −1 , low interfacial impedance of 20 Ω, high stretchability of 349%, superior toughness of 109 kJ m −3 , and satisfactory adhesion to various materials. Enabled by these advantageous properties and excellent printability, the facile and continuous manufacturing of EBI‐based skin electrodes is further demonstrated via 3D printing, and the fabricated electrodes display excellent ECG and EMG signal recording capability superior to commercial products. This work may provide a new avenue for rational design and fabrication of next‐generation EBI for soft bioelectronics, further advancing seamless human‐machine integration.
-
----
-
-### 31. [Functionalization of the channel material of OECTs for ion dependent behavior](https://doi.org/10.1117/12.3113874)
-
-**Authors:** Laure V. Kayser  
-**Venue/category:** Organic and Hybrid Sensors, Detectors, and Bioelectronics XIX  
-**Date:** 2026-10-08  
-**DOI:** `10.1117/12.3113874`  
-**Source(s):** Crossref  
-**Keyword score:** 57  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, pedot:pss, electrochemical transistor  
-
-**Abstract**
-
-Organic electrochemical transistors (OECTs) have emerged as a powerful class of hybrid devices for sensing a wide range of analytes present in low concentration in aqueous media. Most OECT devices rely on either gate functionalization or the use of membranes placed between the channel and gate electrode to achieve specific analyte detection. Instead, our group focuses on functionalization of the channel material by employing new chemistry and functionalization methods. I will present two recent studies from my group. The first involves functionalization with crown ether polymers of poly(benzimidazobenzophenanthroline) (BBL) films for cation-dependent behavior in n-type OECTs. In the second study, we focused on p-type materials, particularly the functionalization of PEDOT:PSS with antibodies for the detection of Alzheimer's disease biomarkers.
-
----
-
-### 32. [Nanostructure-gated organic electrochemical transistors for accurate glucose monitoring in dynamic biological pH conditions](https://doi.org/10.1016/j.bios.2025.117677)
-
-**Authors:** Ke Meng, Jia Zhu, Tianyao Zhang, Xianzhe Zhang, Yingying Zhang, Xiangjie Chen, Fan Li, Yao Tong, Senhao Zhang, Donghai Qiu, Hongbo Yang, Shangbin Liu et al.  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2025-11-01  
-**DOI:** `10.1016/j.bios.2025.117677`  
-**Source(s):** Crossref  
-**Keyword score:** 56  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor, biosensor  
-
----
-
-### 33. [Engineering 3D microtip gates of all-polymer organic electrochemical transistors for rapid femtomolar nucleic-acid-based saliva testing](https://doi.org/10.1016/j.bios.2025.117170)
-
-**Authors:** Xingyu Meng, Zhenkai Yi, Xuanxuan Liu, Yaoyao Wu, Chuyao Fang, Zhaolin Ge, Yifei He, Sina Li, Xi Xie, Limei Zhang, Zhuang Xie  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2025-04-01  
-**DOI:** `10.1016/j.bios.2025.117170`  
-**Source(s):** Crossref  
-**Keyword score:** 56  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor, biosensor  
-
----
-
-### 34. [Highly sensitive detection of malaria biomarker through matching channel and gate capacitance of integrated organic electrochemical transistors](https://doi.org/10.1016/j.bios.2023.115712)
-
-**Authors:** Yuanying Liang, Gabriela Figueroa-Miranda, Julian Alexander Tanner, Fei Huang, Andreas Offenhäusser, Dirk Mayer  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2023-12-01  
-**DOI:** `10.1016/j.bios.2023.115712`  
-**Source(s):** Crossref  
-**Keyword score:** 56  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor, biosensor  
-
----
-
-### 35. [The woven fiber organic electrochemical transistors based on polypyrrole nanowires/reduced graphene oxide composites for glucose sensing](https://doi.org/10.1016/j.bios.2017.04.018)
-
-**Authors:** Yuedan Wang, Xing Qing, Quan Zhou, Yang Zhang, Qiongzhen Liu, Ke Liu, Wenwen Wang, Mufang Li, Zhentan Lu, Yuanli Chen, Dong Wang  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2017-09-01  
-**DOI:** `10.1016/j.bios.2017.04.018`  
-**Source(s):** Crossref  
-**Keyword score:** 56  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor, biosensor  
-
----
-
-### 36. [Neuromorphic memory effect in aerosol-jet-printed thick-PEDOT:PSS organic electrochemical transistors](https://www.semanticscholar.org/paper/382eb0abb4612e6036964432495042099bcc346e)
+### 5. [Neuromorphic memory effect in aerosol-jet-printed thick-PEDOT:PSS organic electrochemical transistors](https://www.semanticscholar.org/paper/382eb0abb4612e6036964432495042099bcc346e)
 
 **Authors:** C. Pérez-Wences, J. A. Ávila-Niño, E. Araujo-Palomo, Francisco Javier Ibarra-Villegas  
 **Venue/category:** Physica Scripta  
@@ -531,7 +79,363 @@ Organic electrochemical transistors (OECTs) have emerged as a powerful class of 
 
 **Abstract**
 
-Organic electrochemical transistors (OECTs) based on poly(3,4ethylenedioxythiophene) doped with poly (styrene sulfonate) (PEDOT:PSS) semiconductor have emerged as promising candidates for neuromorphic devices due t
+Organic electrochemical transistors (OECTs) based on poly(3,4ethylenedioxythiophene) doped with poly (styrene sulfonate) (PEDOT:PSS) semiconductor have emerged as promising candidates for neuromorphic devices due to their mixed ionic-electronic transport of this polymer and their ability to emulate biological synaptic behavior. In this work, we report on the fabrication and characterization of flexible thick-film PEDOT:PSS OECTs produced by Aerosol Jet Printing (AJP) to explore the relationships among drain bias and memory performance in thick PEDOT:PSS channels. We found that these devices exhibited both short-term and longterm memory dynamics, depending on the applied gate-pulse number and pulse duration. We found that thick PEDOT:PSS channels displayed enhanced hysteresis in transfer curves, consistent with a larger ionic reservoir that allows prolonged charge trapping and a slower dedoping. A systematic study of the drain voltage (V D ) revealed that higher |Vᴅ| values enhance the memory level by increasing both the current modulation and transconductance, as a larger fraction of the PEDOT:PSS channel participates in the electrochemical redox process, despite a memory window shows a non-monotonic behavior.Instead of relying exclusively on the conventional voltage memory window, an analysis of the effective memory window, which was defined as the enclosed area of the forward and backward transfer characteristics, was proposed to evaluate the effective ionic memory behavior of the OECTs, finding a linear trend with respect to V D . These findings highlight the effect of drain bias in thick PEDOT:PSS channels offering design guidelines for future bioinspired, and memory-based printed and flexible organic electronics.
+
+---
+
+### 6. [High-Performance Low Threshold Voltage n-Type OECTs via a Stepwise Cyanation of Quinoxaline-Based Polymeric Semiconductor.](https://www.semanticscholar.org/paper/b1af716d7176cd8b56491efc72551cf29307e59a)
+
+**Authors:** Song-Lin Mo, Guo-Hong Hu, Chao Deng, Y.-Z. Wan, Shao-Dan Cai, Hong-Xiang Li, Liang-Wen Feng, Wei Huang, Jian-Hua Chen  
+**Venue/category:** Advances in Materials  
+**Date:** 2026-10-15  
+**DOI:** `10.1002/adma.75397`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 52  
+**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
+
+**Abstract**
+
+Achieving both low threshold voltage (Vth) and high performance in organic electrochemical transistors (OECTs) is critical for low-power, high-sensitivity bioelectronics, yet simultaneously achieving low Vth and high device performance remains a long-standing challenge. Herein, we propose a stepwise cyanation strategy to modify quinoxaline-based polymeric semiconductors to mitigate this dilemma. Benefiting from the strong electron-withdrawing ability of cyano substituents, QxCN-CNTVT functionalized with cyano groups on both donor and acceptor units exhibits a deep LUMO level of -4.23 eV, one of the deepest among reported n-type ionic-electronic conductors. As a result, OECTs based on QxCN-CNTVT demonstrate excellent comprehensive performance, with a high µC* value of up to 168.89 F cm-1 V-1 s-1 and a low Vth of 0.13 V, while maintaining superior operational stability (retaining ∼80% of the initial current after 10,000 s of continuous operation and 10,000 full switching cycles). Furthermore, QxCN-CNTVT is successfully applied to complementary inverters for efficient amplification of electrooculogram (EOG) and electrocardiogram (ECG) signals, as well as NAND and NOR logic gates for integrated logic functions. This work not only alleviates the widely observed imbalance between performance and Vth in n-type OECTs but also provides a versatile molecular design strategy for next-generation low-power bioelectronic devices.
+
+---
+
+### 7. [Myelin Sheath-Inspired Fluorocarbon Hydrophobic Bridges for Stable n-Type Organic Mixed Ionic–Electronic Conductors](https://www.semanticscholar.org/paper/bfc23d030df412024dd709ebe15ed72c765dac7f)
+
+**Authors:** Wang Feng, Shao-Dan Cai, Chao Deng, Bei Zhang, Meng-Ge Wu, Jian-Hua Chen, A. Facchetti  
+**Venue/category:** Journal of the American Chemical Society  
+**Date:** 2026-10-09  
+**DOI:** `10.1021/jacs.6c12196`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 50  
+**Matched:** bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, omiec, electrochemical transistor  
+
+**Abstract**
+
+Operationally stable n-type organic mixed ionic–electronic conductors (OMIECs) remain a critical bottleneck for organic electrochemical transistors (OECTs) for application in bioelectronic and neuromorphic devices. However, several state-of-the-art n-type OMIECs suffer from performance decay and poor stability when operated in aqueous media. Inspired by myelin sheaths, we challenge the conventional “π-backbone + hydrophilic side-chain” design and propose a molecular architecture with fluorocarbon hydrophobic bridges to spatially segregate, at the molecular level, ionic and electronic pathways. By tuning the fluorocarbon bridge chain length in fluorocarbon-ethylene glycol chain substituents [−CH2(CF2)nCH2(OCH2CH2)5OMe = 2nFG; n = 1, 2, 3, 4, 6] of a DPP-CNTVT polymer series (2nFG-P), we balance electron transport, ion exchange, redox chemistry efficiency, and water incorporation. Extensive in situ spectroelectrochemistry, EIS, Raman, EQCM-D, AFM, and GIWAXS characterization reveals that tuning the length of the hydrophobic bridge enables good electron transport, suppresses excessive water incorporation, and enhances stability. Thus, the polymer with a mid-length bridge, 8FG-P (n = 4), achieves the greatest electron transport (μC* ∼ 157 F cm–1 V–1 s–1, μ ∼ 1.22 cm2 V–1 s–1), fastest response (τon/τoff = 2.6/1.5 ms), and retains >90% of the initial performance after 10,000 s of operation in water, a result independent of the polymer molecular weight. This strategy potentially expands OMIECs design principles and offers useful insights toward stable n-type OECT semiconductors.
+
+---
+
+### 8. [Scalable Ion‐Electron Coupled Poly(Benzodifurandione) Inks Enabling Biosignal Amplification and Neuromorphic Memory](https://www.semanticscholar.org/paper/827b0a6a740bd08c09162b4e841bd80cf6af449a)
+
+**Authors:** Ying-Jun Chen, M. Stephen, Qiang He, Hao-Nan Sun, Wei Lin Leong  
+**Venue/category:** Advanced Materials & Technologies  
+**Date:** 2026-10-10  
+**DOI:** `10.1002/admt.71400`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 49  
+**Matched:** bioelectronic, bioelectronic interface, organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
+
+**Abstract**
+
+Printed organic electrochemical transistors (OECTs) are promising for next‐generation biosensing and neuromorphic computing, owing to their high transconductance, low operating voltage, mechanical flexibility, and efficient volumetric ionic–electronic coupling. Yet, printable n ‐type OECTs have lagged their p ‐type counterparts due to limited stability and poor printability. The key challenge lies in achieving high electronic conductivity, efficient ionic accessibility, and rheological properties compatible with scalable printing. To address this, we developed a screen‐printable, air‐stable, n ‐type OECT channel by blending high‐conductivity poly(benzodifurandione) (PBFDO) with poly(ethylene oxide) (PEO). Devices fabricated using 5wt.% PEO blend and a gelatin‐based electrolyte exhibited tunable transient responses (turn‐on time; 9.6 to 419 ms, turn‐off time; 4.3 ms to 17.8 ms), stable operation (92.4% ON current retained over 1,000 cycles), and high uniformity across 50 devices (I ds, ON = 2.47 ± 0.29 mA and transconductance g m = 3.55 ± 0.57 mS). PEO transforms low‐viscosity PBFDO solutions into shear‐thinning pastes suitable for screen printing, while enhancing film wettability and electrolyte infiltration. This dual role promotes efficient ion penetration and improves printability, enabling devices with improved transient speeds and rheological properties optimized for scalable fabrication. By controlling channel thickness, thin devices enable electrocardiogram signal acquisition while thick devices act as artificial synapses, highlighting PBFDO‐based inks as versatile platforms for integrated bioelectronic interfaces.
+
+---
+
+### 9. [Hydrogel-Gated Organic Electrochemical Transistors for Wearable and Portable Direct Detection of Aerosol-Borne Viral Antigens](https://www.semanticscholar.org/paper/c3bac673192d56aa0d21578a6786fafbbb53acce)
+
+**Authors:** Hai-Yang Yu, Yu-Han Lu, Bi-Han Guo, Jia-Meng Wang, Ya Zhang, Bing-Fang Wang, Qiu-Yu Yang, Lan Shen, Mengtian Shan, Fei-Long Wang, Dai-Zong Ji, Yin Fang  
+**Venue/category:** Gels  
+**Date:** 2026-10-12  
+**DOI:** `10.3390/gels12100916`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 48  
+**Matched:** organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor  
+
+**Abstract**
+
+Direct detection of viral antigens in respiratory aerosols is challenging because affinity-based organic electrochemical transistors (OECTs) typically rely on liquid samples. Here, a non-flowing agarose hydrogel replaced the liquid electrolyte to capture aerosols, conduct ions, and support target transport. Before OECT readout, a separate 1-min ring-electrode field-assistance step was applied to facilitate target delivery to the aptamer-functionalized gate. Under the optimized conditions, the device achieved a solution-phase concentration-based limit of detection (LoD) of 1.27 fM and a sample-to-result time of 17 min. The approach was implemented in face-mask and handheld formats with a portable wireless readout system. In nebulization-based tests using SARS-CoV-2 spike protein, the LoDs expressed in terms of the concentrations of the nebulizer source solutions were 6.89 pM and 1.19 pM for the face-mask and handheld configurations, respectively. These results demonstrate that hydrogel-mediated aerosol capture and ionic coupling, ring-electrode field assistance, and OECT transduction can be integrated to enable direct electrical detection of aerosol-borne viral antigens, supporting further development of wearable and portable respiratory screening systems.
+
+---
+
+### 10. [Multichannel, Portable and Low-Cost Source Measure Unit Platform for the Continuous Characterization of Organic Electrochemical Transistor Biosensors](https://www.semanticscholar.org/paper/cb71a32bdb5258bc246360eb3f5fe780cf76e3eb)
+
+**Authors:** M. Campanini, Lorenzo Vigna, D. Vurro, P. D'Angelo, Martina Cicolini, S. Marasso, M. Cocuzza, A. Ballesio  
+**Venue/category:** Italian National Conference on Sensors  
+**Date:** 2026-10-15  
+**DOI:** `10.3390/s26206526`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 47  
+**Matched:** organic electrochemical transistor, organic electrochemical transistors, oect, electrochemical transistor, biosensor  
+
+**Abstract**
+
+Organic Electrochemical Transistors (OECTs) have emerged as continuous monitoring sensors for in vitro models. Source Measure Units (SMUs) are typical instruments used to simultaneously control input and output signals in OECTs. Conventional SMUs are unsuitable for in vitro applications due to their limited channel count, large footprint and high cost. This work presents the design and development of a multichannel, portable and cost-effective SMU platform for the continuous and long-term characterization of OECT biosensors. The hardware is based on a breadboard interfacing via custom connections to a six-OECT setup integrated into a standard culture plate and operated within a cell incubator. System functionality is managed by an Arduino Nano microcontroller (Arduino, Monza, Italy) through custom-developed software, enabling automated characterization of the OECTs. Platform performance was evaluated by comparing OECT I–V characteristics and time responses against the commercial B2912A SMU (Keysight Technologies, Santa Rosa, CA, USA), using phosphate-buffered saline (PBS) to mimic biological samples. Long-term continuous operation was verified through a 5 day recording session with a 30 min sampling interval. Experimental results demonstrated consistent functionality with satisfactory accuracy for the targeted application. The proposed platform is a promising alternative to conventional SMUs for the continuous and long-term monitoring of OECT biosensors. Future work will focus on hardware optimization and full biological validation through OECT-based monitoring of in vitro models.
+
+---
+
+### 11. [Cognitive Materials Engineering for Bioelectricity and Bioelectronics: Research and Applications](https://www.semanticscholar.org/paper/86a7de35d7b74a31df4fbdf522ce821cfc38a22d)
+
+**Authors:** Massimo Mariello, M. Djamgoz  
+**Venue/category:** Bioelectricity  
+**Date:** 2026-10-12  
+**DOI:** `10.1177/25763113261496183`  
+**Source(s):** Crossref, Semantic Scholar  
+**Keyword score:** 44  
+**Matched:** bioelectronics, bioelectronic, bioelectronic interface, neural interface, neural interfaces, biosensor  
+
+**Abstract**
+
+Cognitive materials engineering represents an emerging paradigm in which artificial intelligence (AI) is incorporated directly into the design, selection, and operation of bioelectrical and bioelectronic materials. Rather than relying on static material properties or fixed stimulation protocols, AI-enabled material systems can adapt their electrical, mechanical, and chemical characteristics in response to dynamic biological states. This perspective examines how machine learning, deep learning, reinforcement learning, and neuromorphic approaches can guide material chemistry, scaffold assembly, and real-time functional tuning in bioelectronic interfaces. Focusing on neural interfaces, cancer bioelectricity, wearable biosensors, and tissue engineering, we outline how adaptive materials and predictive models may enable next-generation bioelectronic platforms that learn from biological feedback and coevolve with living tissues.
+
+---
+
+### 12. [Biodegradable Capacitive-Coupling Bioelectronics for Wireless Electrical Stimulation and Longitudinal Electrophysiological Monitoring of Peripheral Nerve Regeneration.](https://www.semanticscholar.org/paper/6d7f39d50861b4c7026002cd2085d78050ae4899)
+
+**Authors:** Yun-Jie Jin, Ren-Yuan Sun, Wen-Liang Liu, Xian-Zhen Dong, Yi-Ru Yang, Shi-Cong Chen, Chun-Lin Wen, Kun Yang, Wei-Lin Xu, Chao Xu, Zhi-Qiang Luo, Hong-Jun Yang  
+**Venue/category:** Advances in Materials  
+**Date:** 2026-10-21  
+**DOI:** `10.1002/adma.75437`  
+**Source(s):** Crossref, Semantic Scholar  
+**Keyword score:** 43  
+**Matched:** bioelectronics, bioelectronic, implantable bioelectronics, electrophysiology, electrophysiological, peripheral nerve  
+
+**Abstract**
+
+ABSTRACT Electrical stimulation accelerates peripheral nerve regeneration, yet current strategies are limited by wired interfaces, percutaneous leads, nondegradable components, and poor capacity for dynamic functional monitoring within the same subject. Here, we report biodegradable capacitive‐coupling bioelectronics (CCB), an implantable platform integrating wireless electrical stimulation, regenerative guidance, and longitudinal electrophysiological monitoring. The CCB comprises biodegradable molybdenum electrodes, Mo‐wire interconnects, and a textile‐reinforced electroactive bioelectronic nerve guidance conduit (Bio‐NGC). Capacitive coupling between external and implanted electrodes enables battery‐free wireless delivery of electrical cues to regenerating nerves, while the same architecture allows repeated recording of regenerated compound nerve action potentials (CNAPs). In a rat sciatic nerve defect model, CCB‐mediated stimulation enhances Schwann cell (SC) activation, mitochondrial bioenergetics, axonal regeneration, remyelination, angiogenesis, and motor recovery, with multiple outcomes approaching those of autograft repair. Mechanistic analyses revealed coordinated neurovascular remodeling, pro‐regenerative immune modulation, calcium‐related signaling, AMPK‐associated energy metabolism, and neurotrophic factor expression. Importantly, CCB‐enabled monitoring captured regeneration trajectories in the same animal without repeated nerve exposure, showing temporal trends consistent with conventional wired electrophysiology. This work establishes a biodegradable therapeutic‐monitoring bioelectronic platform and advances peripheral nerve repair from passive conductive scaffolds toward intelligent implantable bioelectronics.
+
+---
+
+### 13. [Two‐Dimensional Framework Materials as Building Blocks for Next‐Generation Intelligent Biointerfaces](https://www.semanticscholar.org/paper/59e92e3524ebc1c535155f4e9c4e2b6be8350fe6)
+
+**Authors:** Hui-Hui Zhao, Xing-Wen Zhou, Hong-Yun Zhang, Hong-Wei Li, Hai-Bo Huang, Li-Guo Chen, Yong-Xiang Li, Xin-Yi Hu, D. Zhang, Li-Ning Sun, Guan-Yu Chen  
+**Venue/category:** Advanced Functional Materials  
+**Date:** 2026-10-11  
+**DOI:** `10.1002/adfm.78531`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 41  
+**Matched:** bioelectronics, bioelectronic, wearable bioelectronics, biointerface, neural interface, neural interfaces  
+
+**Abstract**
+
+The convergence of neural interfaces, wearable bioelectronics, and human‐machine interaction is driving intelligent biointerfaces capable of sensing and responding to neural, physiological, and biomechanical signals. Realizing this vision demands a substantial advance in sensing and actuation hardware, which remains constrained by trade‐offs in conventional bulk materials. This review proposes that two‐dimensional framework materials, encompassing intrinsic 2D crystals, heterostructures, composites, and low‐dimensional architectures, provide a transformative platform to overcome these barriers. The application scope is organized into five categories: implantable neural interfaces, non‐invasive neural interfaces, physiological sensing, wearable human‐machine interfaces, and soft actuation or haptic feedback. We establish a three‐tier architecture. First, we catalog the requirements of piezoresistive, piezoelectric, capacitive, electromagnetic, electrostatic, and electrothermal sensors and actuators, identifying performance bottlenecks in bulk materials. Second, we trace these ceilings to microscopic origins: continuous electronic density of states, strong dielectric screening, coupled elastic‐thermal phonon transport, and weakly tunable electron‐phonon coupling that lock sensitivity, compliance, energy efficiency, and thermal safety into trade‐offs. Third, we show how quantum confinement, attenuated screening, and broken symmetry in 2D materials decouple these constraints. We conclude by outlining a co‐design strategy integrating heavy‐element doping, symmetry engineering, interfacial design, and coupling phenomena to tailor 2D materials for next‐generation intelligent biointerfaces.
+
+---
+
+### 14. [Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms](https://doi.org/10.1016/j.bios.2026.119323)
+
+**Authors:** Junseok Lee, Yena Lee, Jongwoon Shin, Doohyun J. Lee, Hyosang Yoon, Ju Young Lee, Ki Jun Yu, Mingyu Sang  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.bios.2026.119323`  
+**Source(s):** Crossref  
+**Keyword score:** 37  
+**Matched:** bioelectronics, bioelectronic, stretchable bioelectronics, biosensor  
+
+---
+
+### 15. [A thermally actuated 3D foldable bioelectronic interface for multimodal electrophysiological and cytokine profiling of human spinal cord organoids](https://doi.org/10.1016/j.bios.2026.118950)
+
+**Authors:** Seungjun Lee, Sangmin Han, Hyogeun Shin, Ju-Hyun Lee, Namsun Chou  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2026-11-01  
+**DOI:** `10.1016/j.bios.2026.118950`  
+**Source(s):** Crossref  
+**Keyword score:** 37  
+**Matched:** bioelectronics, bioelectronic, bioelectronic interface, electrophysiological, biosensor  
+
+---
+
+### 16. [Zwitterionic Fluorinated Phosphocholine Block Copolymer Nanoparticles with Aggregation-Induced Emission for Dual-Modality 19F MRI/Fluorescence Bioimaging](https://www.semanticscholar.org/paper/7dc495fab92a31ef44b631b93c3348a9fe18e176)
+
+**Authors:** Wen-Ze Xiao, De-Shuo Wang, Juan Yu, De-Kun Huang, Su-Jing Liu, Jing-Jiang Sun, Jian-Jiang He, Qing-Fu Wang, Ya-Nan Li, Wei Zhao  
+**Venue/category:** Biomacromolecules  
+**Date:** 2026-10-20  
+**DOI:** `10.1021/acs.biomac.6c02043`  
+**Source(s):** Crossref, Semantic Scholar  
+**Keyword score:** 37  
+**Matched:** bioimaging, fluorescence bioimaging, fluorescence imaging, optical imaging  
+
+**Abstract**
+
+Abstract Fluorine-19 magnetic resonance imaging (19F MRI) offers low-background, concentration-responsive imaging but suffers from low sensitivity and short transverse relaxation times. Aggregation-induced emission (AIE) fluorophores provide complementary optical imaging through strong fluorescence upon aggregation. Here, fluorinated amphiphilic block copolymers were prepared by reversible addition−fragmentation chain-transfer (RAFT) polymerization of dimethylaminoethyl methacrylate (DMAEMA) and tetraphenylethylene acrylate (TPEA), followed by phosphocholine fluorination. The resulting PTPE-PFCP nanoparticles self-assembled into core−shell structures with a hydrophobic AIE-active PTPE core and a hydrophilic fluorinated phosphocholine corona. The optimized nanoparticles showed well-resolved 19F signals, with T1 and T2 values of 0.222 and 0.184 s, respectively, and gave readily detectable 19F MRI signals. Fluorescence increased over 6 h, while cell viability remained above 70% at 100 μM, with time-dependent cellular fluorescence consistent with nanoparticle uptake. This work presents a feasible strategy for fluorinated AIE-active copolymers as dual-mode 19F MRI/fluorescence imaging probes.
+
+---
+
+### 17. [Sustainable hydrogel biointerfaces for wearable bioelectronics: From green design to healthcare applications](https://doi.org/10.1016/j.grets.2026.100474)
+
+**Authors:** Youquan Wang, Linfei Luan, Ru Feng, Mi Shi, Lirong Wang, Xueji Zhang  
+**Venue/category:** Green Technologies and Sustainability  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.grets.2026.100474`  
+**Source(s):** Crossref  
+**Keyword score:** 36  
+**Matched:** bioelectronics, bioelectronic, wearable bioelectronics, biointerface  
+
+---
+
+### 18. [Development and Innovative Applications of Tools for Monitoring Neuronal Electrical Activity](https://www.semanticscholar.org/paper/33645809190e3614e3766e210d29bca277b305c1)
+
+**Authors:** Yue-Ya Mu  
+**Venue/category:** Theoretical and Natural Science  
+**Date:** 2026-10-20  
+**DOI:** `10.54254/2753-8818/2026.es38045`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 36  
+**Matched:** bioelectronics, bioelectronic, neural interface, neural interfaces, flexible electrode, brain-computer interface  
+
+**Abstract**
+
+Neuronal electrical activity provides the most direct dynamic readout of excitability, synaptic transmission, circuit coordination, and information processing in the nervous system. Monitoring tools have evolved from intracellular and patch-clamp recordings that resolve ion-channel and membrane currents to high-density extracellular arrays, flexible neural interfaces, optical activity indicators, wireless implants, and artificial intelligence-assisted decoding systems. Each modality captures a different level of neural organization. Patch-clamp recording provides high biophysical precision at the single-cell scale, microelectrode arrays and silicon probes enable population recordings across networks, electroencephalography and functional magnetic resonance imaging support noninvasive human studies, and optical sensors map calcium, voltage, or neurochemical dynamics with cellular or subcellular resolution. Recent advances in ultraflexible electrodes, mesh electronics, genetically encoded indicators, nanomaterials, closed-loop bioelectronics, and machine learning have shifted neural monitoring from episodic measurement toward chronic, multimodal, and intervention-linked systems. This review summarizes traditional and emerging tools for monitoring neuronal electrical activity, analyzes multimodal integration strategies, and discusses applications in disease mechanism research, brain-computer interfaces, neuromodulation, brain-inspired intelligence, and neural engineering. Translation will depend on long-term biocompatibility, stable signal quality, interpretable computational models, and standards that connect device performance with biological validity.
+
+---
+
+### 19. [Autonomous Reconfigurable Modular Conductive Hydrogels for Adaptive and Degradable Bioelectronic Interfaces](https://www.semanticscholar.org/paper/f097b0656d572f61e439159b4c2ed8fcca7117ae)
+
+**Authors:** Matthew K. Burgess, Zofia B. Wolny, Ze-Kun Liu, Karolina Cysewska, Malavika Nair  
+**Venue/category:** Advanced Materials & Technologies  
+**Date:** 2026-10-19  
+**DOI:** `10.1002/admt.71406`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 35  
+**Matched:** bioelectronics, bioelectronic, bioelectronic interface, conductive hydrogel  
+
+**Abstract**
+
+Bioelectronic interfaces are increasingly used in medical devices for tissue stimulation and sensing. Transient bioelectronics seek the same functionality in temporary systems, yet most available materials are nondegradable, stiff, and require surgery or external removal. Achieving tissue‐like softness, smooth injectability, stable mixed conductivity, and reliable short‐term bioresorption within a single biocompatible matrix remains challenging. Here, we decouple injectability from bulk conductive performance using a modular reconfiguration strategy. High‐filler‐content hydrogels are converted into lyophilized modules that can be resuspended, injected through a standard syringe, and then autonomously reassemble in situ into a cohesive conductive network, recovering 90% of conductivity after freeze–drying, fragmentation, and reconfiguration. The platform uses a fully degradable tannic‐acid‐crosslinked poly(vinyl alcohol) matrix with molybdenum and molybdenum trioxide nanoparticles as co‐functional fillers. Mixed ionic/electronic conduction arises from redox‐active tannic acid–Mo(VI) complexes (ionic transport) and semi‐percolated Mo nanoparticles (electron hopping). The optimized formulation matches extracellular‐matrix mechanics (Young's modulus 0.03 MPa; failure strain 998%) and fully degrades within 120 h under simulated physiological conditions. In a human skin explant wound model, conformal integration enables charge transfer, reaching 0.02 A at across a 1 cm defect.
+
+---
+
+### 20. [Prepressed Liquid Metal Fabric with Strain-Insensitive Conductance for Wearable Bioelectronics](https://doi.org/10.1021/acsami.6c15065)
+
+**Authors:** Mengying Luo, Jing Tang, Jiale Zhao, Ke Chen, Leran Liu, Weibing Zhong, Kangqi Chang, Kangyu Jia, Mufang Li, Dong Wang  
+**Venue/category:** ACS Applied Materials & Interfaces  
+**Date:** 2026-10-23  
+**DOI:** `10.1021/acsami.6c15065`  
+**Source(s):** Crossref  
+**Keyword score:** 34  
+**Matched:** bioelectronics, bioelectronic, wearable bioelectronics, pedot:pss  
+
+**Abstract**
+
+Abstract The development of flexible conductors with high electrical conductivity, flexibility, and electromechanical stability is important for reliable signal transmission in wearable electronics. Here, we report a patternable liquid metal (LM) fabric with strain-insensitive performance, fabricated using a highly elastic knitted fabric (KF) as the substrate and a gallium-based liquid metal as the conductive coating. A patterned poly(3,4-ethylenedioxythiophene)(styrene sulfonate) (PEDOT:PSS) intermediate layer was introduced to enhance the interfacial adhesion and facilitate the selective deposition of LM on the textile substrate. In addition, pre‑oxidation of the LM followed by a prepressing treatment further promotes the permeation of liquid metal into the knitted fabric, thereby improving the stability of electrical conductivity. Benefiting from the pore structure of the fabric and the strong interfacial combination of liquid metal and PEDOT:PSS, this composite fabric achieves a strain capacity of 200% with low resistance variations, and the resistance change rates are 18.6% for longitudinal stretching, 20.4% for 45° diagonal stretching, and 24.8% for transverse stretching. When stretched by 100% along three distinct directions (transverse, longitudinal, and 45°), the resistance change rate remains below 5% in all cases, demonstrating excellent multidirectional strain-insensitive conductivity. Moreover, after 1000 cyclic stretching cycles under a 30% strain, the resistance fluctuation still stays within 3%. The resulting fabric exhibited excellent conductivity stability when applied to conductors, Joule heating, electrocardiogram (ECG), and near field communication (NFC), demonstrating its potential for next‑generation wearable electronics.
+
+---
+
+### 21. [Advances in Biodegradable Supercapacitors for Implantable Bioelectronics: Materials, Energy Storage, Degradation, and Clinical Translation.](https://www.semanticscholar.org/paper/322134dc4811ddef20e0dcff7340225dcd66b329)
+
+**Authors:** Kundali Yadav, Dhilip Kumar Chinnalagu, Jaya Kumar Ponraj, Aniruddha Kundu, Vinodkumar Etacheri, S. Sahoo  
+**Venue/category:** Small  
+**Date:** 2026-10-15  
+**DOI:** `10.1002/smll.76270`  
+**Source(s):** Crossref, Semantic Scholar  
+**Keyword score:** 34  
+**Matched:** bioelectronics, bioelectronic, implantable bioelectronics, biosensor  
+
+**Abstract**
+
+ABSTRACT The emergence of transient bioelectronics has accelerated the development of biodegradable supercapacitors as promising energy‐storage systems for temporary medical implants, including neural stimulators, cardiac pacemakers, controlled drug delivery devices, and biosensors. Biodegradable supercapacitors can safely resorb after completing their function, eliminating secondary surgical removal and reducing long‐term foreign‐body complications, unlike conventional batteries. This review comprehensively discusses recent advances in degradable supercapacitors, focusing on biocompatible polymers, bioresorbable electrodes, separators, electrolytes, and current collectors. This review critically evaluates the electrochemical performance of biodegradable supercapacitors under physiological conditions, including capacitance retention, cycling stability, and degradation behaviour. Current challenges, such as limited energy density, mechanical instability, precise bioresorption kinetics, and scalability, are discussed. This study addresses key regulatory and safety considerations, including biocompatibility, toxicity, immunogenicity, and pathway approval. Further, outlines strategic future directions: bio‐derived carbon, biologically synthesized conductors, self‐healing hydrogel electrolytes, stimulus‐responsive programmable degradation, and energy‐harvesting integration. Emerging frontiers at the intersection of bioelectronics, neuromorphic computing, and living devices, and advocates for standardized benchmarking and circular‐economy integration. This comprehensive analysis aims to accelerate the rational design, validation, and clinical translation of degradable supercapacitors toward autonomous, patient‐friendly implantable systems.
+
+---
+
+### 22. [Special Issue Editorial: Advanced Science for Tissue‐Interfaced Organic Bioelectronics](https://doi.org/10.1002/advs.78375)
+
+**Authors:** Tae‐il Kim, Shiming Zhang, Simone Fabiano  
+**Venue/category:** Advanced Science  
+**Date:** 2026-10-22  
+**DOI:** `10.1002/advs.78375`  
+**Source(s):** Crossref  
+**Keyword score:** 32  
+**Matched:** bioelectronics, bioelectronic, organic bioelectronics  
+
+---
+
+### 23. [Paintable In Situ Gelling Bioelectronic Interfaces for Epidermal Electrophysiological Monitoring.](https://www.semanticscholar.org/paper/dc2b79e0cdf38dbc313db4047a97542260187c5b)
+
+**Authors:** Long-Chao Huang, Xue-Lan Li, Yun-Shu Yang, Yue Sun, Sheng-Long Wang, Bo-Ling Lan, Guo Tian, Tao Yang, Tian-Pei Xu, Yong Ao, Zhi-Yuan Gao, Jin-Long Sun et al.  
+**Venue/category:** ACS Applied Materials and Interfaces  
+**Date:** 2026-10-15  
+**DOI:** `10.1021/acsami.6c18381`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 32  
+**Matched:** bioelectronic, bioelectronic interface, electrophysiological, e-skin  
+
+**Abstract**
+
+Noninvasive epidermal electrophysiological monitoring is frequently constrained by unstable electrode-skin contact interfaces over soft, textured, and dynamically deforming skin. The predefined geometries of conventional electrodes limit their capacity to conform to local microtopography. Here, we introduce an in situ gelation strategy performed directly on the epidermis to construct a conformal ionic bioelectronic interface. A fluidic precursor comprising gelatin and tannic acid is initially stabilized against premature gelation via competitive solvent-solute interactions. Upon application, solvent evaporation and gelatin reassembly induce rapid network formation. This process directly yields a highly conformal and gently detachable interface with remarkably low contact impedance. The resulting hydrated dynamic network provides mechanical compliance, robust interfacial adhesion, stretch-tolerant ionic conduction, and cooling-induced interfacial weakening that enables gentle removal. The on-skin-gelled interface reduces skin-electrode contact impedance to 30 kΩ at 10 Hz, compared with 191 kΩ for commercial conductive pastes, and increases the signal-to-noise ratio from 24.9 to 27.8 dB. In proof-of-concept demonstrations, the interface supports within-subject electromyography-based gesture recognition with a classification accuracy of 93.4% and electroencephalography recordings of eye-state-dependent α-rhythm modulation as well as short-term sleep-related waveforms. These findings underscore the potential of on-skin in situ gelation as a versatile approach to fabricating paintable ionic bioelectronic interfaces for advanced electrophysiological monitoring.
+
+---
+
+### 24. [A bioelectronic interface for continuous neuroinflammation monitoring and neuromodulation in Parkinson's disease model](https://doi.org/10.1016/j.bios.2026.119137)
+
+**Authors:** Siyi Zou, Jingze Li, Yancong Yu, Yourong Ou, Zhiheng Zhang, Guozhen Liu  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.bios.2026.119137`  
+**Source(s):** Crossref  
+**Keyword score:** 31  
+**Matched:** bioelectronics, bioelectronic, bioelectronic interface, biosensor  
+
+---
+
+### 25. [A phase-matched flexible PVDF ultrasonic transducer for efficiently powering implantable bioelectronics](https://doi.org/10.1016/j.cej.2026.180726)
+
+**Authors:** Jinlong Sun, Boling Lan, Shenglong Wang, Hongguang Li, Tianpei Xu, Longchao Huang, Peiwen Li, Wei Zhao, Yong Ao, Long Jin, Wei Zhu, Weiqing Yang et al.  
+**Venue/category:** Chemical Engineering Journal  
+**Date:** 2026-11-01  
+**DOI:** `10.1016/j.cej.2026.180726`  
+**Source(s):** Crossref  
+**Keyword score:** 31  
+**Matched:** bioelectronics, bioelectronic, implantable bioelectronics  
+
+---
+
+### 26. [Ferroelectric Polymers for Nerve-Adaptive Implantable Bioelectronics: Design Principles and Opportunities](https://www.semanticscholar.org/paper/683281ad050de227fcc3c64cc7eefc1f9637cd14)
+
+**Authors:** Qi-Long Zhao, Ming-Xing Peng, Min Wang, Xue-Min Du  
+**Venue/category:** Polymer Science & Technology  
+**Date:** 2026-10-15  
+**DOI:** `10.1021/polymscitech.6c00145`  
+**Source(s):** Crossref, Semantic Scholar  
+**Keyword score:** 31  
+**Matched:** bioelectronics, bioelectronic, implantable bioelectronics  
+
+---
+
+### 27. [Boosting NIR-II Luminescence via Ca2+-Formed Band Structure Modulation in Lanthanide-Doped Nanoparticles for Deep-Tissue Bioimaging](https://www.semanticscholar.org/paper/75cf17b62666d2904de003476057deb4ea830e62)
+
+**Authors:** Zhi-Ming Deng, Ming-Feng Wei, Jia-Hao Chen, Aqiang Liu, Han-Zhang Wang, Dan-Dan Zheng, Zi-Zhong Zhu, Jing-Jin Chen, Song-Jun Zeng, Yao Huang  
+**Venue/category:** Nano letters (Print)  
+**Date:** 2026-10-21  
+**DOI:** `10.1021/acs.nanolett.6c02932`  
+**Source(s):** Crossref, Semantic Scholar  
+**Keyword score:** 30  
+**Matched:** bioimaging, biological imaging, nir-ii  
+
+**Abstract**
+
+Abstract Lanthanide-doped nanoparticles with near-infrared-II (NIR-II, 1000–1700 nm) emission hold great promise for deep-tissue bioimaging, yet their luminescence efficiency is often limited by conventional sensitization pathways. Herein, we go beyond this conventional paradigm by introducing a Ca2+-formed band structure modulation in the host lattice to dramatically boost the NIR-II emission of lanthanide-doped nanoparticles. Rational doping of Ca2+ ions restructures the energy levels, enabling the probe to efficiently capture excitation energy and channel it toward NIR-II-emitting lanthanide activators. This Ca2+-induced band structure modulation mechanism not only enhances the absorption cross section but also accelerates energy transfer to the NIR-II-emitting states. As a result, the designed nanoprobes exhibit excellent photostability and a high quantum yield. In vivo bioimaging demonstrates that the resulting nanoprobes enable deep-tissue visualization with an improved signal-to-background ratio. This work establishes a sensitization strategy that goes beyond conventional approaches, positioning lanthanide-based NIR-II probes as promising candidates for advanced biological imaging.
+
+---
+
+### 28. [Impact of Backbone Fluorination on Self-Assembly and Mixed Conduction of Isoindigo-Based Polymers](https://www.semanticscholar.org/paper/d10ac4f43dd7a2029c7d6adadcb3ab131d0ccf7d)
+
+**Authors:** Rebecca F. Meacham, Camille E. Cunin, Geon Gug Yang, Saroj Upreti, Wen-Hao Li, Sanket Samal, Robert Posey, Joshua Tropp, Yan Zhao, Xiao-Dan Gu, Aristide Gumyusenge  
+**Venue/category:** Macromolecules  
+**Date:** 2026-10-15  
+**DOI:** `10.1021/acs.macromol.6c01586`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 30  
+**Matched:** organic electrochemical transistor, oect, conducting polymer, electrochemical transistor  
+
+**Abstract**
+
+Fluorination is a common method to induce backbone planarity in semiconducting polymers via noncovalent interactions that effectively lock the rotation of single bonds along the backbone. Often explored in dry-state devices, fluorination of isoindigo polymer backbones in mixed conductors remains relatively unexplored. Herein, we investigated systematic fluorination of a family of isoindigo-based mixed conducting polymers with hybrid ethylene glycol-based side chains to probe the impact of fluorination on the resulting assembly and electrochemical performance. Through UV–Vis–NIR, FTIR, Raman spectroscopy, and electrochemical methods, we showed that fluorination effectively planarizes portions of the backbone depending on the fluorination location, even with ethylene glycol side chains, and the placement of fluorine atoms along the backbone is crucial toward organic electrochemical transistor (OECT) device performance. Electronic conduction was found to be improved upon fluorinating the isoindigo acceptor unit in OECTs, but it came at the cost of decreased volumetric ionic capacitance. Further, fluorinating the bithiophene donor inhibited p-type conduction in OECTs. As a result, systematic fluorination revealed the importance of understanding the nuanced design requirements of isoindigo-based mixed conductors for the optimal balance of both modes of conduction in aqueous environments.
+
+---
+
+### 29. [Different modalities of time-resolved two-photon fluorescence lifetime measurements for energy transfer analysis of donor-linker-acceptor construct](https://www.semanticscholar.org/paper/58ffe17b3c2e74d1af4aac711f8a6cf652a00392)
+
+**Authors:** Gabriela Núñez-Gotia, Isaac Hanauska, Rylee Rosenberg, Malachy Brink, E. Olson, Harper Wittmers, E. Sheets, Ahmed A. Heikal  
+**Venue/category:** Ultrafast Nonlinear Imaging and Spectroscopy XIV  
+**Date:** 2026-10-09  
+**DOI:** `10.1117/12.3114472`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 30  
+**Matched:** biosensor, two-photon fluorescence, fluorescence lifetime imaging, flim  
+
+**Abstract**
+
+Förster resonance energy transfer (FRET) is a powerful tool for in vivo and in vitro studies of protein-protein interactions and conformational changes of complex biological molecules. For FRET studies in live cells and tissues, fluorescence lifetime imaging microscopy (FLIM) is advantageous due to the combined spatio-temporal resolution that provides a morphological context for cellular protein-protein interactions. However, these FLIM measurements suffer from some technical and experimental-design compromises to maximize the fluorescence detection efficiency and reduce the exposure time of living cells to pulsed laser (i.e., minimize photodamage) during measurements. For example, the magic-angle fluorescence polarization detection that is essential to rule out the effect of rotational dynamics during the excited-state lifetime is usually ruled out in FLIM experimental design. In addition, the computer-generated instrument response function (IRF) is routinely used for deconvolution data analysis in FLIM measurements for convenience instead of a measured IRF under the same experimental conditions. Here we investigate the FRET efficiency of an ionic-strength biosen
 
 ---
 Full report is saved in `reports/2026-10-24.md`.
