@@ -1,25 +1,25 @@
 {
-  "run_day": "2026-10-29",
-  "report_path": "reports/2026-10-29.md",
-  "csv_path": "reports/2026-10-29.csv",
-  "new_candidate_count": 519,
-  "fetched_count": 776,
+  "run_day": "2026-10-30",
+  "report_path": "reports/2026-10-30.md",
+  "csv_path": "reports/2026-10-30.csv",
+  "new_candidate_count": 340,
+  "fetched_count": 788,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 10,
+    "Semantic Scholar": 27,
     "Crossref": 27,
-    "arXiv": 27
+    "arXiv": 5
   },
   "source_record_counts": {
-    "Semantic Scholar": 11,
-    "Crossref": 765,
+    "Semantic Scholar": 37,
+    "Crossref": 751,
     "arXiv": 0
   },
   "source_errors": {
-    "Semantic Scholar": "Semantic Scholar query 'OMIEC' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=OMIEC&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
+    "arXiv": "arXiv query 'implantable bioelectronics' failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22implantable+bioelectronics%22&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
   },
   "health_degraded": true,
-  "kept_count": 34,
+  "kept_count": 28,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }
