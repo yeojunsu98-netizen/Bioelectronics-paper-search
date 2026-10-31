@@ -1,25 +1,25 @@
 {
-  "run_day": "2026-10-30",
-  "report_path": "reports/2026-10-30.md",
-  "csv_path": "reports/2026-10-30.csv",
-  "new_candidate_count": 340,
-  "fetched_count": 788,
+  "run_day": "2026-10-31",
+  "report_path": "reports/2026-10-31.md",
+  "csv_path": "reports/2026-10-31.csv",
+  "new_candidate_count": 221,
+  "fetched_count": 699,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 27,
+    "Semantic Scholar": 18,
     "Crossref": 27,
-    "arXiv": 5
+    "arXiv": 27
   },
   "source_record_counts": {
-    "Semantic Scholar": 37,
-    "Crossref": 751,
+    "Semantic Scholar": 34,
+    "Crossref": 665,
     "arXiv": 0
   },
   "source_errors": {
-    "arXiv": "arXiv query 'implantable bioelectronics' failed: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22implantable+bioelectronics%22&start=0&max_results=100&sortBy=submittedDate&sortOrder=descending"
+    "Semantic Scholar": "Semantic Scholar query 'organic fluorophore bioimaging' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=organic+fluorophore+bioimaging&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
   },
   "health_degraded": true,
-  "kept_count": 28,
+  "kept_count": 10,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }
