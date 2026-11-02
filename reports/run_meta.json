@@ -1,25 +1,25 @@
 {
-  "run_day": "2026-11-01",
-  "report_path": "reports/2026-11-01.md",
-  "csv_path": "reports/2026-11-01.csv",
-  "new_candidate_count": 105,
-  "fetched_count": 747,
+  "run_day": "2026-11-02",
+  "report_path": "reports/2026-11-02.md",
+  "csv_path": "reports/2026-11-02.csv",
+  "new_candidate_count": 274,
+  "fetched_count": 797,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 12,
+    "Semantic Scholar": 1,
     "Crossref": 27,
     "arXiv": 27
   },
   "source_record_counts": {
-    "Semantic Scholar": 12,
-    "Crossref": 735,
+    "Semantic Scholar": 5,
+    "Crossref": 792,
     "arXiv": 0
   },
   "source_errors": {
-    "Semantic Scholar": "Semantic Scholar query 'iontronic biointerface' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=iontronic+biointerface&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
+    "Semantic Scholar": "Semantic Scholar query 'organic bioelectronics' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=organic+bioelectronics&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
   },
   "health_degraded": true,
-  "kept_count": 12,
+  "kept_count": 17,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }

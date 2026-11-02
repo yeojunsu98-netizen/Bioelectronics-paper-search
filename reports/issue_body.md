@@ -1,160 +1,238 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-01
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-02
 
-- **New candidate records across sources:** 105
-- **Papers passing keyword filter:** 12
+- **New candidate records across sources:** 274
+- **Papers passing keyword filter:** 17
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [Wearable Organic Electrochemical Transistor Biosensor for Real-Time Measurement of Sweat Salinity and Saturation](https://doi.org/10.1021/acsomega.6c05587)
+### 1. [Asymmetric N,O-Centered Stable Diradical Nanoparticles for NIR-II Fluorescence Imaging-Guided Photothermal Tumor Therapy](https://doi.org/10.1021/acs.bioconjchem.6c00379)
 
-**Authors:** Francesco Gentile, Edmondo Battista, Daniela Cardone, David Perpetuini, Teresa Paolucci, Mirko Pesce, Ayub Alam, Valentina Vit, Luigi Bruno, Arcangelo Merla, Nicola Coppedé  
-**Venue/category:** ACS Omega  
-**Date:** 2026-11-01  
-**DOI:** `10.1021/acsomega.6c05587`  
+**Authors:** Lei Liu, Yixuan Xu, Dejia Chen, Yating Wang, Congyan An, Xianfei Li, Ganxin Chen, Lifeng Yan  
+**Venue/category:** Bioconjugate Chemistry  
+**Date:** 2026-11-02  
+**DOI:** `10.1021/acs.bioconjchem.6c00379`  
 **Source(s):** Crossref  
-**Keyword score:** 46  
-**Matched:** organic electrochemical transistor, oect, conductive polymer, pedot:pss, electrochemical transistor, biosensor  
+**Keyword score:** 28  
+**Matched:** fluorescence imaging, near-infrared fluorescence, nir-ii  
 
 **Abstract**
 
-Abstract Wearable sweat sensing offers a noninvasive strategy for continuous monitoring of hydration, electrolyte balance, and physiological stress. Here, we demonstrate a flexible textile-based organic electrochemical transistor (OECT) biosensor for real-time quantification of sweat salinity and saturation during physical activity. The device consists of cotton fibers functionalized with the conductive polymer PEDOT:PSS, configured as channel and gate electrodes within a biocompatible patch. The gate and drain currents measured by the device in response to sweat are decoded using a mathematical model that estimates both the total salt concentration and the sweat saturation level. Unlike conventional enzymatic or membrane-based sensors, the platform operates without selective coatings, improving robustness, reproducibility, and mechanical stability. In in vitro tests, the device exhibited a linear response in the 10–4 M–1 M concentration range, a limit of detection as low as 10-5 M, and a response time below 40 s. Moreover, the sensor device was validated in three participants during treadmill running sessions lasting up to 1 h. The saturation profiles derived from the sensor showed a very high correlation with facial skin temperature measured by infrared thermography in all participants (up to 0.90), and with heart rate variability (HRV) derived from ECG recordings in two of the three participants (up to 0.86). Cross-correlation analysis revealed that the time lag between the onset of the exercise-induced increase in body temperature and the onset of sweating ranges from 600 to 740 s, in line with values predicted by the literature. These results demonstrate accurate, sensitive, and continuous tracking of sweat dynamics in real time. The proposed wearable OECT platform establishes a robust foundation for biomedical applications including monitoring of hydration disorders, electrolyte imbalance, metabolic dysfunction, and autonomic dysregulation.
+Abstract Stable organic radicals provide distinctive open-shell platforms for near-infrared fluorescence, but their use in NIR-II fluorescence imaging-guided photothermal therapy remains limited. Herein, we report an asymmetric N,O-centered Blatter−phenoxyl diradical (BP) and its nanoparticle formulation (BP-NPs), a water-dispersible nanoplatform prepared by encapsulating the BP by an amphiphilic polypeptide P(OEGMA)23−PLys15. BP combines the oxygen-centered phenoxy and the nitrogen-centered Blatter radical units in an asymmetric scaffold, distinguishes it from many carbon-centered radical and symmetric diradical systems, and shows an absolute photoluminescence quantum yield of 0.73%. Variable-temperature 1H NMR, high-resolution mass spectrometry, and variable-temperature EPR spectroscopy were employed to characterize the molecular structure and temperature-dependent open-shell behavior of BP. After encapsulated, the BP-NPs retained broadband visible-to-NIR absorption and NIR-II emission, with an absolute photoluminescence quantum yield of 0.41% in water. Under 808 nm irradiation, BP-NPs showed good photostability and a photothermal conversion efficiency of 27.3%. In vitro studies reveals that the BP-NPs exhibit low dark cytotoxicity but strong light-induced 4T1 cell killing, while the in vivo NIR-II imaging showed efficient tumor accumulation, with the maximum fluorescence signal and tumor-to-background ratio (TBR ≈ 9.3) observed at approximately 24 h post-injection. Photothermal therapy at this window markedly suppressed the tumor growth without obvious treatment-related body-weight loss during the observation period. This work highlights asymmetric phenoxy−Blatter N,O-centered diradical nanoparticles as promising open-shell platforms for NIR-II imaging-guided photothermal therapy.
 
 ---
 
-### 2. [Dissolvable sacrificial interfacial shielding for stable microneedle arrays-based electrochemical dynamic monitoring of sepsis-associated lactate](https://doi.org/10.1016/j.bios.2026.119378)
+### 2. [Three-dimensional fluorescence lifetime imaging of a molecular rotor at complex interfaces of grease](https://doi.org/10.26434/chemrxiv.15009549/v2)
 
-**Authors:** Wen-Xin Chen, Chen-Han Lin, Yu-Rong Lu, Tai-Cheng Lu, Zhen-Hua Chen, Muhammad Saqib, Yun Lei, Ai-Lin Liu  
+**Authors:** Hideyo Tsurusawa, Ryo Shibata, Masaki Watanabe, Minami Soma, Takashi Nogi  
+**Date:** 2026-11-02  
+**DOI:** `10.26434/chemrxiv.15009549/v2`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** fluorescence lifetime imaging, flim  
+
+**Abstract**
+
+Fluorescence lifetime imaging microscopy (FLIM) maps local physicochemical properties with a confocal laser-scanning microscope. Soft materials are promising targets for FLIM because they demand multi-scale microanalysis; of particular interest are the interfacial properties of complex fluids. However, within each pixel, interfacial and non-interfacial FLIM signals are mixed, which complicates the physical interpretation of FLIM results at interfaces. Here, we propose a systematic FLIM approach: acquire three-dimensional FLIM data at near-diffraction-limited resolution, identify the mixing mechanism by phasor analysis, and perform pixel-level mono- or bi-exponential fitting according to that mechanism. As a proof of concept, we apply this approach to the complex interfaces of grease, in which tens-of-nanometer-scale thickener fibers form a three-dimensional network in the base oil. We prepare a grease labeled with a molecular-rotor dye whose fluorescence lifetime is coupled to the oil viscosity. Three-dimensional FLIM reveals that the lifetime significantly increases at the fiber–oil interfaces. Phasor analysis shows that this lifetime heterogeneity originates from a binary mixture of free-oil and fiber-bound states. Pixel-level bi-exponential fitting then separates the FLIM images into two state maps. In the fiber-bound state, the intramolecular rotation of the dye is arrested, indicating that the oil is solid-like rather than viscous at the interfaces. Beyond the ~180 nm resolution of our images, the lifetime-domain separation resolves the coexistence of the two states within a single diffraction-limited voxel. Finally, we generalize our approach so that FLIM can be broadly applied to map interfacial properties in soft complex materials.
+
+---
+
+### 3. [A 3D Printed Modular Microscope for In-Incubator Time-Lapse Fluorescence Imaging](https://doi.org/10.20944/preprints202611.0029.v1)
+
+**Authors:** Maitreyi Vadigepalli, Janice L. Walker  
+**Date:** 2026-11-02  
+**DOI:** `10.20944/preprints202611.0029.v1`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** fluorescence imaging, cell imaging, live-cell imaging  
+
+**Abstract**
+
+Long-term fluorescence imaging of live cells enables visualization of dynamic cellular processes but often requires expensive, specialized instrumentation for operation within cell-culture incubators. We developed a low-cost, modular fluorescence microscope based on the open-source UC2 framework for automated time-lapse imaging under incubator conditions. The system uses standardized UC2 modules for motorized objective positioning and camera mounting, alongside custom 3D-printed modules for laser illumination, beam expansion, neutral-density filtering, dichroic beam splitting, tube-lens imaging, and sample mounting. An infinity-optics configuration allows optical components to be readily added or rearranged to accommodate different imaging modalities and incubator constraints. A Raspberry Pi controls objective positioning and laser illumination through custom Python software, enabling automated time-lapse acquisition. This work demonstrates a reconfigurable, low-cost fluorescence microscope potentially capable of automated long-term imaging of cell behavior responses and provides an adaptable platform for live-cell imaging applications in constrained laboratory environments.
+
+---
+
+### 4. [Ultrasensitive direct detection of HMGB1 protein via covalently modified graphene field-effect transistors](https://doi.org/10.1016/j.bios.2026.119379)
+
+**Authors:** Yaiza Aznar, Jon Azpeitia, Federico Mompéan, Helmut H. Telle, Yolanda Blanco, Laia León-Boigues, Catalina Hernández-Sánchez, Enrique J. de la Rosa, María Fernández-Algar, Emma Martín Rodríguez, M. Dolores Ynsa, Mar García-Hernández et al.  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119378`  
+**DOI:** `10.1016/j.bios.2026.119379`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 3. [Corrigendum to “Bioinspired microchannel-based ionic current rectification sensor for sensitive detection of S100-β via interface charge density regulation” [Biosens. Bioelectr. 315, (2027), 119209]](https://doi.org/10.1016/j.bios.2026.119325)
+### 5. [Vectorially polarized Laguerre-Gaussian beam for improved lateral resolution in two-photon fluorescence microscopy](https://doi.org/10.1016/j.optlastec.2026.115980)
 
-**Authors:** Xianghui Li, Wei Wang, Zhehao Weng, Yanling Huang, Huabin Cai, Jiexin Wu, Xiaoli Huang, Jinzhuan Chen, Zhenyu Lin  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.bios.2026.119325`  
+**Authors:** Xuefeng Sun, Guangbo Zhang, Ye Fang, Xiaoyun Chen, Tianfei Zhao, Qianglong Yang, Rui Hu, Binglin Shen, Liwei Liu  
+**Venue/category:** Optics & Laser Technology  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.optlastec.2026.115980`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 12  
+**Matched:** two-photon fluorescence  
 
 ---
 
-### 4. [Single molecularly imprinted polymer platform integrating 23 in situ regeneration and antifouling for electrochemical cortisol detection in complex matrices](https://doi.org/10.1016/j.bios.2026.118995)
+### 6. [CdSe quantum dot platforms for tumor biomarker detection and bioimaging: nano–bio interfaces, signal transduction, and translational challenges](https://doi.org/10.1016/j.chphi.2026.101205)
 
-**Authors:** Ziqian Zhang, Min Cui, Junru Li, Shuai Wang, Nianxing Wang, Yingshu Guo  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2026-11-01  
-**DOI:** `10.1016/j.bios.2026.118995`  
+**Authors:** Hamza Farhan Abu Owida, Suleiman Ibrahim Mohammad, Asokan Vasudevan, G. Padma Priya, Kamal Kishore Thakur, Vibha Joshi, Rahul Saxena, Rasulbek Eshmetov, Latofatoy Nurislomova, Saeid Mohebi  
+**Venue/category:** Chemical Physics Impact  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.chphi.2026.101205`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 12  
+**Matched:** bioimaging  
 
 ---
 
-### 5. [Machine-learning-assisted artificial olfactory colorimetric sensor array for bladder cancer early detection from urinary volatile organic compounds](https://doi.org/10.1016/j.bios.2026.118926)
+### 7. [Stretchable Conductive Organic Blends With Robust Dry/Wet Adhesion for All‐Weather Epidermal Biopotential Monitoring of Human and Turtles](https://doi.org/10.1002/smll.76479)
 
-**Authors:** Yiquan Xiong, Jun Xiao, Lanyu Jing, Yufei Bian, Liang Liao, Zhipeng Hou, Guang-Jie Xia, Anze Yu, Yue Niu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2026-11-01  
-**DOI:** `10.1016/j.bios.2026.118926`  
-**Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 6. [Cu–N-doped graphene/prussian blue interface enables molecularly imprinted electrochemical sensing of L-kynurenine](https://doi.org/10.1016/j.bios.2026.118901)
-
-**Authors:** Saleh Najafi Chaleshtori, Nael G. Yasri, Bahareh Babamiri, Rad Sadri, Mohammadreza Farrokhnia, Mehdi Mohammadi, Milana Trifkovic, Amir Sanati Nezhad  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2026-11-01  
-**DOI:** `10.1016/j.bios.2026.118901`  
-**Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 7. [Inhibition of Oxidative Activity by Photo-induced Surface Hydroxyl Groups in Bismuth Titanium Oxide Photocatalysts Detected by Single-Molecule Fluorescence Imaging](https://doi.org/10.1021/acsami.6c12166)
-
-**Authors:** William H. Rackers, Han Zhang, Zachary B. Ben-Meir, Bryce Sadtler  
-**Venue/category:** ACS Applied Materials & Interfaces  
+**Authors:** Zhihan Zeng, Wen Sun, Siyu Chen, Zhijun Chen, Lei Wang, Xiaojia Wang, Jianyong Ouyang  
+**Venue/category:** Small  
 **Date:** 2026-11-02  
-**DOI:** `10.1021/acsami.6c12166`  
+**DOI:** `10.1002/smll.76479`  
+**Source(s):** Crossref  
+**Keyword score:** 10  
+**Matched:** conducting polymer, pedot:pss  
+
+**Abstract**
+
+ABSTRACT Self‐adhesive dry epidermal electrodes can be used to accurately monitor epidermal biopotentials even during physical movement. For continuous health monitoring, they should adhere to skin in both dry and underwater conditions. But the dry electrodes reported in literature cannot keep good adhesion under water. Here, we report fully organic blends that exhibit good adhesion to skin in both dry and underwater conditions, high conductivity, and mechanical stretchability and their application as conformal electrodes to accurately detect epidermal biopotentials under all conditions. The blends are consisted of poly(ethylenedioxythiophene):poly(styenesulfonate) (PEDOT:PSS, a conducting polymer), polyvinyl butyral (PVB), and tannic acid (TA). Different from other adhesives, their adhesion to skin can be greatly enhanced by water soaking. Because of the adhesion to skin under dry and underwater conditions, they can form conformal contact to skin during physical movement even under water. Hence, they can be used as conformal electrodes to accurately monitor epidermal biopotential signals, such as electrocardiogram (ECG) and electromyogram (EMG), under all conditions including underwater. In addition to human, we also demonstrate their application as conformal electrodes to continuously monitor the ECG signals of an amphibious turtle for 15 days.
+
+---
+
+### 8. [Design of a graftable triphenylamine-pyridinium-based red fluorescence probe with dual fluorescence emission for quantifying polarity parameters in polymer networks](https://doi.org/10.1016/j.dyepig.2026.114304)
+
+**Authors:** Stéphane Serrano, Annie Praud, Houssam Hajjoul, Sophie Berlioz, Emmanuel Richaud, Pascal Carriere  
+**Venue/category:** Dyes and Pigments  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.dyepig.2026.114304`  
+**Source(s):** Crossref  
+**Keyword score:** 9  
+**Matched:** fluorescence probe  
+
+---
+
+### 9. [A universal reusable RGO-loaded cellulose 3D hydrogel electrode via π-π stacking for detection of multiple community-acquired pneumonia pathogens](https://doi.org/10.1016/j.snr.2026.100500)
+
+**Authors:** Yiwei Li, Haoze Du, Qi Liu, Hui Yang  
+**Venue/category:** Sensors and Actuators Reports  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.snr.2026.100500`  
+**Source(s):** Crossref  
+**Keyword score:** 9  
+**Matched:** hydrogel electrode  
+
+---
+
+### 10. [Multimodal training in reconfigurable brain-inspired iontronic networks](https://doi.org/10.1038/s44335-026-00105-0)
+
+**Authors:** Monica Conte, Tim M. Kamsma, René van Roij, Marjolein Dijkstra  
+**Venue/category:** npj Unconventional Computing  
+**Date:** 2026-11-02  
+**DOI:** `10.1038/s44335-026-00105-0`  
+**Source(s):** Crossref  
+**Keyword score:** 9  
+**Matched:** iontronic  
+
+---
+
+### 11. [Large-Area Metasurfaces for Enhanced Fluorescence Imaging](https://doi.org/10.1021/acsomega.6c09701)
+
+**Authors:** Mengli Zhu, Ao Zhang, Lekai Ge, Chengchao Liu, Yonglong Wang, Bintao Du  
+**Venue/category:** ACS Omega  
+**Date:** 2026-11-02  
+**DOI:** `10.1021/acsomega.6c09701`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 **Abstract**
 
-Abstract The surface structure of semiconductor photocatalysts plays a critical role in the extraction of charge carriers during photocatalytic reactions. However, the surface structures of many photocatalysts are dynamic under catalytic conditions, which makes identifying photo-induced changes and their effect on photocatalytic activity challenging. Herein, we use super-resolution, single-molecule fluorescence imaging to map the spatial distribution of catalytically active regions and quantify the changes in activity of those regions for photocatalytic oxidation in bismuth titanium oxide (Bi4Ti3O12) nanoplates. Individual nanoplates varied widely in both activity and stability, reflecting significant heterogeneity among a single synthesis batch of photocatalyst particles. We observed that while the nanoplates are more active around the perimeter of the basal facet, those perimeter regions decrease in activity at the same relative rate as the rest of the basal facet, indicating a spatially uniform degradation mechanism. Through ensemble structural characterization of the nanoplates after irradiation, we identified surface hydroxyl groups as the photo-induced feature. Our results indicate that surface hydroxyl groups introduce hole trap states that increase charge recombination at the surface of the nanoplates, leading to the observed decrease in activity. Surprisingly, we identified nanoscale features that do not begin with high activity but exhibit a slower rate of activity loss, leading to regions with greater activity relative to the rest of the basal facet at the end of imaging. Our findings highlight the importance of not only understanding how different nanoscale features influence catalytic activity but also how these features evolve over time, which dictates catalyst stability.
+Abstract All-dielectric metasurfaces have been extensively applied to three-dimensional displays, vortex beam generation, beam steering, and luminescence enhancement. However, studies on all-dielectric metasurfaces for enhancing biofluorescence imaging remain relatively scarce. In this study, an anodic aluminum oxide (AAO) template is employed to fabricate a large-area silicon metasurface embedded in PDMS to serve as a fluorescence imaging slide. Under the excitation of the electromagnetic dipole resonance of metasurface, the cells stained with iFluor 555-phalloidin on the metasurface film exhibit a fluorescence enhancement potentially arising from the combined contributions of Purcell-related radiative decay-rate modification, local excitation-field enhancement, and changes in fluorescence collection efficiency, substantially improving the fluorescence imaging quality. The experimental results demonstrate that when the silicon metasurface embedded in PDMS serves as a fluorescence imaging slide, the fluorescence imaging intensity is enhanced by a factor of approximately 3.38. To the best of our knowledge, this is the first demonstration of large-area all-dielectric metasurfaces fabricated via the AAO template method for enhanced fluorescence imaging. This finding broadens the scope of all-dielectric metasurfaces with large area for biomedical fluorescence imaging.
 
 ---
 
-### 8. [An on–off–on Cs₃Bi₂Br₉@UiO-66(OH)₂ fluorescent probe for sequential trace detection of Fe³⁺ and F⁻ via coordination-induced quenching and fluoride-triggered fluorescence recovery](https://doi.org/10.1016/j.jallcom.2026.192135)
+### 12. [Inhibition of Oxidative Activity by Photo-induced Surface Hydroxyl Groups in Bismuth Titanium Oxide Photocatalyst Detected by Single-Molecule Fluorescence Imaging](https://doi.org/10.1021/acsami.6c12166.s001)
 
-**Authors:** Jiahong Zheng, Guangqiang Ding  
-**Venue/category:** Journal of Alloys and Compounds  
-**Date:** 2026-11-01  
-**DOI:** `10.1016/j.jallcom.2026.192135`  
+**Date:** 2026-11-02  
+**DOI:** `10.1021/acsami.6c12166.s001`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
-**Matched:** fluorescent probe  
+**Matched:** fluorescence imaging  
 
 ---
 
-### 9. [A heterogeneous biointerface with decoupled signal amplification for interference-resistant multimodal detection of plant-derived biomarkers](https://doi.org/10.1016/j.snb.2026.141162)
+### 13. [Bioelectronic Delivery of Biomolecules Combined with Thermography Enables Spatially Resolved Stomatal Signaling in Succulent Plants](https://doi.org/10.1021/acsagscitech.6c00517)
 
-**Authors:** Yingxu Chen, Bingtao Fu, Rongshuai Che, Yichun Jiang, Li Hua, Ke-Jing Huang  
-**Venue/category:** Sensors and Actuators B: Chemical  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.snb.2026.141162`  
+**Authors:** Alexandra Sandéhn, Iwona Bernacka-Wojcik, Cyril Routier, Till Dreier, Martin Bech, Daniel Cowan-Turner, Eleni Stavrinidou  
+**Venue/category:** ACS Agricultural Science & Technology  
+**Date:** 2026-11-02  
+**DOI:** `10.1021/acsagscitech.6c00517`  
+**Source(s):** Crossref  
+**Keyword score:** 9  
+**Matched:** bioelectronic  
+
+**Abstract**
+
+Abstract Achieving localized delivery of signaling molecules in plants while obtaining spatially resolved, non-invasive readout of physiological responses remains a key challenge due to limitations in conventional methods for exogenous biomolecule application. These approaches typically rely on solution-based delivery or systemic treatments, which limit spatial precision and can disrupt the native physiological environment, making it difficult to study signal propagation. Here, we use the capillary organic electronic ion pump (c-OEIP) for localized, electronically controlled dry delivery of the phytohormone abscisic acid (ABA) in intact succulent plants. By combining the c-OEIP technology with infrared thermography, we obtain real-time, spatially resolved monitoring of physiological responses. We demonstrate this approach in Kalanchoë blossfeldiana, a drought-tolerant succulent species whose stomatal responses to exogenous signaling molecules remain poorly understood. Our results show that ABA delivery triggers stomatal closure during the day, consistent with observations in non-succulent plants. This work establishes a minimally invasive platform that combines bioelectronic delivery with spatially resolved readout, enabling spatiotemporal mapping of plant responses.
+
+---
+
+### 14. [From Blue to Green: Demonstration of a pH-Dependent Fluorescence Shift of Carbon Quantum Dots](https://doi.org/10.1021/acs.jchemed.6c00992)
+
+**Authors:** Elisabeth Dietel, Pia Wolken, Pasquale Sladitschek, Oliver Johannesen, Timm Wilke, Malte Petersen  
+**Venue/category:** Journal of Chemical Education  
+**Date:** 2026-11-02  
+**DOI:** `10.1021/acs.jchemed.6c00992`  
+**Source(s):** Crossref  
+**Keyword score:** 8  
+**Matched:** bioimaging  
+
+**Abstract**
+
+Abstract Carbon quantum dots (CQDs) have emerged as versatile, water-soluble nanomaterials with strong photoluminescence and tunable optical properties, making them promising candidates for applications in sensing, bioimaging, and optoelectronics. While inorganic quantum dots have long been established in educational settings, organic CQDs, particularly with functional responsiveness, remain underrepresented in K-12 science education. In this paper, we present a simple, safe, and low-cost bottom-up synthesis of fluorescent, pH-sensitive CQDs using ascorbic acid and sodium acetate, which were heated directly over a gas burner. The procedure takes less than 5 min and requires minimal equipment. The resulting CQDs exhibit bright blue-to-turquoise fluorescence under UV light. Under basic conditions, a bathochromic shift to green fluorescence occurs because of deprotonation of surface functional groups, accompanied by self-absorption. This pH-dependent behavior is also visible under daylight, showing a color shift from yellow to orange resulting from absorption and transmission. The experiment provides a tangible demonstration of surface chemistry, electronic transitions, and nanoscale structure–property relationships. Learners perceived the experiment as an easy procedure that contributes to a basic understanding of the nanoscale, as an accompanying assessment shows (n = 20). By combining low-cost materials, rapid synthesis, and vivid visual outcomes, we give an outlook on how this work will contribute to nanoscience education by offering a readily accessible and engaging pathway into the world of functional organic nanomaterials.
+
+---
+
+### 15. [MXene quantum dot–integrated wearable and implantable biointerfaces for continuous physiological and clinical health monitoring](https://doi.org/10.1016/j.chphi.2026.101161)
+
+**Authors:** Kamel A Saleh, Djaloliddin Mansurov, Dilnoz Burieva, Hussein Frhan Jaber, Amina Dawood Suleman, Swati Mishra, Navin Kumar Tailor, Amir Arsalanirad  
+**Venue/category:** Chemical Physics Impact  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.chphi.2026.101161`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** biointerface  
 
 ---
 
-### 10. [Structure-driven green nanofibrous electronic skins: From sustainable materials to bio-integrated wearable systems](https://doi.org/10.1016/j.sna.2026.118660)
+### 16. [Manufacturing RouteDependent Biointerface Modulation in 3D-printed and conventional dental implant systems](https://doi.org/10.1021/acsabm.6c00473.s001)
 
-**Authors:** Yuehan Wang, Qingyang Cao, Yuyan Xu, Di Hu, Jinxin Liu, Yuqing Liu  
-**Venue/category:** Sensors and Actuators A: Physical  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.sna.2026.118660`  
+**Date:** 2026-11-02  
+**DOI:** `10.1021/acsabm.6c00473.s001`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
-**Matched:** electronic skin  
+**Matched:** biointerface  
 
 ---
 
-### 11. [Flexible strain-sensing properties of a synergistically cross-linked conductive hydrogel based on P(AM-co-AA)/SA/Ca2+/GA/K+](https://doi.org/10.1016/j.sna.2026.118634)
+### 17. [Bioengineering platforms for precision respiratory rehabilitation: biomaterials, lung-mimetic models, and wearable biointerfaces](https://doi.org/10.3389/fbioe.2026.1945770)
 
-**Authors:** Zerui Xie, Yunqing Gu, Yun Ren, Yuhao Zhuang, Denghao Wu, Chengqi Mou, Zhenxing Wu, Yifei Sun, Jiahao Wang  
-**Venue/category:** Sensors and Actuators A: Physical  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.sna.2026.118634`  
+**Authors:** Ming Cheng, Huan Yan, Yuan Liu, Xiaoli Wu, Shunzhi Zuo, Dongxue Zhao, Yue Su, Lizhi He, Hong Li, Yurou Cao, Yiwen Weng, Hongyi Chen  
+**Venue/category:** Frontiers in Bioengineering and Biotechnology  
+**Date:** 2026-11-02  
+**DOI:** `10.3389/fbioe.2026.1945770`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
-**Matched:** conductive hydrogel  
+**Matched:** biointerface  
 
----
+**Abstract**
 
-### 12. [High-sensitivity strain sensor with the symmetric hexagonal cross-linked snowflake conductive network structure for electrophysiological signal detection](https://doi.org/10.1016/j.sna.2026.118630)
-
-**Authors:** Yu Liu, Mingli Ding, Xiaodong Su, Liangliang Yang, Yang Li, Huan Liu, Lixiang Li, Jianlang Shu, Tinggang Zhang, Fuxin Yu, Guozheng Zhang, Zhida Li  
-**Venue/category:** Sensors and Actuators A: Physical  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.sna.2026.118630`  
-**Source(s):** Crossref  
-**Keyword score:** 6  
-**Matched:** electrophysiological  
+Pulmonary rehabilitation is an established intervention for chronic respiratory diseases, but heterogeneous responses, limited mechanistic resolution, and incomplete real-world monitoring restrict precision delivery. Bioengineering platforms may address these gaps by linking clinically actionable respiratory traits to biomaterials, lung-mimetic models, and wearable biointerfaces. This critical narrative Review examines how bioengineering platforms may address three complementary translational needs in precision respiratory rehabilitation: modulation of recovery-relevant pulmonary microenvironments, mechanistic and safety testing in human-relevant lung models, and continuous measurement of rehabilitation exposure and response. We organize these functions within a Trait–Material–Interface–Endpoint framework that links engineering-actionable traits to appropriate platforms, validation requirements, and patient-centred outcomes. The evidence base is uneven. Clinical benefits of pulmonary rehabilitation are well established, whereas direct evidence that biomaterials enhance rehabilitation outcomes remains limited, and many organ-on-chip and wearable applications are still at preclinical or validation stages. These technologies should therefore complement rather than replace guideline-based rehabilitation. Future studies should use staged safety testing, trait-based enrolment, validated digital measures, patient-centred functional outcomes, and implementation endpoints to determine whether bioengineering can make respiratory rehabilitation more measurable, personalized, and clinically translatable.
 
 ---
