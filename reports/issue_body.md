@@ -1,166 +1,287 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-04
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-05
 
-- **New candidate records across sources:** 141
-- **Papers passing keyword filter:** 12
+- **New candidate records across sources:** 115
+- **Papers passing keyword filter:** 21
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [How material advancements are leading the charge in the next generation of implantable bioelectronics](https://doi.org/10.1016/j.mattod.2026.103564)
+### 1. [Green Biosynthesis of N,K Codoped Carbon Quantum Dots From Cissus Quadrangularis With Tunable Multistate Emission for Fluorescence Bioimaging Applications](https://doi.org/10.1002/cnma.70400)
 
-**Authors:** Allison Bateman, Woon-Hong Yeo  
-**Venue/category:** Materials Today  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.mattod.2026.103564`  
+**Authors:** Vishal Kansay, Milan Kumar Bera, Soumen Basu, Nikhil Kumar, S. Chakrabarti  
+**Venue/category:** ChemNanoMat  
+**Date:** 2026-11-05  
+**DOI:** `10.1002/cnma.70400`  
 **Source(s):** Crossref  
-**Keyword score:** 31  
-**Matched:** bioelectronics, bioelectronic, implantable bioelectronics  
+**Keyword score:** 36  
+**Matched:** bioimaging, fluorescence bioimaging, fluorescent bioimaging  
+
+**Abstract**
+
+The development of sustainable and biocompatible fluorescent nanomaterials is essential for advancing next‐generation bioimaging and sensing technologies. This work reports an economical green synthesis of carboxyl‐functionalized, N,K codoped carbon quantum dots (cq‐hCQDs) derived from Cissus quadrangularis via a facile hydrothermal approach. The resulting cq‐hCQDs possess a quasispherical morphology (~3.23 nm), hybrid sp 2 ‐sp 3 carbon architecture, and abundant ─COOH surface functional groups, enabling excellent hydrophilicity, aqueous stability, and chemical reactivity, as evidenced from HRTEM, XPS, NMR, FTIR, and zeta potential. The cq‐hCQDs exhibit enhanced visible‐light absorption with a narrowed bandgap (~2.85 eV) and strong, tunable fluorescence dominated by π –π * transitions, alongside contributions from surface and defect states introduced by heteroatom doping. A plausible mechanism is proposed in which the synergistic electronic modulation may contribute to enhanced emission intensity through multiple radiative recombination pathways. Notably, the synthesized cq‐hCQDs exhibited potential as fluorescent bioimaging probes, providing high‐contrast visualization of cellular structures in Funaria hygrometrica moss and Ficus religiosa plant tissues. Furthermore, phytotoxicity analysis validates marginal biological impact, with >75% cell survivability.
 
 ---
 
-### 2. [Harnessing Intermolecular Interactions to Boost Near-Infrared-II Fluorescence of Diketopyrrolopyrrole Nanoaggregates for In Vivo Imaging](https://doi.org/10.1021/acsnanomed.6c00186)
+### 2. [Recent advances in NIR-II fluorescence imaging for biomedical applications](https://doi.org/10.1016/j.advim.2026.100016)
 
-**Authors:** Zhisheng Gui, Jihao Li, Haitian Zhu, Xiuli Zheng, Liting Liu, Caihong Xiang, Fanda Meng, Lianrui Hu, Guangle Niu, Pengfei Wang  
-**Venue/category:** ACS Nano Medicine  
-**Date:** 2026-11-04  
-**DOI:** `10.1021/acsnanomed.6c00186`  
+**Authors:** Bohan Xu, Kai Xu, Shunyao Li, Huaixuan Sheng, Huizhu Li, Xiao Zhang, Yueming Wang, Sijia Feng, Jun Chen  
+**Venue/category:** Advanced Interventional Materials  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.advim.2026.100016`  
 **Source(s):** Crossref  
 **Keyword score:** 21  
-**Matched:** nir-ii, photoacoustic imaging, in vivo imaging  
+**Matched:** fluorescence imaging, nir-ii  
+
+---
+
+### 3. [Biodegradable neodymium metal-organic frameworks for persistent NIR-II fluorescence imaging-guided photodynamic therapy with glutathione exhaustion](https://doi.org/10.1186/s12951-026-05205-4)
+
+**Authors:** Halliana Li, Xiaohang Liu, Feng Wei, Haotian Ding, Guanwen Xue, Yueyang He, Jikang He, Zuoxuan Hou, Xiaolong Liu, Yao Huang, Yang Li  
+**Venue/category:** Journal of Nanobiotechnology  
+**Date:** 2026-11-05  
+**DOI:** `10.1186/s12951-026-05205-4`  
+**Source(s):** Crossref  
+**Keyword score:** 21  
+**Matched:** fluorescence imaging, nir-ii  
+
+---
+
+### 4. [Power–data co-design for implantable neural interfaces](https://doi.org/10.1016/j.aeue.2026.156708)
+
+**Authors:** Shijie Wang, Weicheng Zhong  
+**Venue/category:** AEU - International Journal of Electronics and Communications  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.aeue.2026.156708`  
+**Source(s):** Crossref  
+**Keyword score:** 20  
+**Matched:** neural interface, neural interfaces  
+
+---
+
+### 5. [N-heterocyclic engineering of covalent organic framework (COF)-microenvironments for the development of enzyme-based biosensor with application to lung cancer diagnosis](https://doi.org/10.1016/j.bios.2026.119397)
+
+**Authors:** Tianci Zhou, Zhiyue Wang, Ying Deng, Yu Sun, Man Xue, Bing Bo, Zhaoxia Wang, Genxi Li  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119397`  
+**Source(s):** Crossref  
+**Keyword score:** 17  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 6. [Rapid and sensitive electrochemical point-of-care testing for the chemotherapy agent cisplatin via Co-catalyzed hydrolysis of a glucose derivative](https://doi.org/10.1016/j.bios.2026.119341)
+
+**Authors:** Lingying Xia, Jie Zhang, Xingyu Hu, Nansheng Cheng, Ruo Yuan, Rongxing Zhou  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119341`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 7. [Non-invasive continuous interstitial fluid lactate monitoring via alternating-polarity reverse iontophoresis](https://doi.org/10.1016/j.bios.2026.119402)
+
+**Authors:** Wangwang Zhu, Mutian Wang, Jingyun Li, Jialing Wang, Wenjun Li, Dachao Li, Hao Zheng, Xingguo Zhang, Zhihua Pu  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119402`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 8. [Integrated NeutroDrop-enabled single-cell ROS-NE droplet biosensing for sepsis auxiliary diagnosis and survival prediction](https://doi.org/10.1016/j.bios.2026.119388)
+
+**Authors:** Yuhang Yao, Fanghao Wang, Xuexue Pu, Min Shao, Changyi Hua, Junsheng Cui, Yuanzhi Zhang, Quanfu Wang, Guoqing Deng, Yong Liu, Ling Zhu, Nian Liu et al.  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119388`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 9. [A pressure pulse wave sensor inspired by light-reflecting skin structures in atherinid fish](https://doi.org/10.1016/j.bios.2026.119380)
+
+**Authors:** Masakazu Iwasaka  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119380`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 10. [Architected Bio‐Based Iontronic Skin With Dual‐Mode Pressure and Strain Sensing](https://doi.org/10.1002/adfm.79432)
+
+**Authors:** Maksims Jurinovs, Madara Veseta, Fevzihan Basarir, Beatrise Silava, Eduards Bakis, Krisjanis Smits, Olesja Starkova, Jaana Vapaavuori, Sergejs Gaidukovs  
+**Venue/category:** Advanced Functional Materials  
+**Date:** 2026-11-05  
+**DOI:** `10.1002/adfm.79432`  
+**Source(s):** Crossref  
+**Keyword score:** 15  
+**Matched:** iontronic, iontronics  
 
 **Abstract**
 
-Abstract Near-infrared (NIR)-II dyes hold tremendous potential for biomedical imaging and clinical applications. Structural modulation of fluorescent dyes has been widely recognized as a general approach to achieve NIR-II fluorescence. However, this strategy is often hindered by complex synthetic procedures and the obtained NIR-II dyes commonly suffer from aggregation-caused quenching. Herein, by rationally modulating intermolecular interactions, we facilely constructed two diketopyrrolopyrrole-based fluorescent dyes (DPP-2ANXF and DPP-2BTANXF) with NIR-II aggregate-state emissions. Compared with DPP-2ANXF, DPP-2BTANXF engineered with a stronger acceptor moiety showed intense red-shifted fluorescence of 970 nm with a quantum yield (QY) of 4.28% in low-polarity solution. Moreover, DPP-2BTANXF displayed strong NIR-II solid-state fluorescence with an emission peak at up to 1175 nm. Powder X-ray diffraction (PXRD) analysis and theoretical calculations revealed that the aggregated dimeric units are stabilized by multiple intermolecular interactions, leading to a narrowed energy gap. Through nanoprecipitation, DPP-2BTANXF was formulated into water-soluble nanoparticles (NPs) with NIR-I absorption and NIR-II emission (1108 nm) exhibiting a QY of 0.62%. DPP-2BTANXF NPs enabled high-contrast in vivo NIR-II fluorescence and photoacoustic imaging of mouse blood vessels, as well as imaging-guided surgical navigation of mouse tumor. Overall, this work provides an alternative strategy for developing versatile NIR-II fluorescent dyes for biomedical applications via rational modulation of intermolecular interactions.
+ABSTRACT Human skin encodes pressure and stretch through the motion of ions, a principle soft iontronics reproduce but rarely on sustainable terms. Additive manufacturing has lifted ionogels from cast slabs into architected sensors, yet this progress rests on fossil‐derived acrylates, because plant‐based networks expel the polar ionic liquids that carry charge. Here we print an ionogel whose matrix exceeds 80% bio‐based carbon while stably hosting a hydrophobic imidazolium ionic liquid, resolving a long‐standing compatibility barrier. A single monomer ratio tunes stiffness 30 fold (9 to 0.3 MPa) and nearly doubles ionic conductivity to 0.53 mS cm −1 . Printed as gyroid lattices, the material senses pressure capacitively and strain resistively through separable channels: near‐incompressibility pins the gauge factor near 2 irrespective of geometry, whereas the lattice amplifies low‐pressure sensitivity eightfold and accelerates the strain response 4.6‐fold. On the body, both modes track joint motion with complementary signatures. Chemistry and printed architecture thus act as independent levers for renewable iontronic skin.
 
 ---
 
-### 3. [Label-free biomolecular sensing via near-interface single-particle Brownian motion tracking](https://doi.org/10.1016/j.bios.2026.119391)
+### 11. [Optimization of electrocatalyst infiltration for enhanced performance in mixed ionic-electronic conductor-based solid oxide cells](https://www.semanticscholar.org/paper/0033081143f86bbdd9801b5f0ff19f34de3b9aa5)
 
-**Authors:** Jinbiao Ma, Xiaoyin Liu, Baiqi Cui, Yunxiao Wang, Jingyu Wu, Di Wang, Fenni Zhang  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119391`  
-**Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 4. [Jahn-Teller distortion-induced structural disorder in ternary Prussian blue analogues unlocks surface-controlled pseudocapacitive amplification for logic-gated nucleic acid sensing](https://doi.org/10.1016/j.bios.2026.119392)
-
-**Authors:** Liang Wei, Ruiqian Zhong, Qingnian Wu, Lin Sun, Ke-Jing Huang, Yashu Wei  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119392`  
-**Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 5. [Advancing neonatal care through non-invasive biochemical monitoring and diagnostics](https://doi.org/10.1016/j.bios.2026.119387)
-
-**Authors:** Hanbyeol Son, Doyoun Kim, W. Hong Yeo, Hyo-Ryoung Lim  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119387`  
-**Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 6. [Construction of a robust fluorescent probe for the rapid evaluation of natural products' inhibition of Alzheimer's disease.](https://www.semanticscholar.org/paper/c0da8b5b3d54ba7ce1015fd8e9e9ed8b07193176)
-
-**Authors:** Xiao-Fang Xu, Xiu Xu, Li-Yi Zhou, Wan-Yi Wang, Min Ouyang, Jia-Xin Zheng, Lin Zhang  
-**Venue/category:** Analytica Chimica Acta  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.aca.2026.346374`  
+**Authors:** Aniqa Anjum, M. Saqib, K. Duncan, Eric D. Wachsman  
+**Venue/category:** Journal of Power Sources  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.jpowsour.2026.241877`  
 **Source(s):** Semantic Scholar  
-**Keyword score:** 16  
-**Matched:** fluorescent probe, near-infrared fluorescence  
+**Keyword score:** 13  
+**Matched:** mixed ionic-electronic conductor  
+
+---
+
+### 12. [Multi-colored emission of europium co-doped carbon dots for dual-mode Ratiometric visual detection of Anthrax biomarker: anticounterfeiting ink and bioimaging applications](https://doi.org/10.1016/j.microc.2026.120179)
+
+**Authors:** Sonaimuthu Mohandoss, Mathivanan Durai, Lalitha Gnanasekaran, Karthikeyan Manivannan, Kuppu Sakthi Velu, Nagaraj Murugan, Mani Durai, Dharani Shanmugapriya, Arumugam Shanmuga Priya, Salim Manoharadas, Vijayakumar Paranthaman, Seong-Cheol Kim  
+**Venue/category:** Microchemical Journal  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.microc.2026.120179`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+---
+
+### 13. [ClearGel: a thermoresponsive hydrogel for chronic, near-millimeter two-photon imaging through the intact skull](https://doi.org/10.64898/2026.11.04.764111)
+
+**Authors:** Lina Liu, Yufeng Gao, Yuezhi He, Na Xiao, Jia Yu, Ting Wu, Shiwei Ye, Jiuling Liao, Liang Wang, Jun Chu, Liangjian Liu, Chengbo Liu et al.  
+**Date:** 2026-11-05  
+**DOI:** `10.64898/2026.11.04.764111`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** two-photon imaging  
 
 **Abstract**
 
-Peroxynitrite (ONOO-) is a key oxidative stress biomarker for Alzheimer's disease (AD), and elevated levels of ONOO- in the brain directly reflect the extent of oxidative stress-induced damage in AD. To enable in situ real-time monitoring of ONOO-, this study designed and synthesized a ratiometric near-infrared fluorescent probe (BF) based on a D-π-A framework. The probe BF emits near-infrared fluorescence; upon interaction with ONOO-, BF's intrinsic ICT is weakened, causing a blue shift in its emission and resulting in a red-to-green ratio change. When applied to PC12 cells and AD model mice, BF enables real-time ratiometric imaging monitoring of changes in ONOO- levels within the cells and the mouse brain. Furthermore, through molecular docking, neobavaisoflavone (with curcumin as a control) was screened as an intervention drug; BF successfully monitored the real-time dynamic downregulation of ONOO-, and the signal recovery in the neobavaisoflavone group was superior to that in the curcumin group and the model group. This study established a rapid evaluation platform centered on real-time imaging with near-infrared ratiometric probes, which not only enables in situ dynamic monitoring of AD-related ONOO- but also provides an intuitive and reliable visualization method for the rapid assessment of the efficacy of anti-AD candidate drugs.
+The intact skull remains a fundamental barrier to high-resolution two-photon neuroimaging in live mice. Existing skull-clearing methods, however, cannot simultaneously provide deep cortical access, spatial selectivity, reversibility, and biological safety. Here we introduce ClearGel, a thermoresponsive hydrogel that undergoes rapid in situ gelation upon contact with the skull, confining the clearing agents to the targeted region while sustaining their release over time. ClearGel routinely enables two-photon imaging down to approximately 800 μm through the intact skull-a depth statistically equivalent to open-skull windows and substantially surpassing all prior approaches. It supports user-defined clearing patterns from focal sites to whole-skull coverage, allows repeated imaging over 14 days through a reversible optical interface, and, critically, enables awake functional imaging of both neuronal Ca2+ activity and the more elusive cAMP dynamics at single-cell resolution. ClearGel requires only simple topical application-no craniotomy or skull thinning-and provides a minimally invasive, chronic-compatible optical window for longitudinal studies of cortical function in behaving mice.
 
 ---
 
-### 7. [A cucurbit[8]uril-based supramolecular fluorescence probe for rapid detection of pesticide residues in herbal medicine](https://doi.org/10.1016/j.molstruc.2026.147944)
+### 14. [BioImage Archive: bringing bioimaging data together](https://doi.org/10.1093/nar/gkag1108)
 
-**Authors:** Zerong Lei, Chenghui Wang, Xin Zhang, Shouyang Chen, Qinghong Bai, Jiang Zhao, Xin Xiao  
-**Venue/category:** Journal of Molecular Structure  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.molstruc.2026.147944`  
+**Authors:** Teresa Zulueta-Coarasa, Aybuke Yoldas, Liviu Anita, Kolawole Babalola, Karatug Bircan, Cesare Cattavitello, Damiano Clementel, Miao Ma, Tushar Mandloi, Daniel Marks, Christopher Rookyard, Francois Sherwood et al.  
+**Venue/category:** Nucleic Acids Research  
+**Date:** 2026-11-05  
+**DOI:** `10.1093/nar/gkag1108`  
 **Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence probe  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+**Abstract**
+
+Abstract The BioImage Archive (https://www.ebi.ac.uk/bioimage-archive) is EMBL-EBI’s flagship resource for life sciences image data. It serves as a deposition database for biological images across scales from near-atomic through to whole organisms, and across imaging modalities. The Archive’s mission is to support the reproducibility of quantitative results based on imaging, support methods development including modern deep-learning-based approaches, and allow large-scale reanalysis of image data. Across the Archive’s ecosystem, we provide access to over 11 PB of image data. Recent developments in underpinning infrastructure now allow interactive exploration, visualization, and streaming access to a subset of the Archive’s data using the new OME-Zarr file format, and will ultimately provide access to all of EMBL-EBI’s archived image data, including data from the Electron Microscopy Public Image Archive. Migration of all holdings and a unified submission system are in progress.
 
 ---
 
-### 8. [Correction: Combining Fluorescence Imaging and Machine Learning for Rapid Non-Destructive Characterization of Cured Tobacco Quality and Variety](https://doi.org/10.1007/s11947-026-04642-1)
+### 15. [Bandgap and Interface Engineering of Ag–Au–S Quantum Dots toward Bright Near-Infrared Emission and Deep-Tissue Bioimaging](https://doi.org/10.1021/acsnano.6c12991)
 
-**Authors:** Maulidia Hilaili, Ayoub Fathi-Najafabadi, Mahshad Maghoumi, Dimas Firmanda Al Riza, Lucia Russo, Maria Matloob, Naoshi Kondo, Danial Fatchurrahman  
-**Venue/category:** Food and Bioprocess Technology  
-**Date:** 2026-11-04  
-**DOI:** `10.1007/s11947-026-04642-1`  
+**Authors:** Kazutaka Akiyoshi, Hinako Hayashi, Mariko Hasegawa, Eunyeong Ko, Nurmanita Rismaningsih, Chie Miyamae, Hiroyuki Okada, Tatsuya Kameyama, Hiroki Sato, Yusuke Ohshima, Shota Yamada, Hiroshi Yukawa et al.  
+**Venue/category:** ACS Nano  
+**Date:** 2026-11-05  
+**DOI:** `10.1021/acsnano.6c12991`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+**Abstract**
+
+Abstract Low-toxicity colloidal quantum dots (QDs) with tunable near-infrared (NIR) emission are promising for bioimaging because biological tissues exhibit relatively low light scattering and absorption in the 700–1700 nm optical window. However, it remains challenging to achieve high photoluminescence quantum yields (PLQYs), aqueous stability, and tunable emission simultaneously. Here, we demonstrate efficient NIR emission from Ag–Au–S QDs by combining composition control with heterointerface engineering. Varying the Ag/Au ratio tuned the bandgap from 1.39 to 1.88 eV and shifted the PL peak from 1130 to 745 nm. QDs prepared with an Ag/(Ag+Au) precursor ratio of 0.75 had an average diameter of 2.5 nm and consisted of a polycrystalline Ag3AuS2 core surrounded by an amorphous Ag–S-rich surface layer. These QDs exhibited a PL peak at 800 nm with a PLQY of 3.4%. In–S shell coating increased the PLQY to 33.6%. Subsequent ZnS treatment produced Janus-like Ag–Au–S@In–Zn–S QDs exhibiting a PL peak at 840 nm with a PLQY of 38.9%, consistent with suppression of nonradiative recombination through surface passivation. After ligand exchange with 3-mercaptopropionic acid, the QDs were readily dispersed in water while retaining a PLQY of 27.0% and exhibited excellent PL stability in biologically relevant media. The QDs enabled in vivo deep-tissue imaging, with NIR PL detected from tissues at depths of up to 15 mm. These findings demonstrate that Ag–Au–S-based QDs are promising low-toxicity NIR probes for biomedical imaging.
+
+---
+
+### 16. [Azole-Derived Fluorescent and Colorimetric Sensors for Zn 2+ Detection: Bioimaging and Emerging Applications](https://doi.org/10.1080/10408347.2026.2755873)
+
+**Authors:** Faris J. Tayeb, Amal Adnan Ashour, Mohammed Fareed Felemban, Alaa Shafie  
+**Venue/category:** Critical Reviews in Analytical Chemistry  
+**Date:** 2026-11-05  
+**DOI:** `10.1080/10408347.2026.2755873`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+---
+
+### 17. [Standardized quantitative imaging of extracellular polymeric substance in chronic wounds: Prognostic comparison of wound blotting and bacterial fluorescence imaging](https://doi.org/10.1016/j.bioflm.2026.100392)
+
+**Authors:** Yu-Feng Wu, Yuan-Chang Tung, Shu-Yun Sheu, Nai-Chen Cheng, Chao-Min Cheng  
+**Venue/category:** Biofilm  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.bioflm.2026.100392`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 ---
 
-### 9. [Stretch-pressure bimodal conductive hydrogel with whiskered silver architecture for real-time human-machine interaction and flexible signal acquisition](https://doi.org/10.1016/j.cej.2026.183205)
+### 18. [Fluorescence imaging and nanotechnology for multiscale plant monitoring and defense regulation](https://doi.org/10.1007/s00604-026-08499-1)
 
-**Authors:** Xinrui Jia, Yanqi Yin, Yan Yu, Bingchen Zhou, Shiyu Zhang, Kangxu Zhao, Zixuan Yang, He Ding, Shili Gai, Piaoping Yang  
-**Venue/category:** Chemical Engineering Journal  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.cej.2026.183205`  
+**Authors:** Juan Wu, Guangyuan Xie, Qinglai Yang, Feirong Wang, Guilong Wu  
+**Venue/category:** Microchimica Acta  
+**Date:** 2026-11-05  
+**DOI:** `10.1007/s00604-026-08499-1`  
 **Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** conductive hydrogel  
+**Keyword score:** 9  
+**Matched:** fluorescence imaging  
 
 ---
 
-### 10. [Sky-Blue Thermally Activated Delayed Fluorescence from a Zirconium(IV) Complex](https://doi.org/10.1021/jacs.6c17453.s001)
+### 19. [A polyelectrolyte-functionalized siloxane biointerface for BV2 microglial culture](https://doi.org/10.1016/j.colsurfb.2026.116292)
 
-**Date:** 2026-11-04  
-**DOI:** `10.1021/jacs.6c17453.s001`  
+**Authors:** Timothy A. Hackett  
+**Venue/category:** Colloids and Surfaces B: Biointerfaces  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.colsurfb.2026.116292`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** biointerface  
+
+---
+
+### 20. [Synthesis of Diarylboron β ‐Diketiminate Complexes and Their Thermally Activated Delayed Fluorescence Properties](https://doi.org/10.1002/ajoc.70582)
+
+**Authors:** Shunichiro Ito, Ryoji Himeno, Shun Omagari, Shota Hosoya, Mengfei Wang, Suguru Yoshida, Katsuhisa Tanaka, Yasuchika Hasegawa, Kazuo Tanaka, Yoshiki Chujo  
+**Venue/category:** Asian Journal of Organic Chemistry  
+**Date:** 2026-11-05  
+**DOI:** `10.1002/ajoc.70582`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** thermally activated delayed fluorescence  
 
----
-
-### 11. [Microenvironment-Responsive Polyaniline− Gelatin Conductive Hydrogel Promotes Infected Diabetic Wound Healing by Modulating Skin-Resident Cells Behavior](https://doi.org/10.1021/acs.chemmater.6c01991)
-
-**Authors:** Xiaxi Pan, Fufen Li, Garang Suoan, Qingsu Cheng, Xinying Li, Zhilang Xu, Jimin Guo, Changdao Mu, Defu Li, Liming Ge  
-**Venue/category:** Chemistry of Materials  
-**Date:** 2026-11-04  
-**DOI:** `10.1021/acs.chemmater.6c01991`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** conductive hydrogel  
-
 **Abstract**
 
-Abstract Diabetic wound healing is severely impaired by persistent inflammation, bacterial infection, impaired angiogenesis, and especially disrupted bioelectrical signaling. Conductive hydrogels can help restore local bioelectrical signal transmission and provide an attractive strategy for intractable wound healing by modulating the behaviors of bioelectrically responsive skin-resident cells. Here, we developed a glucose/pH-responsive polyaniline− gelatin conductive hydrogel (HGP@D) based on double dynamic covalent crosslinking of the imine bond and boronic ester bond for promoting the Staphylococcus aureus-infected full-thickness diabetic wound healing. The HGP@D hydrogel had strong mechanical property, great tissue adhesive strength, glucose/pH dual-responsive drug release behavior, alongside robust broad-spectrum antibacterial activity, and potent intracellular antioxidation. The HGP@D hydrogel restored local bioelectrical signaling and created an anti-inflammatory wound microenvironment, thereby modulating the behaviors of skin-resident cells involved in diabetic wound repair, including fibroblast migration, macrophage M2-like polarization, and endothelial angiogenic activity. Mechanistic analyses suggested that the HGP@D hydrogel promoted infected diabetic wound healing through two Ca2+-associated regulatory axes: the Ca2+/CaMKKβ/AMPK/NF-κB axis for inflammatory regulation and the Ca2+/PI3K/Akt/mTOR/HIF-1α/VEGF axis for angiogenesis and tissue reconstruction. Overall, HGP@D provides a promising clinical therapeutic strategy for the advanced healing of diabetic wounds and other non-healing wounds by integrating glucose/pH-responsive microenvironment regulation with bioelectrical modulation.
+ABSTRACT Diarylboron β ‐diketiminate complexes were synthesized through the complexation between β ‐diketimine and the corresponding triarylboranes. The crystal samples exhibited dual‐emission behavior, and the ratios of the two peaks varied with temperature. Temperature‐dependent photoluminescence (PL) spectroscopy suggested that the thermochromic luminescence properties observed in the crystalline state should originate from thermally activated delayed fluorescence (TADF). The results of photophysical measurements and density functional theory calculations implied that the intersystem crossing processes in this class of complexes should involve higher‐lying triplet excited states. The intensity ratio between shorter and longer wavelength PL bands showed an Arrhenius‐type relationship against temperature. Therefore, these complexes could be applied as a ratiometric luminescent thermometer.
 
 ---
 
-### 12. [Mechanistic insights into protein-mediated Zinquin fluorescence](https://doi.org/10.5802/crchim.482)
+### 21. [Hybrid Confocal Fluorescence and Photoacoustic Microscopy for In‐Depth and Noninvasive Imaging of Biomolecule‐Functionalized 3D Scaffolds](https://doi.org/10.1002/jbio.70388)
 
-**Authors:** Natalie B. Schulte, Addison M. Duda, Sara M. Tuck, Kelly N. Chacón, Benjamin G. Bobay, Michael J. Therien, Andrew M. Dale, Katherine J. Franz  
-**Venue/category:** Comptes Rendus. Chimie  
-**Date:** 2026-11-04  
-**DOI:** `10.5802/crchim.482`  
+**Authors:** Eudokia Kyriakou, George J. Tserevelakis, Konstantina Terzaki, Petros Tavlas, Chrysanthi Pinelopi Apostolidou, Stefanos Mavrikos, Costas P. Grigoropoulos, Anna Mitraki, Maria Farsari, Giannis Zacharakis  
+**Venue/category:** Journal of Biophotonics  
+**Date:** 2026-11-05  
+**DOI:** `10.1002/jbio.70388`  
 **Source(s):** Crossref  
 **Keyword score:** 6  
-**Matched:** fluorescent probe  
+**Matched:** photoacoustic imaging  
 
 **Abstract**
 
-Zinquin (ZQ) is a small-molecule fluorescent probe used to monitor labile zinc in biological systems based on green fluorescence emission arising from the formation of [Zn(ZQ) 2 ] 2– complexes. However, studies in cells and protein-rich environments frequently report a pronounced blue-shifted emission, suggesting alternative interaction modes that complicate the interpretation of zinc imaging experiments. The nature of the interactions driving the blue shift is not fully understood. Here, we use the metallo-β-lactamase NDM-1 as a chemically and structurally well-defined model to elucidate the molecular origins of ZQ fluorescence in a zinc-binding protein. The NDM-1 has two distinct Zn 2+ ions in its active site, enabling direct assessment of zinc speciation, enzymatic activity, and structural integrity. Through an integrated approach combining fluorescence spectroscopy, enzyme activity assays, inductively coupled plasma mass spectrometry, X-ray absorption spectroscopy, and nuclear magnetic resonance, we identify two sources of ZQ fluorescence for this protein: formation of [Zn(ZQ) 2 ] 2– by stripping the weaker bound zinc, and a zinc-mediated ternary complex formed by NDM-1, Zn 2+ , and ZQ. This 1:1:1 complex localizes at the higher affinity zinc-binding site, where ZQ interacts concurrently with protein-bound zinc and specific residues of the NDM-1 active site. These nonpolar interactions generate a blue-shifted emission that is spectroscopically distinct from free zinc–ZQ complexes. This study characterizes the ternary complex that drives a protein-mediated fluorescence mechanism for ZQ and highlights the need to consider probe–protein interactions when interpreting fluorescent signals in chemical biology studies.
+ABSTRACT The precise integration of biomolecules within three‐dimensional (3D) scaffolds is essential for tissue engineering and regenerative medicine. However, conventional characterization techniques, such as scanning electron microscopy, are destructive or limited to surface analysis, while confocal fluorescence microscopy is often hindered by scaffold autofluorescence. Here, we introduce a nondestructive hybrid imaging approach combining confocal fluorescence and frequency‐domain photoacoustic microscopy for volumetric characterization of biomolecule‐functionalized scaffolds. The method was demonstrated on honeycomb‐inspired 3D scaffolds fabricated by multiphoton lithography using a zirconium‐based hybrid photoresist and functionalized with Fmoc‐Asp‐OFm amyloid peptide fibrils via gold‐ion coating. Confocal fluorescence microscopy effectively resolves the scaffold architecture, whereas photoacoustic imaging selectively reveals the spatial distribution of peptide fibrils on the surface and within the scaffold volume, unaffected by autofluorescence. By decoupling structural and biomolecular information, this complementary approach enables nondestructive volumetric assessment of functionalized 3D microstructures, offering valuable capabilities for biomaterials characterization and quality control.
 
 ---
