@@ -1,23 +1,25 @@
 {
-  "run_day": "2026-11-05",
-  "report_path": "reports/2026-11-05.md",
-  "csv_path": "reports/2026-11-05.csv",
-  "new_candidate_count": 115,
-  "fetched_count": 334,
+  "run_day": "2026-11-06",
+  "report_path": "reports/2026-11-06.md",
+  "csv_path": "reports/2026-11-06.csv",
+  "new_candidate_count": 243,
+  "fetched_count": 674,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 27,
+    "Semantic Scholar": 1,
     "Crossref": 27,
     "arXiv": 27
   },
   "source_record_counts": {
-    "Semantic Scholar": 23,
-    "Crossref": 311,
-    "arXiv": 0
+    "Semantic Scholar": 6,
+    "Crossref": 667,
+    "arXiv": 1
   },
-  "source_errors": {},
-  "health_degraded": false,
-  "kept_count": 21,
+  "source_errors": {
+    "Semantic Scholar": "Semantic Scholar query 'organic bioelectronics' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=organic+bioelectronics&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
+  },
+  "health_degraded": true,
+  "kept_count": 16,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }
