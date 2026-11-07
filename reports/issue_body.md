@@ -1,222 +1,114 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-06
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-07
 
-- **New candidate records across sources:** 243
-- **Papers passing keyword filter:** 16
+- **New candidate records across sources:** 193
+- **Papers passing keyword filter:** 9
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [Green Fenton-like Synthesis of Anion-Tunable PEDOT Conductive Powders for Flexible Bioelectronics](https://doi.org/10.1021/acsapm.6c03187)
+### 1. [Spatially confined programmable DNA hydrogel scaffolds accelerate Cas12a trans-cleavage for digital bioimaging](https://doi.org/10.1016/j.bios.2026.119153)
 
-**Authors:** Ziwei Jiang, Gen Wang, Xiyuan Duan, Huiyang Zhang, Ranxing Deng, Xuan-Feng Jiang, Daheng Wang, Shimin Wang  
-**Venue/category:** ACS Applied Polymer Materials  
-**Date:** 2026-11-06  
-**DOI:** `10.1021/acsapm.6c03187`  
-**Source(s):** Crossref  
-**Keyword score:** 30  
-**Matched:** bioelectronics, bioelectronic, wearable bioelectronics, conductive polymer  
-
-**Abstract**
-
-Abstract Conventional chemical oxidative polymerization of EDOT to produce pristine PEDOT conductive polymers has several critical drawbacks, including long reaction times, high oxidant consumption, low product purity, severe environmental pollution, and low conductivity (&lt;1 S/cm). These limitations hinder the use of pristine PEDOT in high-performance flexible bioelectronics. In this work, we address these challenges by developing a green and efficient Fenton-like oxidative polymerization strategy using hydrogen peroxide as the oxidant and a trace amount of iron salt as the catalyst. This radical-mediated process generates no harmful byproducts. The conductivity and yield of the resulting PEDOT powders are influenced by the acid dosage, reaction time, iron concentration, and oxidant amount. The resulting neutral PEDOT powders exhibit high purity, uniform particle size, good aqueous dispersibility, low residual iron content, and a moderate conductivity of 6.5 S/cm. Based on these properties, we fabricate a physically cross-linked biohydrogel through a freeze–thaw process using PEDOT powder, poly(vinyl alcohol) (PVA), and a small amount of tannic acid (TA). The resulting PVA/PEDOT/TA/Fe3+ hydrogel exhibits excellent stretchability, adhesion, electrical stability, and biocompatibility. Overall, this work provides a green and versatile platform for developing high-performance PEDOT-based hydrogels, with potential applications in wearable bioelectronics, including skin-mounted sensors, medical patches, and neuromuscular stimulators.
-
----
-
-### 2. [Biodegradable Conductors for Implantable and Wearable Transient Bioelectronics](https://doi.org/10.1002/adfm.79473)
-
-**Authors:** Yicheng Zhu, Yijun Liu, Naoji Matsuhisa  
-**Venue/category:** Advanced Functional Materials  
-**Date:** 2026-11-06  
-**DOI:** `10.1002/adfm.79473`  
-**Source(s):** Crossref  
-**Keyword score:** 24  
-**Matched:** bioelectronics, bioelectronic, conducting polymer  
-
-**Abstract**
-
-ABSTRACT Transient bioelectronics, as an emerging class of electronic systems, can degrade at controlled rates or within predefined time frames, thereby avoiding the risks associated with secondary surgical removal while reducing electronic waste. In biomedical applications, these systems offer new opportunities for short‐term monitoring, diagnosis, and therapy in both implantable and wearable formats. Within these systems, biodegradable conductors serve as core functional materials that enable sensing, electrical stimulation, and transmission of signals and energy, thereby determining overall device performance. This review provides a comprehensive overview of recent advances in biodegradable conductors, focusing on their degradation mechanisms and the key performance requirements for integration into transient bioelectronics. The characteristics of different classes of biodegradable conductors, including metals, conducting polymers, ionic conductors, and conductive composites, are discussed. Strategies for evaluating and regulating their functional lifetimes, as well as suitable fabrication approaches, are presented. Finally, representative biomedical applications in sensing, stimulation, energy devices, and drug delivery systems are summarized, and future perspectives for the development of transient bioelectronics are outlined.
-
----
-
-### 3. [SHIELD: An Argonaute-powered immobilization-free homogeneous electrochemical biosensor for ultrasensitive viable pathogen detection](https://doi.org/10.1016/j.bios.2026.119393)
-
-**Authors:** Jiali Qiao, Baoqing Bai, Ying Zhang, Wenyan Yan, Wenbo Lu, Yukun Yang, Shuo Wang  
+**Authors:** Huibin Wang, Haoran Shen, Kangling Tang, Lixuan Guan, Jiawen Yuan, Yingju Liu, Weipeng Liu  
 **Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119393`  
-**Source(s):** Crossref  
-**Keyword score:** 17  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 4. [A pheromone receptor-based diamond biosensor for the detection of the invasive fall armyworm Spodoptera frugiperda](https://doi.org/10.1016/j.biosx.2026.100849)
-
-**Authors:** Emmanuel Scorsone, Oumaima Zaki, Thuy Nguyen, Gaelle Lissorgues, Kaja Reiffert, Philipp Hanisch, Philippe Lucas, Camille Meslin, Emmanuelle Jacquin-Joly, Lionel Rousseau  
-**Venue/category:** Biosensors and Bioelectronics: X  
 **Date:** 2026-12-01  
-**DOI:** `10.1016/j.biosx.2026.100849`  
+**DOI:** `10.1016/j.bios.2026.119153`  
 **Source(s):** Crossref  
-**Keyword score:** 17  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 28  
+**Matched:** bioelectronics, bioelectronic, biosensor, bioimaging  
 
 ---
 
-### 5. [Closed-loop in-situ management of organic water contaminants enabled by a layered nanoarchitectured sensor with autonomous purge function](https://doi.org/10.1016/j.bios.2026.119407)
+### 2. [Structural engineering of flexible 1-3-2 PMN-PT/epoxy composite for high performance ultrasonic energy harvesting and bioelectronics](https://doi.org/10.1016/j.cej.2026.183881)
 
-**Authors:** Jiacheng Ding, Yandong Che, Xu Wang, Bing Yang, Jie Zhou, Lingru Kong, Tõnu Pullerits, Peng Song, Yanqiu Yang  
+**Authors:** Zhang Zhang, Lili Yang, Qi Wang, Chuhao Yin, Xinyu Sun, Ziyun Chen, Xiaofan Huang, Xu Zhong, Zhen Liu, Haosu Luo, Lifu Wu  
+**Venue/category:** Chemical Engineering Journal  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.cej.2026.183881`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** bioelectronics, bioelectronic  
+
+---
+
+### 3. [Signal-amplified fluorescent biosensing for exosomes analysis and exosomes-driven high-throughput screening of traditional Chinese medicine](https://doi.org/10.1016/j.bios.2026.119406)
+
+**Authors:** Qiongdan Zhang, Feibing Huang, Huihong Duan, Qingyi Liu, Huizhen Wang, Wei Wang, Bin Li  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119407`  
+**DOI:** `10.1016/j.bios.2026.119406`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 6. [A deep monitoring microfluidic platform for label-free identification and nanodrug evaluation in lung cancer](https://doi.org/10.1016/j.bios.2026.119395)
+### 4. [Dual interfacial engineering of Cas12a trans-cleavage and luminophore stability for robust electrochemiluminescence biosensing of tetrodotoxin](https://doi.org/10.1016/j.bios.2026.119399)
 
-**Authors:** Shuaishuai Zhang, Bing Bo, Haiyan Gu, Mingcan Chen, Dihang Wu, Yingchuan Li, Jixiang Wang, Jingjing Xu  
+**Authors:** Chao Yan, Ruolan Liu, Jingyi Xu, Jie Zhang, Jiajia Guo, Bangben Yao, Qingxi Wu, Baowei Zhang, Wei Chen  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119395`  
+**DOI:** `10.1016/j.bios.2026.119399`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 7. [Tunable Fluorescence of Graphdiyne Quantum Dots by Enlarging π System and Altering Electronic Structure](https://doi.org/10.3390/molecules31213998)
+### 5. [Rapid acetate quantification via microbial electrochemical sensors: A temporal modeling approach with cross-strain validation](https://doi.org/10.1016/j.bios.2026.119138)
 
-**Authors:** Ling Qiao, Wenchao Lang, Jia Luo, Xiaoqing Xu  
-**Venue/category:** Molecules  
-**Date:** 2026-11-06  
-**DOI:** `10.3390/molecules31213998`  
+**Authors:** Suyun Xu, Yuehong Liu, Junhao Bian, Lin Gu, Yize Li, Yuchen Zhang  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.bios.2026.119138`  
 **Source(s):** Crossref  
-**Keyword score:** 14  
-**Matched:** bioimaging, fluorescence imaging  
-
-**Abstract**
-
-Extending the fluorescence of graphdiyne quantum-dot-derived materials beyond the predominantly reported blue-to-green region may broaden their use in fluorescence imaging and sensing. To address this issue, modified graphdiyne quantum dots (M-GDQDs) with green, yellow, and red fluorescence were first obtained by classical hydrothermal and solvothermal methods. Experimental and theoretical studies have shown that the enlargement of the π system and the changes in electronic structures contributed to the red shift in the fluorescence emission wavelength, although the individual contributions of conjugation and surface chemistry could not be quantitatively separated. The prepared M-GDQDs exhibit wonderful optical properties, good water solubility and excellent biocompatibility, which are beneficial for bioimaging. This study not only enriches the types of graphdiyne quantum dots, but it can also be used for the construction of multichannel fluorescent biosensing platforms. We believe that the emergence of M-GDQDs offers promising application prospects in the fields of nanomedicine and disease-related biomarker analysis.
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 8. [Carbon Quantum Dots for Bioimaging: Advancements and Applications](https://doi.org/10.21741/9781644904435-10)
+### 6. [α-terthiophene isomeric probes for viscosity bioimaging: aggregation behavior and restriction of intramolecular vibration mechanism](https://doi.org/10.1016/j.microc.2026.120227)
 
-**Authors:** Shiza Noor  
-**Venue/category:** Materials Research Foundations  
-**Date:** 2026-12-15  
-**DOI:** `10.21741/9781644904435-10`  
+**Authors:** Boyu Lv, Yichen Wang, Ziyan Zhang, Yue Li, Mengfan Chen, Yu Chen, Wen Gu  
+**Venue/category:** Microchemical Journal  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.microc.2026.120227`  
 **Source(s):** Crossref  
 **Keyword score:** 12  
 **Matched:** bioimaging  
 
-**Abstract**
-
-Carbon quantum dots (CQDs) have emerged as versatile fluorescent nanomaterials (NMs), offering remarkable potential for high-resolution and targeted bioimaging applications due to their exceptional photostability, reduced photobleaching, facile surface functionalization, biocompatibility, and tunable optical properties. This chapter unveils the synthesis methods, structural and optical properties, fluorescence-based imaging mechanisms, and techniques for functionalizing the surface of these materials to enhance their biomedical performance. The chapter further explores various applications, including cellular imaging, fluorescence-guided surgery, and multimodal diagnostics, followed by comparing CQDs with different NMs. Lastly, clinical translational issues and the future trend of CQD-based bioimaging are discussed.
-
 ---
 
-### 9. [Dual-channel fluorescence imaging of arginase/peroxynitrite imbalance in metabolic inflammation-related macrophage models and diabetic liver tissues](https://doi.org/10.1016/j.saa.2026.128885)
+### 7. [Facilitating spectral separation for ratiometric fluorescence imaging of HClO by mediating π-bridge effect within refined quinoxaline derivatives](https://doi.org/10.1016/j.snb.2026.141187)
 
-**Authors:** Andong Qi, Zilu Li, Junyu Zhou, Hao Yuan, Hanchuang Zhu, Baocun Zhu  
-**Venue/category:** Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy  
+**Authors:** Yong Zhao, Jia Hao Xie, Geng Rong Chen, Zi Yi Xu, Fang Ying Zhao, Nian Bing Li, Hong Qun Luo  
+**Venue/category:** Sensors and Actuators B: Chemical  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.saa.2026.128885`  
+**DOI:** `10.1016/j.snb.2026.141187`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 ---
 
-### 10. [End-to-end deep learning for identifying Alzheimer’s disease signatures in spectral fluorescence imaging of normal-appearing brain regions in 5xFAD mice](https://doi.org/10.1117/1.jmi.13.6.064001)
+### 8. [Wearable and fruit-proximal sensing for postharvest monitoring: Assessing biointerface effects, signal interpretation, and decision readiness](https://doi.org/10.1016/j.compag.2026.112645)
 
-**Authors:** Raissa Souza, Paula J. Brandt, Anthony J. Winder, Mohammad Khazaei, Peter K. Stys, Nils D. Forkert  
-**Venue/category:** Journal of Medical Imaging  
-**Date:** 2026-11-06  
-**DOI:** `10.1117/1.jmi.13.6.064001`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
-
-**Abstract**
-
-PurposeAlzheimer’s disease (AD) is the leading cause of dementia, characterized by the accumulation of amyloid-β and tau aggregates in the brain. Current diagnostic approaches primarily detect mature plaques, but growing evidence suggests that pre-fibrillar aggregates are present earlier in normal-appearing tissue and may provide a valuable window for intervention. We propose the first proof-of-concept end-to-end deep learning (DL) model to identify AD signatures directly from normal-appearing tissue (i.e., background parenchyma) of raw spectral fluorescence data.ApproachTo develop and evaluate our DL model, we used one million signals extracted from spectral fluorescence images of brain cortex sections collected from wild-type and 5xFAD mice (a transgenic strain carrying five familial human AD mutations).ResultsOur results demonstrate that AD-related signatures can indeed be detected in normal-appearing brain cortex regions. Experiments revealed that model performance depends on input dimensions, training set size, and the preprocessing kernel size. The optimal configuration used 1000×32 input, 9000 training samples, and a 3×3 kernel, achieving ≥95% accuracy, sensitivity, specificity, F1-score, and area under the receiver operating characteristic curve. Importantly, no mice were misclassified, and saliency analysis indicated that a broad range of spectral fluorescence wavelengths contributed to the model’s decisions.ConclusionsThese findings highlight the potential of DL-based analysis of spectral fluorescence data to enable earlier detection of AD-related changes, supporting a shift toward a more proactive strategy for biomarker discovery.
-
----
-
-### 11. [Development of time-resolved fluorescence spectroscopy using heralded emission spectroscopy for organic light-emitting materials](http://arxiv.org/abs/2611.07770v1)
-
-**Authors:** Nicola J. Fairbairn, Koya Onoda, Ozora Iso, Masahiro Yabuno, Hirotaka Terai, Shigehito Miki, Yuji Kagotani, Motoyasu Adachi, Gordon J. Hedley, Ryosuke Shimizu  
-**Venue/category:** quant-ph  
-**Date:** 2026-11-05  
-**arXiv:** `2611.07770`  
-**Source(s):** arXiv  
-**Keyword score:** 8  
-**Matched:** bioimaging  
-
-**Abstract**
-
-Organic light-emitting materials are widely used in optoelectronics and bioimaging, but sometimes conventional fluorescence spectroscopy techniques can be limited by scattering, background fluorescence, photon pile-up and photobleaching. We report a quantum-spectroscopic approach using frequency-entangled, nondegenerate photon pairs generated via spontaneous parametric down-conversion with heralded detection, to perform photoluminescence lifetime measurements at low excitation intensities. We demonstrate this approach across three organic light-emitting material classes: the fluorescent dye Rhodamine 6G, an organic semiconducting conjugated polymer poly[2-methoxy-5-(2-ethylhexyloxy)-1,4-phenylenevinylene] (MEH-PPV), and a fluorescent protein mOrange. The intrinsic timing correlation between signal and idler photons enables coincidence gating that suppresses uncorrelated background counts. Across all materials and integration times of 500, 1000 and 3600 seconds, heralded detection yields signal-to-noise ratios 1.6-3.0 times higher than classical pulsed-laser excitation attenuated to match heralded photon counts in the fitting range. For MEH-PPV, this roughly halves the noise amplitude. Our measured lifetimes closely match long-integration classical pulsed-laser reference values.
-
----
-
-### 12. [Synthesis and electroluminescence properties of D-A-D type thermally activated delayed fluorescence materials based on furo[3,2-d]pyrimidine acceptor](https://doi.org/10.1016/j.jphotochem.2026.117839)
-
-**Authors:** Liang Chen, Shipan Xu, Xuyang Du, Junfei Tao, Huaiteng Hang, Hao Bai, Guijiang Zhou, Yuanhui Sun, Xiaolong Yang  
-**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
-**Date:** 2027-04-01  
-**DOI:** `10.1016/j.jphotochem.2026.117839`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** thermally activated delayed fluorescence  
-
----
-
-### 13. [Structure–thermodynamics–biointerface correlations in trimetallic Au–Pt–Pd nanofluids with antimycobacterial activity](https://doi.org/10.1016/j.molstruc.2026.147804)
-
-**Authors:** Amit Dubey  
-**Venue/category:** Journal of Molecular Structure  
+**Authors:** Ying Zhang, Sirui Liang, Chun-Yan Shen, Jialiang Pan, Wenzhen Liao, Xingfen Yang, Qi He  
+**Venue/category:** Computers and Electronics in Agriculture  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.molstruc.2026.147804`  
+**DOI:** `10.1016/j.compag.2026.112645`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** biointerface  
 
 ---
 
-### 14. [Human hair aging beyond graying: A case-comparative biointerface phenotype from a 104-year-old donor](https://doi.org/10.1016/j.colsurfb.2026.116164)
+### 9. [Retraction notice to: “A fluorescent signal "removal" sensor via duplex-specific nuclease-aided cleavage for miRNA detection in flow cytometry” [Colloids Surf. B: Biointerfaces. 185 (2020), 110570]](https://doi.org/10.1016/j.colsurfb.2026.116208)
 
-**Authors:** Raphael C.L. Machado, Maria Valéria Robles Velasco, Claudinéia Aparecida Sales de Oliveira Pinto, Árina Colombane Câmara, Maria Cecília B.S. Salvadori  
+**Authors:** Weipan Peng, Yiwen Huang, Qian Zhao, Guowei Lian, Minghui Chen, Jiafang Piao, Xiaoqun Gong, Jin Chang  
 **Venue/category:** Colloids and Surfaces B: Biointerfaces  
 **Date:** 2027-01-01  
-**DOI:** `10.1016/j.colsurfb.2026.116164`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** biointerface  
-
----
-
-### 15. [Cur-EGCG-Fe coordination nanoparticle-functionalized gelatin hydrogel biointerfaces for antibacterial and inflammatory microenvironment-regulatory wound repair](https://doi.org/10.1016/j.colsurfb.2026.116227)
-
-**Authors:** Jianmei Han, Xiaoyan Liu, Yafan Wan, Zheqing An, Shuai Li, Dejian Li, Jian Liao  
-**Venue/category:** Colloids and Surfaces B: Biointerfaces  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.colsurfb.2026.116227`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** biointerface  
-
----
-
-### 16. [Acid-responsive natural amphiphile self-assembled nanoparticles with enhanced biointerface performance for tomato gray mold management](https://doi.org/10.1016/j.colsurfb.2026.116146)
-
-**Authors:** Longqian Xue, Qi Chen, Douxin Xiao, Alideertu Dong  
-**Venue/category:** Colloids and Surfaces B: Biointerfaces  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.colsurfb.2026.116146`  
+**DOI:** `10.1016/j.colsurfb.2026.116208`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** biointerface  
