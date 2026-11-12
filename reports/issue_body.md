@@ -1,184 +1,251 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-11
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-12
 
-- **New candidate records across sources:** 78
-- **Papers passing keyword filter:** 13
+- **New candidate records across sources:** 65
+- **Papers passing keyword filter:** 19
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [One-year evaluation of a 128-channel flexible IrOx neural interface and development of a miniaturized 256-channel integrated prototype](https://doi.org/10.1016/j.bios.2026.119389)
+### 1. [Direct integration of stretchable modules for implantable bioelectronics](https://doi.org/10.21203/rs.3.rs-11293766/v1)
 
-**Authors:** Dongyang Wen, Longchun Wang, Guijun Shu, Yang Xiao, Linkun Gu, Xiao Wang, Ming Yin, Jingquan Liu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119389`  
+**Authors:** Yesol Kim, Hoechang Chung, Chanhui Park, Seonghyeon Nam, Sung-Hyuk Sunwoo, Dae-Hyeong Kim  
+**Date:** 2026-11-12  
+**DOI:** `10.21203/rs.3.rs-11293766/v1`  
 **Source(s):** Crossref  
-**Keyword score:** 26  
-**Matched:** bioelectronics, bioelectronic, neural interface, biosensor  
-
----
-
-### 2. [Significance of DPP-4 Inhibition for Glucose Modulation and Its Bioimaging with Small Molecular Probes](https://doi.org/10.3390/molecules31224061)
-
-**Authors:** Sana Nazeer, Yating Lin, Tong Lin, Zhengrong Huang, Daliang Li  
-**Venue/category:** Molecules  
-**Date:** 2026-11-11  
-**DOI:** `10.3390/molecules31224061`  
-**Source(s):** Crossref  
-**Keyword score:** 24  
-**Matched:** bioimaging, fluorescence imaging, fluorescent probe  
+**Keyword score:** 41  
+**Matched:** bioelectronics, bioelectronic, stretchable bioelectronics, implantable bioelectronics  
 
 **Abstract**
 
-Diabetes mellitus is a metabolic disease that results from a reduced response to insulin, or a lack of it, either due to a deficiency of insulin or a diminished effectiveness of the insulin. The pharmacological inhibition of human DPP-4 results in increased incretin activity, and this has beneficial effects on glucose control in type 2 diabetes mellitus. Contrary to this, certain species of the gut microbiome have been found to include DPP-4-like enzymes, which can degrade incretin hormones. They are reported in biochemical and animal studies to have potential metabolic relevance but are associated in human studies and have not been proven to be a factor in the response to clinical treatment. The present narrative review covers the reported pharmacology of human DPP-4, setting up the data on the microbial enzyme, as well as two detection methods based on fluorescence and natural compounds tested as inhibitors. Fluorescent probes are versatile tools for enzyme activity assays, fluorescence imaging, and inhibitor screening, but may not be readily distinguishable as host vs. microbial and may lack clinical validation. There is evidence of natural inhibitors from computational predictions and biochemical and animal observations, but efficacy against microbial DPP-4 needs to be determined directly. Co-inhibition by host and microbe is thus a potential research approach and not a clinically proven therapy. Priorities for the future are source-selective assays; exposure of the enzyme to the intestinal barrier; assessment of safety and bioavailability for individual compounds; and controlled human studies.
+Abstract Stretchable implantable bioelectronics enable mechanically compliant operation on deforming tissues, yet system-level integration remains challenging. Integrating electrode, interconnect, and circuit modules often requires additional adhesive or conductive bonding layers at their junctions, complicating fabrication and potentially compromising mechanical robustness. Here, we introduce an interlayer-free integration strategy that combines self-healing polymer substrates with liquid metal conductors. Healing-mediated interfacial reconstruction of the polymer substrates forms mechanically cohesive junctions within minutes of contact, while fluidic reconnection of the liquid metal establishes electrical continuity between modules. These junctions exhibit an interfacial toughness of 600 N m − 1 and maintain electrical continuity at tensile strains of approximately 1,000%. Electrode impedance and charge storage capacity show limited changes after repeated stretching. Self-healing between overlapping regions of the polymer substrate further secures electrodes wrapped around the heart and sciatic nerve. The assembled wireless systems deliver cardiac and sciatic nerve stimulation in rat models, demonstrating their stable operation in vivo. Together, these results extend self-healing beyond damage repair to system assembly and tissue fixation, enabling stretchable bioelectronics to function on dynamically moving organs.
 
 ---
 
-### 3. [Solvent-dependent fluorescent probe with distinctly opposite sensing behavior for toxic Hg2+: application in food, plants analysis, and bioimaging](https://doi.org/10.1016/j.aca.2026.346494)
+### 2. [Benchmarking Wearable Bioelectronics: A Multimodal Evaluation Framework Integrating Parametric Regression, Machine Learning, and Fuzzy Logic Across Domain Applications](https://doi.org/10.47852/bonviewswt620211731)
 
-**Authors:** Yuanhui Xu, Xiaoqian Wu, Yongkang Zhang, Xutang Liu, Yuling Zeng, Haichang Ding, Congbin Fan, Gang Liu, Shouzhi Pu  
-**Venue/category:** Analytica Chimica Acta  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.aca.2026.346494`  
+**Authors:** Hamza Saad  
+**Venue/category:** Smart Wearable Technology  
+**Date:** 2026-11-12  
+**DOI:** `10.47852/bonviewswt620211731`  
+**Source(s):** Crossref  
+**Keyword score:** 29  
+**Matched:** bioelectronics, bioelectronic, wearable bioelectronics  
+
+**Abstract**
+
+This paper examines how a range of factors, including hardware architecture, sensor accuracy, battery lifetime, and user satisfaction, influence the performance and applicability of wearable technology. Through a study of 29 hardware and more than 2,300 hardware-enabled outcomes, we present a comprehensive analytical model, which includes ordinary least squares regression, nonlinear Random Forest feature extraction, and Takagi–Sugeno fuzzy logic inference. The models indicate that the four main performance indicators are heart rate accuracy, sleep tracking accuracy, battery life, and consumer satisfaction. Sensitivity analysis reveals that the hardware form factor is a unique technological architecture that no other hardware form factor can substitute for. People believe that denser hardware improves electronic quality; however, our analysis revealed that the more sensors a piece of hardware has, the lower its performance is (𝛽 = −0.542, p
+
+---
+
+### 3. [Development of a lysosome-targeted fluorescent probe for bioimaging of hypochlorous acid in environmental and biological systems](https://doi.org/10.1016/j.jphotochem.2026.117761)
+
+**Authors:** Litong Miao, Jingfen Yin, Mingguang Ren, Keyin Liu, Shoujuan Wang, Fangong Kong  
+**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.jphotochem.2026.117761`  
 **Source(s):** Crossref  
 **Keyword score:** 21  
 **Matched:** bioimaging, fluorescent probe  
 
 ---
 
-### 4. [Upcycling distillers’ spent grains to fabricate Fe-doped lignin-derived carbon nanozymes for tri-modal visual colorimetric-fluorescent-photothermal quantification of starch in liquor fermented grains](https://doi.org/10.1016/j.bios.2026.119424)
+### 4. [An ‘AIEE+ESIPT’ active turn-on fluorescent probe for selective detection of Al3+ ion and living cell bioimaging: Experimental and theoretical exploration](https://doi.org/10.1016/j.jphotochem.2026.117570)
 
-**Authors:** Weizhen Xu, Haiyang Liang, Zihao Feng, Nuoyu Liu, Anting Yang, Zonghua Ao, Zhilin Chen, Chuan Song, Suyi Zhang, Yu Zhou  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119424`  
+**Authors:** Rampada Das, Abhishek Pramanik, Samit Majumder, Shalini Dasgupta, Pallab Datta, Sasankasekhar Mohanta  
+**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.jphotochem.2026.117570`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 21  
+**Matched:** bioimaging, fluorescent probe  
 
 ---
 
-### 5. [Lab-on-chip platform for detection of malaria parasite DNA with graphene transistors](https://doi.org/10.1016/j.bios.2026.119364)
+### 5. [A terthiophene-based “turn-on” fluorescent probe for hypochlorite: From water/soil analysis to on-site food safety screening and bioimaging](https://doi.org/10.1016/j.jphotochem.2026.117708)
 
-**Authors:** Telma Domingues, Joana R. Guerreiro, Adriana F. Gonçalves, João Rodrigues, Ivo Colmiais, Andrey Ipatov, Chun-Da Liao, Bruno Almeida, Neide Vieira, Pedro Alpuim, Pedro E. Ferreira, Jérôme Borme  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119364`  
+**Authors:** Limin Liang, Baokun Li, Hai Ren, Biaobiao Jiang, Qingfen Niu  
+**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.jphotochem.2026.117708`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 21  
+**Matched:** bioimaging, fluorescent probe  
 
 ---
 
-### 6. [Flexible hollow bionic electromagnetic induction textiles for Parkinson's symptom monitoring](https://doi.org/10.1016/j.bios.2026.119421)
+### 6. [A multifunctional AIE fluorescent probe for reversible ‘turn-off-on’ Fe3+/ascorbic acid redox sensing and zebrafish bioimaging](https://doi.org/10.1016/j.jphotochem.2026.117690)
 
-**Authors:** Junyao Gong, Xiaoli Feng, Qiang Zeng, Jieyao Qin, Wanjin Hu, Jiajing Zhang, Sijie Zhou, Liangjun Xia, JianXun Zhu, Weilin Xu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119421`  
+**Authors:** Subash Jacob, Jayaprakash Jayaraman, Harish Rahul Sampath, Shana Balachandran, Mir Intaj Ali, Arun Dhurey, Madan Kumar Arumugam, Souvik Pal, Shamima Hussain, Amrita Pal, Animesh Pramanik, Subhenjit Hazra  
+**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.jphotochem.2026.117690`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 21  
+**Matched:** bioimaging, fluorescent probe  
 
 ---
 
-### 7. [A field-deployable colorimetric reverse transcription-LAMP assay for the detection of a prostate cancer biomarker](https://doi.org/10.1016/j.bios.2026.119405)
+### 7. [A novel natural pinene-based fluorescent probe for detection of H2S and its multi-application in food quality monitoring, environmental analysis and bioimaging](https://doi.org/10.1016/j.molstruc.2026.147240)
 
-**Authors:** Rajamanickam Sivakumar, Seung Kyun Park, Woo Ri Chae, Nae Yoon Lee  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119405`  
+**Authors:** Haoxue Tan, Gutianyue Qin, Lin Yang, Zhonglong Wang, Jinlai Yang, Shifa Wang  
+**Venue/category:** Journal of Molecular Structure  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.molstruc.2026.147240`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 21  
+**Matched:** bioimaging, fluorescent probe  
 
 ---
 
-### 8. [High-entropy nanozymes integrated with CRISPR/Cas12a cascade amplification for highly sensitive point-of-care detection of cardiac troponin I](https://doi.org/10.1016/j.bios.2026.119129)
+### 8. [Multifunctional conductive hydrogel biointerfaces with robust sensing for deformation monitoring and wearable electrophysiology](https://doi.org/10.1016/j.mtchem.2026.104167)
 
-**Authors:** Fanghua Liu, Lin Yang, Jun Zhang, Yin Wang, Fujian Xu, Yongjian Ai, Xue Jiang  
-**Venue/category:** Biosensors and Bioelectronics  
+**Authors:** Tingting Gao, Weishan Li, Chenyu Zhao, Zexian Long, Martin Gluchman, Haojun Xu, Fang Ma  
+**Venue/category:** Materials Today Chemistry  
 **Date:** 2026-12-01  
-**DOI:** `10.1016/j.bios.2026.119129`  
+**DOI:** `10.1016/j.mtchem.2026.104167`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 20  
+**Matched:** biointerface, electrophysiology, conductive hydrogel  
 
 ---
 
-### 9. [Not Just Gold: Engineering Nucleic Acid Probes onto Peptide Hydrogel Biointerface for Electrochemical Detection of miRNA](https://doi.org/10.1021/acsmeasuresciau.6c00350)
+### 9. [LiSIUM – a light sheet bioimaging hub in South America](https://doi.org/10.1242/jcs.265363)
 
-**Authors:** Alessandra Glovi, Panagiota M. Kalligosfyri, Mariangela Rosa, Carlo Diaferia, Michelino De Laurentiis, Antonella Accardo, Stefano Cinti  
-**Venue/category:** ACS Measurement Science Au  
-**Date:** 2026-11-11  
-**DOI:** `10.1021/acsmeasuresciau.6c00350`  
+**Authors:** Anibal A. Vargas, Luz M. Fuentealba, Alenka Lovy, Felipe A. Court, Leonardo E. Valdivia  
+**Venue/category:** Journal of Cell Science  
+**Date:** 2026-11-12  
+**DOI:** `10.1242/jcs.265363`  
 **Source(s):** Crossref  
-**Keyword score:** 10  
-**Matched:** biointerface, biosensor  
+**Keyword score:** 18  
+**Matched:** bioimaging, biological imaging  
 
 **Abstract**
 
-Abstract Surface engineering critically influences the analytical performance, manufacturability, and translational potential of electrochemical nucleic acid biosensors. Here, we introduce a peptide hydrogel (HG)-based surface engineering strategy that replaces conventional Au−thiol functionalization with a single supramolecular biointerface for disposable electrochemical biosensors. An HG based on Fmoc-FF/Fmoc-FFKK-Amide (1:2, v/v) enabled the direct immobilization of DNA probes onto disposable screen-printed electrodes, integrating electrode functionalization and probe immobilization within a single material and eliminating the multistep workflow associated with conventional immobilization strategies. The resulting platform required approximately 45 min for fabrication while reducing the consumption of costly surface-functionalization reagents, yielding disposable sensors with an estimated fabrication cost of approximately €0.60 per device. Following target hybridization, electrochemical measurements could be performed directly without additional surface-processing or labeling steps. As a proof of concept, the biosensor enabled amplification-free detection of miRNA-107 over the 0.1−1000 nM concentration range, achieving detection limits of 0.3 nM in PBS and 0.6 nM in undiluted human serum with a relative standard deviation below 4%. More broadly, this work establishes supramolecular peptide HG beyond passive scaffolds, positioning them as functional biointerfaces for the next generation of portable, cost-effective, and user-friendly electrochemical nucleic acid biosensors.
+ABSTRACT Light sheet microscopy has revolutionized biological imaging, yet prohibitive procurement costs and technical demands have restricted its availability in South America, creating a persistent technological gap for regional biomedical research. The Light Sheet Imaging at Universidad Mayor initiative (LiSIUM) has established a framework for regional access, capitalizing on a fully operational, state-of-the-art light sheet platform. In this Essay, we describe the implementation of LiSIUM and its core framework for expanding advanced imaging access across South America. This initiative has built a regional community for knowledge transfer through allocated funding, travel grants, and a structured program of international workshops, specialized courses and technical specialist support. LiSIUM provides a vital platform for high-resolution four-dimensional imaging, particularly for developmental biology, enabling investigators to address fundamental embryological questions ranging from cell fate determination to complex tissue morphogenesis. Ultimately, LiSIUM serves as a scalable model for mitigating technological disparities and empowering the next generation of researchers in resource-constrained scientific communities.
 
 ---
 
-### 10. [Voltage-Induced Nanoprecipitation Creates Persistent Iontronic States in Solid-State Nanochannels](https://doi.org/10.1021/acsnanoscienceau.6c00171)
+### 10. [Polymer-biofilm interface enables exceptional hydrovoltaic electricity generation](https://doi.org/10.1016/j.bios.2026.119413)
 
-**Authors:** Gregorio Laucirica, Angel Luciano Huamani, Omar Azzaroni, Waldemar Alejandro Marmisollé, Maria Eugenia Toimil-Molares  
-**Venue/category:** ACS Nanoscience Au  
-**Date:** 2026-11-11  
-**DOI:** `10.1021/acsnanoscienceau.6c00171`  
+**Authors:** Zhi−Wu Yan, Feng−Ying Cai, Ting−Ting Chen, Yi−Ying He, Qiu−Xiang He, Christopher Rensing, GiovanniMaria Piccini, Jian Lü, Shungui Zhou  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119413`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 11. [From qualitative to quantitative: Real-Time HSV kinetics enable smartphone-based multiplex LAMP for microbial source tracking](https://doi.org/10.1016/j.bios.2026.119429)
+
+**Authors:** Liyan Li, Sungwoo Bae  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119429`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 12. [A bacteriophage-functionalized parylene interface for rapid and direct real-time capacitive detection of Escherichia coli](https://doi.org/10.1016/j.bios.2026.119431)
+
+**Authors:** Reuben Wang, Chien-Fang Ding, Shih-Yu Chen, Hsien-Yeh Chen, Po-Chuan Hsieh  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119431`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 13. [Bioinspired multi-colored colloidal array for simultaneous visual sensing of bisphenol B and levofloxacin assisted by machine learning](https://doi.org/10.1016/j.bios.2026.119151)
+
+**Authors:** Tiantian Li, Ziwei Chen, Qi Li, Wenqi Tang, Mei Shen, Dongmei Li, Jiayue Zhou, Yinuo Chen, Guanggui Yu, Na Sai  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.bios.2026.119151`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
+
+---
+
+### 14. [All 3D-Printed Conducting Polymer Hydrogel-Based Soft Surface Electromyography Electrode Array for Noninvasive Fatigue Assessment](https://doi.org/10.1021/acsami.6c14705)
+
+**Authors:** Rongtai Wan, Jie Cao, Gen Li, Yi He, Bo Zhang, Tao Lin, Baoyang Lu  
+**Venue/category:** ACS Applied Materials & Interfaces  
+**Date:** 2026-11-12  
+**DOI:** `10.1021/acsami.6c14705`  
+**Source(s):** Crossref  
+**Keyword score:** 16  
+**Matched:** electrophysiological, conducting polymer, pedot:pss  
+
+**Abstract**
+
+Abstract High-density surface electromyography (sEMG) electrode arrays allow the recording of rich myoelectric signals and provide a useful approach for monitoring exercise-induced muscle fatigue. However, existing sEMG electrode arrays often suffer from mechanical mismatches between conventional rigid electrodes and soft tissues, as well as complex fabrication processes and limited programmability, which severely constrain the rational design and practical application of sEMG electrode arrays. Herein, we successfully fabricate an eight-channel PEDOT:PSS-PVA hydrogel-based soft sEMG electrode array via a multi-material 3D printing. Through systematic rheological characterization of the composite inks and rational design of a printable three-layer electrode architecture, we achieve seamless interfacial integration and integrated sequential fabrication. The as-prepared sEMG electrode array exhibits exceptional softness comparable to that of human soft tissues (Young’s modulus ∼ 10 kPa), low electrochemical impedance (∼22 Ω), and good electrochemical stability. Leveraging these advantageous properties, our sEMG electrode array enables noninvasive sEMG signal recording and monitoring of fatigue-associated sEMG changes with a high signal-to-noise ratio (SNR &gt; 20 dB) under various grip forces before and after exercise, and captures sEMG changes associated with fatigue progression during repetitive movements. These results validate the capability of our electrode array for high-quality sEMG monitoring of fatigue-associated electrophysiological features and open up promising avenues for future applications such as scientific athletic training.
+
+---
+
+### 15. [Sustainable protein-derived fluorescent carbon dots for sensitive Hemoglobin detection and bioimaging](https://doi.org/10.1016/j.jphotochem.2026.117632)
+
+**Authors:** Jyoti Vishwakarma, Nitisha Beniwal, Aravind Kumar Rengan, Krishna Gavvala  
+**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.jphotochem.2026.117632`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+---
+
+### 16. [Facile synthesis of small molecules-derived highly fluorescent carbon dots for dual turn-off sensing of Fe3+ and Ag+ ions with cellular bioimaging](https://doi.org/10.1016/j.jphotochem.2026.117714)
+
+**Authors:** Kuppu Sakthi Velu, Mathivanan Durai, Karthikeyan Manivannan, Nagaraj Murugan, Mani Durai, Dharani Shanmugapriya, Sonaimuthu Mohandoss, Naushad Ahmad, Vijayakumar Paranthaman  
+**Venue/category:** Journal of Photochemistry and Photobiology A: Chemistry  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.jphotochem.2026.117714`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+---
+
+### 17. [A triboelectric sensor with hydrogel electrodes for self-powered monitoring of basketball movements and joint flexion](https://doi.org/10.1016/j.elstat.2026.104410)
+
+**Authors:** Tiancong Zhang, Caihua Fu  
+**Venue/category:** Journal of Electrostatics  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.elstat.2026.104410`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
-**Matched:** iontronic  
-
-**Abstract**
-
-Abstract The iontronic response of track-etched nanochannels typically exhibits ion current rectification in highly soluble electrolytes such as KCl. In contrast, measurements in moderate-solubility electrolytes such as KClO4 yield negative differential resistance and memory effects associated with voltage-induced precipitation−dissolution phenomena. Here, we show that this process not only enables reconfigurable iontronic functionality but also induces persistent structural modifications. After voltage-induced KClO4 precipitation, measurements in perchlorate-free KCl electrolyte no longer exhibit conventional rectification but instead display an S-shaped response characteristic of strong ion concentration polarization. This altered state persists over extended periods, indicating incomplete dissolution of trapped nanoprecipitates. Systematic studies as a function of electrolyte concentration and pH, rationalized by Poisson-Nernst-Planck simulations, show that attogram amounts of trapped solid suffice to generate a local ion-depleted zone and drive the channel into a polarization-dominated transport regime. As a result, the iontronic logic operation transitions from a two-input Exclusive-NOR (XNOR) gate in the pristine state to a single-input NOT gate controlled solely by pH. In addition, dynamic iontronic studies reveal enhanced capacitive hysteresis and modified impedance signatures. These findings demonstrate that precipitation induced by moderate-solubility electrolytes, together with the incomplete dissolution of trapped precipitates, can produce long-lasting, partially irreversible modifications in nanofluidic transport, leading to reconfigurable iontronic behavior and the loss of memristive properties, while potentially compromising device stability and reproducibility. This work highlights the importance of carefully considering precipitation phenomena when designing, operating, and interpreting the response of iontronic systems.
+**Matched:** hydrogel electrode  
 
 ---
 
-### 11. [Conductive hydrogel-based flexible pressure sensors: Sensing mechanisms and applications in foot pressure monitoring](https://doi.org/10.1016/j.cis.2026.104033)
+### 18. [Pre-establishing an IMRC-seeded living biointerface coordinates infection control and osseointegration](https://doi.org/10.1016/j.bioactmat.2026.10.021)
 
-**Authors:** Xiaosu Wang, Ge Liu, Ailin Wang, Shude Yang  
-**Venue/category:** Advances in Colloid and Interface Science  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.cis.2026.104033`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** conductive hydrogel  
-
----
-
-### 12. [Toward Dynamic Biointerface Toxicology of Micro- and Nanoplastics Using Organoids and Organ-on-a-Chip Models](https://doi.org/10.1021/acs.est.6c09870)
-
-**Authors:** Changjian Xie, Iseult Lynch, Hao Qiu, Pu Xia, Zhiling Guo  
-**Venue/category:** Environmental Science & Technology  
-**Date:** 2026-11-11  
-**DOI:** `10.1021/acs.est.6c09870`  
+**Authors:** Heng Liu, Yilong He, Rui Yuan, Yanyan Liu, Boyang Jia, Xianming Zhang, Ji Tan, Kaiyuan Cheng, Shuai Lu, Maoqi Gong, Yong Huan, Chongbin Wei et al.  
+**Venue/category:** Bioactive Materials  
+**Date:** 2027-04-01  
+**DOI:** `10.1016/j.bioactmat.2026.10.021`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** biointerface  
 
-**Abstract**
-
-Abstract Micro- and nanoplastic (MNP) toxicity depends on the exposure conditions under which particles encounter biological tissues, yet nominal material descriptors alone do not resolve these conditions. Environmental transformation, biomolecular adsorption, aggregation, and chemical release can alter particle delivery and biological interactions. This Review evaluates these processes alongside evidence from organoids and organ-on-a-chip models, distinguishing direct MNP findings from analogue studies and demonstrations of platform capability. We propose exposure identity as an analytical framework connecting particle history and state with tissue encounter and subsequent processing over time. The synthesis examines what available studies establish about tissue access, barrier responses, distal relay, and susceptibility, and where interpretation remains constrained by exposure characterization or unresolved mechanisms. Human-derived models provide opportunities to investigate tissue-specific responses, but neither biological complexity nor perfusion establishes environmental representativeness or predictive validity. We identify measurement and control requirements for separating particle transfer from chemical release and tissue-derived signaling, interpreting absent effects, and evaluating heterogeneous exposures. Priorities include traceable delivered-dose measurements, synchronized exposure and response sampling, targeted mechanistic tests, and independent validation for a defined use. The proposed framework organizes evidence and testable relationships while retaining uncertainty about generalization to human exposure and health outcomes.
-
 ---
 
-### 13. [Ion-Conductive Hydrogels with Adhesion and Self-Healing Properties for Flexible Wearable Sensors](https://doi.org/10.1021/acsanm.6c04578)
+### 19. [MXene conductive hydrogel for uniform electric field wound healing](https://doi.org/10.1007/s42114-026-02175-x)
 
-**Authors:** Mengqing Wang, Chunling Zhang, Tiancong Ma, Yulin Pan, Qinyi Lu, Binqing Sun, Zhengjian Zhang  
-**Venue/category:** ACS Applied Nano Materials  
-**Date:** 2026-11-11  
-**DOI:** `10.1021/acsanm.6c04578`  
+**Authors:** Xiaojiang Yang, Shiwen Shen, Yao Li, Weiying Zheng, Negar Javanmardi, Jia Meng, Hui Jiang, Hong Qian, Zhongyang Lv, Ziying Sun, Yu Wang, Zheng Wang et al.  
+**Venue/category:** Advanced Composites and Hybrid Materials  
+**Date:** 2026-11-12  
+**DOI:** `10.1007/s42114-026-02175-x`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** conductive hydrogel  
-
-**Abstract**
-
-Abstract The application of flexible sensors in long-term wearable activity and micro-expression monitoring is limited by signal drift due to interface delamination, material damage, and insufficient sensitivity. To address this challenge, an ionically conductive hydrogel (PAMTC-Zr) integrating self-adhesion, self-healing, and high sensitivity enabled by its nanoscale features was developed in this study using digital light processing (DLP) three-dimensional (3D) printing. This hydrogel was developed based on a copolymer network of acrylamide and core−shell nanostructured tannic acid-coated cellulose nanocrystals (TA@CNC) that provide abundant nanoscale interactions. The hydrogel-based sensors accurately detected intense movements of joints, such as fingers and wrists, while precisely distinguishing subtle movements, such as smiling and cheek bulging. The integration of this hydrogel with DLP 3D printing for the fabrication of customized curved surfaces, holds promise for the developing conformable, real-time, multimodal skin patches. This study provides a practical nanoscale design strategy for developing next-generation flexible health monitoring sensors that can simultaneously monitor macroscopic movements and microscopic facial expressions.
 
 ---
