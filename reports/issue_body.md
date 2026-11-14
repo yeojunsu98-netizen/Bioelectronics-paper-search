@@ -1,118 +1,122 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-13
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-14
 
-- **New candidate records across sources:** 71
-- **Papers passing keyword filter:** 8
+- **New candidate records across sources:** 64
+- **Papers passing keyword filter:** 9
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [Electronic hair: Transforming hair into a scalable bioelectronic interface.](https://www.semanticscholar.org/paper/9adbd504dac3cdbbb80d36267d314cbaf1441570)
+### 1. [A practical primer on FLIM and FRET‐FLIM for quantitative bioimaging](https://doi.org/10.1111/jmi.70206)
 
-**Authors:** S. Shweta, Malamati Giompliaki, L. Sohail, Rémy Cornuéjols, Preston D. Donaldson, T. Abrahamsson, Dina Kc, M. Ntzouni, Sıla Yıldız Cengiz, Sofia Drakopoulou, Mary J. Donahue, M. Seitanidou et al.  
-**Venue/category:** Science Advances  
-**Date:** 2026-11-13  
-**DOI:** `10.1126/sciadv.aei3615`  
-**Source(s):** Semantic Scholar  
-**Keyword score:** 67  
-**Matched:** bioelectronic, biointegrated, bioelectronic interface, electrophysiological, organic electrochemical transistor, organic electrochemical transistors, conductive polymer, electrochemical transistor, e-skin  
-
-**Abstract**
-
-In electroencephalography, hair remains a major barrier to electrode-skin contact, limiting signal quality. Here, we introduce electronic hair (eHAIR), a strategy that converts hair into a bioelectronic interface using mixed ionic-electronic conductive polymer dyes. Hair, a keratinized filament anchored within the skin, provides a stable and naturally distributed platform for interfacing. Two complementary approaches based on polythiophene derivatives enable rapid, washable functionalization of hair bundles or semipermanent coating of individual strands. The resulting eHAIR forms conformal, low-impedance interfaces that support electrophysiological recordings with increased signal amplitude and spectral power while preserving the underlying neural dynamics without gels or rigid hardware. Beyond passive sensing, eHAIR-based organic electrochemical transistors enable local signal amplification, with gain defined by hair geometry. By repurposing hair as an active bioelectronic interface, eHAIR establishes a wearable and biointegrated platform that can be implemented from individual hairs to larger hair-covered regions.
-
----
-
-### 2. [Boosting stability and charge transfer of conducting polymer poly(benzodifurandione) (PBFDO) through complementary topology.](https://www.semanticscholar.org/paper/892bdc822524f183ff888ef89abeadecae005496)
-
-**Authors:** Yu-Hao Geng, Bo-Wen Yao, Yu-Yao Lu, Jing-Cheng Liu, Zi-Mo Chen, Shang-Cheng Zou, Zhao-Yang Yin, Xue-Song Huang, Jian-Long Xu, Jia-Jun Fu  
-**Venue/category:** Science Advances  
-**Date:** 2026-11-13  
-**DOI:** `10.1126/sciadv.aej0737`  
-**Source(s):** Semantic Scholar  
-**Keyword score:** 55  
-**Matched:** bioelectronics, bioelectronic, organic electrochemical transistor, organic electrochemical transistors, oect, conducting polymer, electrochemical transistor  
+**Authors:** Görkem S. Ulkar, Dinesh Beniwal, Maddy Parsons, Simon M. Ameer‐Beg  
+**Venue/category:** Journal of Microscopy  
+**Date:** 2026-11-14  
+**DOI:** `10.1111/jmi.70206`  
+**Source(s):** Crossref  
+**Keyword score:** 33  
+**Matched:** biosensor, bioimaging, fluorescence lifetime imaging, flim  
 
 **Abstract**
 
-Poly(benzodifurandione) (PBFDO) is a benchmark n-type conjugated polymer known for its record-high electrical conductivity. Nevertheless, its thermal robustness and charge/ion transport characteristics remain insufficient. To address this issue, we report a hierarchical complementary topology strategy via doping PBFDO with choline chloride (ChCl). At the molecular scale, the cations Ch+ selectively intercalate along the out-of-plane direction while simultaneously densifying the in-plane π-π stacking, accompanied by partial removal of H+. At the submicrometer scale, this induces distinct phase separation into high- and low-density stacking domains. As a result, the product PBFDO-ChCl exhibited a synergistic performance boost, with a 2.8-fold enhancement in high-temperature resilience, a 1.6-fold increase in sheet conductance, and a 15.9-fold reduction in ion diffusion resistance. Then, organic electrochemical transistors (OECTs) using PBFDO-ChCl as channel material further confirm these performance enhancements. As a whole, this work closes the performance gap between n-type PBFDO and state-of-the-art p-type conjugated polymers, potentially advancing its applications from energy storage to bioelectronics and neuromorphic computing.
+Abstract Fluorescence lifetime imaging microscopy (FLIM) measures the fluorescence decay time of a fluorophore and can therefore provide information that is not available from fluorescence intensity alone. Changes in lifetime can report on the local molecular environment and, through Förster resonance energy transfer measured by FLIM (FRET‐FLIM), on interactions occurring over nanometre length scales. In this primer, we describe the basic principles of FLIM and FRET‐FLIM and introduce two widely used time‐domain acquisition approaches: time‐correlated single‐photon counting and time‐gated detection. We then consider practical aspects of planning a FLIM experiment, including fluorophore choice, photon statistics, instrument response, sample preparation, and the challenges associated with imaging live and three‐dimensional specimens. Three applications are used to illustrate how lifetime measurements can be applied in biological experiments: label‐free metabolic imaging using NAD(P)H and FAD, intramolecular FRET biosensors that report conformational or signalling changes, and intermolecular FRET‐FLIM for studying protein–protein interactions. We also discuss commonly used analysis approaches, available software, and routes through which researchers can access FLIM instrumentation. The final section considers current efforts to improve measurement standardisation and analysis, together with the growing use of computational methods and the combination of FLIM with other microscopy modalities.
 
 ---
 
-### 3. [Raccoon-paw-inspired porous hydrogel electronic skin for self-powered fused perception](https://doi.org/10.1016/j.bios.2026.119180)
+### 2. [Fluorescence lifetime imaging of NAD(P)H and flavin: A practical introduction to studying metabolic heterogeneity in living samples](https://doi.org/10.1111/jmi.70205)
 
-**Authors:** Suyi Wen, Ning Li, Kunjiao Liu, Yu Niu, Xinru Yang, Yuxiu Yao, Zhichao Gao, Xiaojing Cui, Shengli Cao, Zhou Li, Hulin Zhang  
+**Authors:** Thomas S. Blacker  
+**Venue/category:** Journal of Microscopy  
+**Date:** 2026-11-14  
+**DOI:** `10.1111/jmi.70205`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** fluorescence lifetime imaging, flim  
+
+**Abstract**
+
+Abstract Fluorescence lifetime imaging microscopy (FLIM) of cellular autofluorescence allows metabolism to be visualised in living systems without exogenous labelling. By measuring the decay characteristics of NADH, NADPH and flavin autofluorescence, FLIM can be used to investigate metabolic heterogeneity within intact cells, tissues and developing organisms while preserving spatial and temporal context. Despite increasing adoption, newcomers to the field often encounter difficulties in experimental design, data analysis and metabolic interpretation. This primer therefore aims to provide a practical introduction to the principles and implementation of autofluorescence FLIM. The photophysics of NAD(P)H and flavins are summarised and the instrumental requirements for FLIM are introduced. Key aspects of experimental design are considered and approaches to fluorescence decay analysis are reviewed. The metabolic insights that can be obtained from the fitted parameters are discussed alongside the limitations of interpreting fluorescence lifetimes as direct measures of pathway activity. These concepts are illustrated through a case study in which NAD(P)H FLIM was used to identify a previously unrecognised metabolic gradient during the development of hearing. The primer advances the view that, while a sensitive reporter of metabolic state, autofluorescence FLIM alone is best viewed as a powerful hypothesis‐generating tool. When combined with targeted perturbations and orthogonal validation approaches, it provides a uniquely informative means of characterising metabolism within complex living systems.
+
+---
+
+### 3. [Active enrichment of circulating tumor DNA by supramolecular-functionalized micromotors for ultrasensitive quantification](https://doi.org/10.1016/j.bios.2026.119094)
+
+**Authors:** Zhiyong Ran, Yanbo Yu, Xiankun Lin, Yuanlin Wang, Xiaoying Hu, Hongwu Qin, Qiang He  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2026-12-01  
-**DOI:** `10.1016/j.bios.2026.119180`  
-**Source(s):** Crossref  
-**Keyword score:** 23  
-**Matched:** bioelectronics, bioelectronic, biosensor, electronic skin  
-
----
-
-### 4. [Corrigendum to “Two-photon fluorescent Zn2+ probe for ratiometric imaging and biosensing of Zn2+ in living cells and larval zebrafish” [Biosens. Bioelectr. 148, (2020), 111666]](https://doi.org/10.1016/j.bios.2026.119366)
-
-**Authors:** Wanying Li, Zhichao Liu, Bingqing Fang, Ming Jin, Yang Tian  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119366`  
+**DOI:** `10.1016/j.bios.2026.119094`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 5. [Iontronic Sensing](https://doi.org/10.1142/15161)
+### 4. [Carbon quantum dots surface-bound Nd3+ “antenna effect” for the ratiometric visual detection of tetracycline: Test-strip, security ink, real food samples and multicolor bioimaging](https://doi.org/10.1016/j.inoche.2026.117888)
 
-**Authors:** Tingrui Pan  
-**Date:** 2026-11-13  
-**DOI:** `10.1142/15161`  
+**Authors:** Sonaimuthu Mohandoss, Mathivanan Durai, Lalitha Gnanasekaran, Karthikeyan Manivannan, Kuppu Sakthi Velu, Nagaraj Murugan, Mani Durai, Dharani Shanmugapriya, Salim Manoharadas, Vijayakumar Paranthaman, Seong-Cheol Kim  
+**Venue/category:** Inorganic Chemistry Communications  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.inoche.2026.117888`  
 **Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** iontronic  
+**Keyword score:** 12  
+**Matched:** bioimaging  
 
 ---
 
-### 6. [In Situ Growth of Polyanionic DNA Hydrogel Networks for Nanoconfined Iontronic Analysis of DNA Methylation](https://doi.org/10.1021/acs.nanolett.6c03915)
+### 5. [Peer Review Report For: Curriculum for Bioimaging Data Stewardship: A Systematic Review of Existing Training Resources [version 1; peer review: 2 approved with reservations]](https://doi.org/10.5256/f1000research.208092.r534867)
 
-**Authors:** Bingheng Li, Zimeng Zhang, Yalei Gao, Bing Bo, Jian Ni, Liu Shi, Liang Mao  
-**Venue/category:** Nano Letters  
-**Date:** 2026-11-13  
-**DOI:** `10.1021/acs.nanolett.6c03915`  
+**Date:** 2026-11-14  
+**DOI:** `10.5256/f1000research.208092.r534867`  
 **Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** iontronic  
-
-**Abstract**
-
-Abstract Solid-state nanofluidics offers unique ion transport dynamics for sensitive molecular diagnostics. Herein, we report a nanoconfined iontronic platform for quantifying trace p16 gene methylation (p16-mC) in liquid biopsies. This system couples sequence-specific hybridization with HpaII enzymatic cleavage to strictly eliminate false positives from unmethylated homologues. Genuine target recognition triggers interfacial rolling circle and multiple-primer chain amplifications directly at anodic aluminum oxide nanochannel orifices. This in situ topological growth yields a 3D polyanionic DNA hydrogel that fundamentally remodels the interfacial physicochemical microenvironment. The resulting superhydrophilic transition and localized surface charge accumulation synergistically amplify transmembrane cation conductance, translating subtle epigenetic variations into robust iontronic readouts. Driven by this physical gating, the sensor achieves an ultralow detection limit of ∼33 aM and a dynamic range spanning 10 orders of magnitude. Clinically, the platform effectively discriminates nonsmall cell lung cancer patients from healthy donors using peripheral plasma, demonstrating its clinical feasibility for noninvasive cancer diagnostics.
+**Keyword score:** 12  
+**Matched:** bioimaging  
 
 ---
 
-### 7. [A Wearable Patch with Iontronic Linear Sensing and Mechanically Compliant Wireless Readout for Physiological Signals](https://doi.org/10.21203/rs.3.rs-11075373/v1)
+### 6. [Bifunctional fluorescent probe for monitoring of polarity and hypochlorous acid accompanied by dual-channel fluorescence conversion](https://doi.org/10.1016/j.bioorg.2026.110759)
 
-**Authors:** Zhuang Su, Chengxi Guo, Linxuan Zhou, Ke Liu, Xi Wang, Ran Zhang, Bo Teng, Hongcheng Xu, Chuan Fei Guo, Weidong Wang, Ningning Bai  
-**Date:** 2026-11-13  
-**DOI:** `10.21203/rs.3.rs-11075373/v1`  
+**Authors:** Feng Li, Rui-Zhen Zhang, Yu-Rong Guo, Mei-Ling Zhu  
+**Venue/category:** Bioorganic Chemistry  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.bioorg.2026.110759`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
-**Matched:** iontronic  
-
-**Abstract**
-
-Abstract Wearable wireless sensing patches enable continuous monitoring of physiological mechanical signals in clinical and daily settings. However, they often suffer from limited linearity and motion-induced drift due to deformation during body movement during daily activities. We report an integrated, flexible, and miniaturized wearable patch (FMWP) that couples an iontronic pressure sensor with a wireless readout circuit for skin-mounted monitoring. The sensor employs a CNT-doped ionic film with double-sided irregular microstructures that deform progressively, producing a nearly proportional increase in contact area and hybrid ion-electron transport, thereby enabling iontronic capacitive sensing with a high sensitivity (13.5 kPa -1 ) and wide linear range (2–450 kPa, R 2 ~ 0.999). A quadrant-grid spacer suppresses preload contact and stabilizes the baseline capacitance, achieving fast dynamic response (6 ms response, 9 ms relaxation) and durability over 5,000 loading cycles. The backend uses rigid electronic islands interconnected by serpentine copper traces to mechanically limit deformation around functional components and suppress deformation-induced electrical variations, while a patterned porous fiber layer provides breathability and reliable, removable skin adhesion. The FMWP enables real-time, smartphone-based multi-parameter physiological signal monitoring, including pulse, respiration, cardiac microvibrations, and swallowing, offering a practical platform for long-term health assessment.
+**Matched:** fluorescent probe  
 
 ---
 
-### 8. [Hydrogel-assisted stabilization of PEDOT:PSS-PNIPAAm composite electrodes for alkaline energy storage system](https://doi.org/10.1007/s10853-026-14064-1)
+### 7. [Recent advances in fluorescent probes for diagnostics and targeted therapeutics at the biomedical frontier](https://www.semanticscholar.org/paper/a2a750eca312b8645450ad19eae681c60c90a256)
 
-**Authors:** Rishika Chakraborty, Gabriela Małyszko, Szymon Mania, Ye Zar Ni Htwe, Robert Tylingo, Sylwia Pawłowska  
-**Venue/category:** Journal of Materials Science  
-**Date:** 2026-11-13  
-**DOI:** `10.1007/s10853-026-14064-1`  
+**Authors:** Pinaki Bhattacharjee, M. Iyer  
+**Venue/category:** npj Drug Discovery  
+**Date:** 2026-11-14  
+**DOI:** `10.1038/s44386-026-00082-1`  
+**Source(s):** Semantic Scholar  
+**Keyword score:** 9  
+**Matched:** fluorescent probe  
+
+---
+
+### 8. [Flexible conductive hydrogel fiber microelectrode for highly sensitive electrochemical monitoring of bisphenol B in blood](https://doi.org/10.1016/j.talanta.2026.130937)
+
+**Authors:** Jinhong Luo, Haifeng Zhou, Weijie Dai, Juan Peng, Jing Sun, Ping Zou, Yingyang Zhang, Shengshen Gu, Haiyan Wu, Lei Zhou  
+**Venue/category:** Talanta  
+**Date:** 2027-04-01  
+**DOI:** `10.1016/j.talanta.2026.130937`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
-**Matched:** pedot:pss  
+**Matched:** conductive hydrogel  
+
+---
+
+### 9. [Dopamine-mediated natural hydrogel coating with Cu²⁺ and Ag nanoparticles for multifunctional polyurethane biointerfaces](https://doi.org/10.1016/j.colsurfa.2026.141966)
+
+**Authors:** Jie Chen, Haifei Huan, Zitong Zhu, Yufeng Qu, Yan Ji, Menghao Wu, Qiuyang Zhang, Changjiang Pan  
+**Venue/category:** Colloids and Surfaces A: Physicochemical and Engineering Aspects  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.colsurfa.2026.141966`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** biointerface  
 
 ---
