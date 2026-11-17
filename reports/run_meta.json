@@ -1,25 +1,25 @@
 {
-  "run_day": "2026-11-16",
-  "report_path": "reports/2026-11-16.md",
-  "csv_path": "reports/2026-11-16.csv",
-  "new_candidate_count": 173,
-  "fetched_count": 731,
+  "run_day": "2026-11-17",
+  "report_path": "reports/2026-11-17.md",
+  "csv_path": "reports/2026-11-17.csv",
+  "new_candidate_count": 91,
+  "fetched_count": 722,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 26,
+    "Semantic Scholar": 5,
     "Crossref": 27,
     "arXiv": 27
   },
   "source_record_counts": {
-    "Semantic Scholar": 36,
-    "Crossref": 695,
+    "Semantic Scholar": 7,
+    "Crossref": 715,
     "arXiv": 0
   },
   "source_errors": {
-    "Semantic Scholar": "Semantic Scholar query 'voltage imaging neural' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=voltage+imaging+neural&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
+    "Semantic Scholar": "Semantic Scholar query 'implantable bioelectronics' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=implantable+bioelectronics&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
   },
   "health_degraded": true,
-  "kept_count": 25,
+  "kept_count": 16,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }

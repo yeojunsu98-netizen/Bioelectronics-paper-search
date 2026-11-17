@@ -1,322 +1,223 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-16
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-17
 
-- **New candidate records across sources:** 173
-- **Papers passing keyword filter:** 25
+- **New candidate records across sources:** 91
+- **Papers passing keyword filter:** 16
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [When SERS silent-region nanoprobes meet bacteriophage-based nanoarchitectonics: A highly sensitive and reliable biosensing platform for detection of Salmonella typhimurium](https://doi.org/10.1016/j.bios.2026.119403)
+### 1. [Microfabrication Techniques of Hydrogel Structures and Their Biocompatibility Studied Through the Integration of Living Cells](https://doi.org/10.3390/bioengineering13111371)
 
-**Authors:** Yiyi Zhang, Jiaxin Huang, Xiru Zhang, Manyan Qiu, Yang Yang, Zhipeng Li, Yujun Jiang, Xianlong Zhang  
+**Authors:** David Cătălin Dragomir, Violeta Ristoiu, Carmen Moldovan, Roxana Olimpia Gheorghe, Eduard Franti, Bogdan Fîrtat, Marian Ion, Adrian Gheorghe Barbilian  
+**Venue/category:** Bioengineering  
+**Date:** 2026-11-17  
+**DOI:** `10.3390/bioengineering13111371`  
+**Source(s):** Crossref  
+**Keyword score:** 31  
+**Matched:** bioelectronics, bioelectronic, neural interface, neural interfaces, peripheral nerve  
+
+**Abstract**
+
+Developing stable, biocompatible outer bio-encapsulations remains a critical challenge in establishing reliable, long-term neural interfaces that achieve peripheral nerve regeneration and prevent signal degradation without triggering host immune rejection. We evaluate the metabolic viability of various candidate hydrogels via in vitro integration of living cell cultures, identifying the most viable formulation as optimal. The novelty lies in the synergistic optimization of a biomimetic scaffold that serves simultaneously as a high-fidelity electrical interface and a regenerative matrix. Our hypothesis is that the integration of living cells within the optimal hydrogel matrix significantly mitigates the foreign body response (FBR) while maximizing axonal alignment and signal transduction efficiency. The study explores microfabrication techniques for biocompatible hydrogel structures using 3D bioprinting technology, which are essential for integrating electronic devices into the human body without triggering rejection reactions. Using the CellInk BioX bioprinter, cubic and tubular structures were fabricated and tested using various types of hydrogels: standard gelatin methacrylate (GelMA), GelMA_A, GelMA_C, and BioInk. The aim was to create a biocompatible protective encapsulation for an implantable chip. The study included complex in vitro experiments, testing materials by submersion in saline solutions (simulating human body fluids) and by inoculation with living cells (neurons), and comparing the effects of UV and ionic crosslinking treatments on structural stability and cell viability. The experiments revealed distinct material behaviors: BioInk and standard GelMA dissolved rapidly in the saline environment, becoming unsuitable for implant protection. Although GelMA_A demonstrated shape fidelity, it failed to support cellular life, reaching just a 10% viability rate. In contrast, the treated GelMA_C variant demonstrated superior results, as viability was significantly higher than the other materials, maintaining its structural integrity in the aqueous environment and ensuring a high cell viability rate of between 70% and 85%, values close to the control sample. The novelty of the work lies in the identification and experimental validation of the GelMA_C hydrogel as the optimal material that resolves the critical trade-off between the mechanical strength necessary to protect implantable electronics and the ability to actively support cellular regeneration. It was demonstrated that using GelMA_C, together with a specific crosslinking protocol, offers a stable and bio-friendly interface, superior to other commercial variants, paving the way for in vivo applications in regenerative bioelectronics.
+
+---
+
+### 2. [Molecularly engineered liquid-free ionic elastomers for stable skin-interfaced bioelectronics](https://doi.org/10.1016/j.cej.2026.184169)
+
+**Authors:** Xin-Yu Lin, Yu-Jie Chen, Xiao-Kun Liu, Xiao-Xue Wang, Shou-Shan Yu, Zhihao Jia, Jia-Chao Xu, Sheng-Lin Qiao  
+**Venue/category:** Chemical Engineering Journal  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.cej.2026.184169`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** bioelectronics, bioelectronic  
+
+---
+
+### 3. [Double-Network Ionically Conductive Hydrogel-Based Triboelectric Electronic Skin for Human Motion Monitoring and Intelligent Gait Recognition](https://doi.org/10.1021/acsapm.6c03528)
+
+**Authors:** Jiayi Wang, Wenhao Ma, Zhen Tian, Yuxuan Wu, Tian Gao, Li Su  
+**Venue/category:** ACS Applied Polymer Materials  
+**Date:** 2026-11-17  
+**DOI:** `10.1021/acsapm.6c03528`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** conductive hydrogel, electronic skin, e-skin  
+
+**Abstract**
+
+Abstract Hydrogels are promising candidates for advanced e-skins, yet their practical use remains severely limited by the long-standing bottleneck of balancing high conductivity with superior mechanical strength and toughness. Herein, we rationally engineer a high-performance double-network ion-conductive poly(vinyl alcohol)/carboxymethyl chitosan/KCl (PCK) hydrogel through a facile fully, physical cross-linking strategy. The resulting PCK hydrogel exhibits a tensile strength of 1.74 MPa, a fracture elongation of 380%, and an ionic conductivity of 7.88 S m–1, with negligible mechanical loss after 160 consecutive tensile cycles and 58% higher conductivity than reported state-of-the-art counterparts. The PCK hydrogel can be directly configured into a single-electrode triboelectric nanogenerator (PCK-TENG) that functions as both a triboelectric active layer and an ionic current collector, outputting 15.5 V and 0.33 μA with stable output over 4000 s, enabling real-time motion monitoring and Morse code transmission. Further integrated with a ResNet-152 deep learning model, the Ecoflex-encapsulated PCK-TENG (E-PCK-TENG) forms a self-powered intelligent gait recognition system for automatic gait feature extraction and high-precision classification, achieving 96.48% recognition accuracy across diverse gait patterns. This work not only establishes a scalable route for constructing high-performance double-network ion-conductive hydrogels but also demonstrates their distinct application value in self-powered wearable sensing systems and intelligent human-machine interaction scenarios.
+
+---
+
+### 4. [Microscale encoding of nanoscale biomarkers enables unified analysis by deterministic lateral displacement microfluidics for pancreatic cancer detection](https://doi.org/10.1016/j.bios.2026.119437)
+
+**Authors:** Xueer Huang, Ting Wu, Haixia Li, Yuqin Zhang, Jinyu Liu, Jiangtao Hao, Jiayi Xiao, Bihong Diao, Lihong Liu  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119403`  
+**DOI:** `10.1016/j.bios.2026.119437`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 2. [Thickness-confined hydrophobic gating enables ultrafast capillary rectification in Janus fibrous membranes for sweat-resilient self-powered sensing](https://doi.org/10.1016/j.bios.2026.119433)
+### 5. [Label-free microarray biosensing reveals stable serum antiviral antibody fingerprints through self-referenced kinetic profiling](https://doi.org/10.1016/j.bios.2026.119411)
 
-**Authors:** Jinrong Huang, Jiechun Zhou, Lanyu Nie, Jiayi Chen, Jiaru Lin, Jianwen Chen, Yunlei Zhou, Yutian Zhu  
+**Authors:** Thomas Carzaniga, Tommaso Inzani, Luca Casiraghi, Giovanni Nava, Alessia Lai, Gianguglielmo Zehender, Francesca Perego, Tommaso Bellini, Marco Buscaglia  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119433`  
+**DOI:** `10.1016/j.bios.2026.119411`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 3. [Fluoride-triggered conformational switching of EC2 channel protein for label-free electrochemical biosensing in brick tea](https://doi.org/10.1016/j.bios.2026.119396)
+### 6. [A micro-nano electrode array-based glioma-neuronal interaction model for modulating glutamate-mediated glioma-associated epilepsy](https://doi.org/10.1016/j.bios.2026.119412)
 
-**Authors:** Jiahong Zhao, Kefan Song, Xinrui Hou, Hanxiao Jing, Yong Li, Yunhua Wu  
+**Authors:** Shuqing Yin, Sheng Fang, Mengshuo Shen, Penghe Yin, Bo Liu, Chong Liu, Jingmin Li, Junwen Zhang, Fusheng Liu  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119396`  
+**DOI:** `10.1016/j.bios.2026.119412`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 4. [Engineering active-site electric field in Fe-based metal−organic frameworks for laccase-like catalysis enhancement](https://doi.org/10.1016/j.bios.2026.119404)
+### 7. [Molecular Fluorescence Imaging of Atherosclerosis-Associated Vascular Redox Injury: From Early Molecular Detection to Mechanistic Insights](https://doi.org/10.1021/acs.accounts.6c00671)
 
-**Authors:** Guoren Zhou, Zhixuan Shao, Rui Wang, Xinqi Zhao, Fengxiang Ai, Hui Meng, Xiangheng Niu, Kun Wang, Zhen Zhang, Nuanfei Zhu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119404`  
+**Authors:** Chang Xu, Hui Wang, Wei Zhang, Bo Tang  
+**Venue/category:** Accounts of Chemical Research  
+**Date:** 2026-11-17  
+**DOI:** `10.1021/acs.accounts.6c00671`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 15  
+**Matched:** fluorescence imaging, fluorescent probe  
+
+**Abstract**
+
+Conspectus Atherosclerosis is a chronic vascular disease in which redox imbalance, protein modification, and metabolic remodeling can emerge before overt plaque morphology. Fluorescent probes translate these biochemical changes into spatially resolved optical signals and therefore complement structural vascular imaging. Importantly, the pathological meaning of these signals depends not on fluorescence intensity alone but on the disease stage, biological compartment, and molecular context in which they arise. In this Account, we examine how activatable fluorescence imaging is evolving from the detection of isolated biomarkers toward context-resolved analysis of atherosclerosis-associated molecular states. We highlight three complementary strategies for early molecular detection. Sequence-gated recognition captures coupled inflammatory-redox events, while multiparameter imaging places phosphorylation-associated changes within microenvironmental, redox, and metabolic contexts. Conformation-sensitive imaging provides a third complementary strategy by extending molecular analysis to perturbations in proteostasis. We further discuss how fluorescence imaging provides complementary mechanistic views of vascular redox injury, including protein thiol oxidation, foam-cell remodeling, oxidative lipid injury, and plaque remodeling. Because these observations derive from different probes and experimental models, they are interpreted as complementary mechanistic windows rather than as a single sequential disease pathway. Overall, the studies considered here emphasize that the pathological meaning of a fluorescence signal depends not only on what is detected but also on where, when, and in what biochemical context it arises.
 
 ---
 
-### 5. [Dual proximity-activated immuno-LAMP-CRISPR for ultrasensitive protein detection on an integrated microfluidic chip](https://doi.org/10.1016/j.bios.2026.119428)
+### 8. [Exploring Tryptophan Self-Assembly and Its Inimical Impact on Model Membranes: Correlative Insights from Fluorescence Lifetime Imaging and Field Emission Scanning Electron Microscopy](https://doi.org/10.1021/acs.langmuir.6c03253.s001)
 
-**Authors:** Jungang Du, Yuanyuan Zhu, Xiaoping Yu, Jian Wu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119428`  
+**Date:** 2026-11-17  
+**DOI:** `10.1021/acs.langmuir.6c03253.s001`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 13  
+**Matched:** fluorescence lifetime imaging  
 
 ---
 
-### 6. [A visual molecular classifier based on Bsu-T7 weighted linear isothermal amplification for precision cancer diagnosis](https://doi.org/10.1016/j.bios.2026.119426)
+### 9. [Bandgap and Interface Engineering of AgAuS Quantum Dots toward Bright Near-Infrared Emission and Deep-Tissue Bioimaging](https://doi.org/10.1021/acsnano.6c12991.s001)
 
-**Authors:** Yanan Lin, Yilin Li, Chunyan Cui, Aoyun Geng, Yidi Sun, Qiang Zhu, Zilong Zhang, Gaoxing Su, Yanyan Yu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119426`  
+**Date:** 2026-11-17  
+**DOI:** `10.1021/acsnano.6c12991.s001`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 7. [A digital magnetic levitation platform for ultrasensitive protein biomarker detection enabled by single particle counting](https://doi.org/10.1016/j.bios.2026.119430)
-
-**Authors:** Yuanyuan Dong, Wei Ren, Yuanyuan Sun, Xinrui Duan, Chenghui Liu  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119430`  
-**Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
-
----
-
-### 8. [Tracking mitophagy in living cells using single-probe multicolor two-photon fluorescence lifetime microscopy](https://doi.org/10.1016/j.snb.2026.141228)
-
-**Authors:** Yong Guo, Yingying Chen, Zhenlong Huang, Xiaoyu Li, Shanjie Xu, Canlu Zhu, Yue Chen, Feixiang Lu, Chengming Sun, Hao Li, Luwei Wang, Weichao Jiang et al.  
-**Venue/category:** Sensors and Actuators B: Chemical  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.snb.2026.141228`  
-**Source(s):** Crossref  
-**Keyword score:** 12  
-**Matched:** two-photon fluorescence  
-
----
-
-### 9. [A single-molecule ICT-FRET ratiometric NIR sensor with an ultra-large Stokes shift for subcellular bioimaging and point-of-need cysteine quantification](https://www.semanticscholar.org/paper/8f0baa938b4e184f32f588fc9cd8519f0b02d830)
-
-**Authors:** Hao-Wen Zhou, Xu-Dong Li, Guo-Rui Zheng, Jian-Hong Liu, Xin-Yue Zhao, Xi-Bin B. Zhou, Xiao-Jie Chang, Jie Zhang  
-**Venue/category:** Microchimica Acta  
-**Date:** 2026-11-16  
-**DOI:** `10.1007/s00604-026-08552-z`  
-**Source(s):** Crossref, Semantic Scholar  
 **Keyword score:** 12  
 **Matched:** bioimaging  
 
 ---
 
-### 10. [Spatially optimized chlorophyll fluorescence imaging for early detection of soft rot in Napa cabbage](https://doi.org/10.1016/j.compag.2026.112564)
+### 10. [Site-Selective Peripheral Aryl Substitution Tunes Red-to-Near-Infrared Fluorescence in Thienopyrazine-Fused Pyrene Heteroacenes](https://doi.org/10.26434/chemrxiv.15012350/v1)
 
-**Authors:** Jun-Yeong Seo, Soobin Yang, Jae Hoon Lee  
-**Venue/category:** Computers and Electronics in Agriculture  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.compag.2026.112564`  
+**Authors:** Kuang Xu, Niranjan Ganje, Kiran Sai Venkata Godi, Rafiq Ahamed, Sonal Patil, Sudhakar Gaikwad  
+**Date:** 2026-11-17  
+**DOI:** `10.26434/chemrxiv.15012350/v1`  
 **Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
+**Keyword score:** 10  
+**Matched:** near-infrared fluorescence  
+
+**Abstract**
+
+We report four thienopyrazine-fused pyrene heteroacenes with aryl substituents varied at the pyrene core and flanking thiophene rings. Compounds 1–3 exhibit neat-film photoluminescence quantum yields of 64–88% at 564–589 nm, whereas compound 4 displays an emission maximum at 767 nm in solution. Single-crystal analysis of 2 shows that cofacial p–p interactions between the central aromatic cores are impeded. The results show that both the position and identity of peripheral aryl substituents influence the photoluminescence properties of a common heteroacene framework.
 
 ---
 
-### 11. [Behind the "light-up" fluorescence behavior: why thioflavin-T outperforms benzimidazole derivatives as a fluorescent probe?](https://doi.org/10.1016/j.molstruc.2026.147764)
+### 11. [A highly sensitive and selective fluorescence probe for imaging cysteine in living cells](https://doi.org/10.1016/j.bioorg.2026.110771)
 
-**Authors:** Derin Caydas, Elif Güler, Isıl Irmak Kuyucu, Nazlican Dogan, Kübra Erden, Cagatay Dengiz, Özgül Persil Çetinkol, Erol Yildirim  
-**Venue/category:** Journal of Molecular Structure  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.molstruc.2026.147764`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescent probe  
-
----
-
-### 12. [A fluorescence imaging system for the identification and quantification of spodumene](https://doi.org/10.1016/j.mineng.2026.111020)
-
-**Authors:** C. Wilske, D. Beniwal, J.E. Moffatt, H. Holfeld, J. Asp, T.B. Payten, A. Eskdale, T.M. Slattery, G. Tsiminis, E.P. Schartner, N.A. Spooner  
-**Venue/category:** Minerals Engineering  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.mineng.2026.111020`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
-
----
-
-### 13. [Fluorescence probe for quantitative detection of enzyme activity based on FRET mechanism of azo quencher](https://doi.org/10.1016/j.cclet.2025.110978)
-
-**Authors:** Donglei Tian, Yixuan Cao, Xiaoyan Zeng, Xiaoxie Ma, Jun Yin  
-**Venue/category:** Chinese Chemical Letters  
+**Authors:** Lei Wang, Xinghan Xie, Hanlin Xu, Zhongyin Zhang, Yongtao Zhang  
+**Venue/category:** Bioorganic Chemistry  
 **Date:** 2026-12-01  
-**DOI:** `10.1016/j.cclet.2025.110978`  
+**DOI:** `10.1016/j.bioorg.2026.110771`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence probe  
 
 ---
 
-### 14. [Inulin Modified Nitrogen Doped Carbon Nanoparticles for pH Responsive Fluorescence Imaging of Cancer Cells](https://doi.org/10.1007/s12668-026-03020-7)
+### 12. [517eP Novel possible pathway of T2 (Subserosal) gallbladder cancer progression using indocyanine green (ICG) fluorescence imaging, learning from laparoscopic extended cholecystectomy](https://doi.org/10.1016/j.annonc.2026.08.606)
 
-**Authors:** Sana Saleem, Anmool Arzoo, Nashrah Arshad, Arsalan Ahmed, Rabia Zeeshan, Naeem Akhtar, Muhammad Usman, Naima Amin, Anila Asif  
-**Venue/category:** BioNanoScience  
-**Date:** 2026-11-16  
-**DOI:** `10.1007/s12668-026-03020-7`  
+**Authors:** H. Okamono  
+**Venue/category:** Annals of Oncology  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.annonc.2026.08.606`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 ---
 
-### 15. [All-metalens miniature light-sheet microscopy for volumetric fluorescence imaging](https://doi.org/10.1364/optica.608431)
+### 13. [Single-Molecule Fluorescence Imaging Reveals the Kinetic Origin of Wettability-Controlled Photocatalytic Selectivity](https://doi.org/10.1021/jacs.6c15301)
 
-**Authors:** Hung-Chuan Hsu, Sunil Vyas, Cheng Hung Chu, S-Ja Tseng, Wei-Hao Liao, Bo-Wei Huang, PING SHUN HSIEH, Takuo Tanaka, Wen-Shiang Chen, Kuang-Yuh Huang, Din Ping Tsai, Yuan Luo  
-**Venue/category:** Optica  
-**Date:** 2026-11-16  
-**DOI:** `10.1364/optica.608431`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
-
----
-
-### 16. [A live-cell metabolic phenotyping platform for rapid phenotypic evaluation of high-producing Streptomyces aureofaciens strains through intracellular tetracycline fluorescence imaging](https://doi.org/10.1186/s12934-026-03173-w)
-
-**Authors:** Huaidong Zhang, Wen Yin, Liu He, Lijun Guo, Pingping Yang, Rongbin Zhao, Yufeng Cai, Haoran Chen, Fan Cai, Li Li, Qin Li, Jianzhong Huang  
-**Venue/category:** Microbial Cell Factories  
-**Date:** 2026-11-16  
-**DOI:** `10.1186/s12934-026-03173-w`  
+**Authors:** Chang Xu, Haoran Feng, Jinghua An, Simin Li, Haibin Si, Nengxiu Zhu, Lu Li, Bo Tang  
+**Venue/category:** Journal of the American Chemical Society  
+**Date:** 2026-11-17  
+**DOI:** `10.1021/jacs.6c15301`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 **Abstract**
 
-Abstract Background Efficient screening and evaluation of high-producing strains are essential for improving microbial cell factories, particularly for industrial production of valuable secondary metabolites. However, conventional strain screening strategies mainly rely on destructive fermentation sampling and chromatographic quantification, which are time-consuming and provide limited information regarding intracellular metabolic states. Therefore, rapid and non-invasive phenotypic approaches capable of monitoring metabolite accumulation at the single-cell level are highly desirable. Results We developed a live-cell metabolic phenotyping platform that enables rapid evaluation of tetracycline-producing Streptomyces aureofaciens strains through intracellular fluorescence imaging. The platform integrates a tetracycline-responsive molecular beacon with cell-penetrating peptide-assisted intracellular delivery, allowing visualization of intracellular tetracycline accumulation in living intact cells without cell lysis or metabolite extraction. The fluorescence response exhibited a concentration-dependent correlation with tetracycline production and reflected dynamic changes in intracellular antibiotic accumulation during fermentation. By applying this imaging-based phenotyping strategy to different industrial S. aureofaciens strains, high-producing strains were efficiently distinguished according to their intracellular fluorescence signatures. Importantly, fluorescence-based strain ranking showed agreement with HPLC quantification and was further validated through fermentation experiments. Conclusions This study establishes a non-destructive live-cell metabolic phenotyping platform for the phenotypic evaluation and prioritization of industrial microbial strains. By converting intracellular metabolite accumulation into a measurable optical phenotype, this strategy provides cellular-level information complementary to conventional analytical methods and offers a phenotypic prioritization tool that can facilitate microbial cell factory development.
+Abstract Interfacial wettability strongly influences photocatalytic selectivity, but the kinetic origin of this effect remains unclear. Although adsorption differences and dominant reactive oxygen species (ROS) pathways are often invoked to explain wettability-dependent selectivity, neither fully reveals how interfacial reaction environments determine catalytic outcomes. Here, we use single-molecule fluorescence imaging to directly resolve individual photocatalytic events on reversibly tunable hydrophilic and hydrophobic TiO2 interfaces that preferentially generate •OH- and 1O2-associated reaction environments, respectively. The results show that substrate adsorption remains largely comparable across different wettability states, whereas interfacial conversion kinetics constitute the dominant origin of the observed selectivity and product-release dynamics further amplify this effect. Combined with DFT calculations, the single-molecule analysis reveals the kinetic origin of wettability-controlled photocatalytic selectivity by correlating ROS-associated interfacial environments with interfacial reaction kinetics. This work establishes a single-molecule kinetic analysis framework for interrogating how interfacial microenvironments govern heterogeneous photocatalytic selectivity, providing an approach for linking interfacial regulation to catalytic kinetics and macroscopic outcomes.
 
 ---
 
-### 17. [A Hierarchical Microiontronic Textile with Electrobioactive Ion Gating for Wearable and Programmable Topical Drug Delivery Towards Smart Wound Management](https://doi.org/10.1007/s42765-026-00799-8)
+### 14. [Intelligent Soft Wearable Robots for Rehabilitation: A Review of Bioelectronic Sensing, Multimodal Sensor Fusion, and AI-Driven Control](https://doi.org/10.3390/electronics15225355)
 
-**Authors:** Junning Qian, Yurou Yuan, Wing Cheung Mak  
-**Venue/category:** Advanced Fiber Materials  
-**Date:** 2026-11-16  
-**DOI:** `10.1007/s42765-026-00799-8`  
+**Authors:** Lasitha Piyathilaka, Amal Jayawardena, Diluka Moratuwage, Zhenglin Wang, Jaliya Lakshan Wijayaraja, Jung-Hoon Sul  
+**Venue/category:** Electronics  
+**Date:** 2026-11-17  
+**DOI:** `10.3390/electronics15225355`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
-**Matched:** iontronic  
-
----
-
-### 18. [Smart Biosensing Materials Enabled by Artificial Intelligence: From Material Design to AI-Assisted Sensing](https://doi.org/10.1021/bk-2026-1539.ch003)
-
-**Authors:** Shikuan Shao, Xiaohu Xia  
-**Venue/category:** AI-Integrated Biosensors, Microfluidics, and Wearable Systems for Personalized Healthcare  
-**Date:** 2026-11-16  
-**DOI:** `10.1021/bk-2026-1539.ch003`  
-**Source(s):** Crossref  
-**Keyword score:** 8  
-**Matched:** biointerface, biosensor  
+**Matched:** bioelectronic  
 
 **Abstract**
 
-Abstract Modern biosensors increasingly rely on smart biosensing materials that translate target recognition and interfacial interactions into measurable optical, catalytic, electrical, thermal, or multimodal signals. The performance of these materials depends on precise control of structural, compositional, and surface properties, as well as assay and biointerface conditions that determine how material-level functions are translated into analytical performance. Because these interconnected factors are often optimized by trial-and-error experimentation, the development of high-performance sensing materials can be time-consuming, resource-intensive, and difficult to generalize. Artificial intelligence (AI), particularly machine learning (ML), offers new opportunities to advance biosensing materials research by learning structure-property-performance relationships from experimental and computational data. In addition to guiding materials discovery, design, and synthesis optimization, AI is increasingly being used to interpret complex sensing outputs and extract information from machine-readable signals. In this chapter, we discuss the emerging interface between AI and smart biosensing materials. We first examine the data foundation required for AI-assisted materials development, including data sources, curation, and representations. We then summarize predictive AI tools and design workflows for materials optimization and discovery. Next, we highlight sensing materials engineered to generate information-rich outputs for AI-assisted signal interpretation. Finally, we provide an outlook on automated and self-driving platforms that may integrate materials development, biosensing, and decision-making within closed-loop workflows.
+Soft wearable robots transmit assistance through compliant actuators, textiles and body-conforming interfaces, offering opportunities for rehabilitation and the support of residual motor function. Their clinical value depends on the integration of deformable mechanics with reliable sensing, timely state estimation and appropriate control. Structured Scopus and Europe PMC searches informed purposive assessment of selected primary reports. This critical narrative review examines bioelectronic sensing, multimodal sensor fusion and artificial intelligence (AI) within the sensing–estimation–control–feedback loop of soft wearable rehabilitation robots. Upper- and lower-limb architectures, actuation and attachment mechanisms are considered alongside neuromuscular, kinematic, mechanical and physiological measurements. Fusion methods and AI models are assessed in relation to intention recognition, continuous movement estimation, physiological assessment, personalisation and real-time implementation. A five-level control framework distinguishes fixed, sensor-triggered, AI-informed, adaptive intelligent and human–robot co-adaptive assistance, while a complementary evidence framework records integration, population, study design, exposure, deployment setting and assisted or unassisted outcome as separate attributes. Direct soft-wearable evidence is distinguished from supporting work in other rehabilitation robots, prostheses and wearable sensing. Reported advances support selected assisted and training outcomes, but reliable repeated-session operation and retained functional benefit remain unevenly demonstrated. Key barriers include garment-dependent measurement changes, biosignal variability, synchronisation, model generalisation, actuator hysteresis, energy demand, usability and clinical validation. The review identifies priorities for uncertainty-aware fusion, bounded adaptation, local inference, representative benchmarks and longitudinal evaluation, linking technical progress to safe, practical and clinically meaningful rehabilitation.
 
 ---
 
-### 19. [AI-Integrated Wearable Closed-Loop Diagnostic and Therapeutic Systems](https://doi.org/10.1021/bk-2026-1539.ch006)
+### 15. [Ultra-thin graphene/PEDOT:PSS wearable sensor for human emotion diagnosis](https://doi.org/10.1016/j.materresbull.2026.114551)
 
-**Authors:** Xuejia Kang, Peizhen Sun  
-**Venue/category:** AI-Integrated Biosensors, Microfluidics, and Wearable Systems for Personalized Healthcare  
-**Date:** 2026-11-16  
-**DOI:** `10.1021/bk-2026-1539.ch006`  
-**Source(s):** Crossref  
-**Keyword score:** 8  
-**Matched:** biosensor, brain-computer interface  
-
-**Abstract**
-
-Abstract Wearable healthcare is undergoing a transition from passive monitoring toward closed-loop diagnostic, therapeutic, and theragnostic systems. Conventional open-loop care relies on intermittent measurements and delayed treatment adjustment, whereas closed-loop systems continuously sense physiological or biochemical states, interpret those signals, deliver or guide intervention, and evaluate response. In wearable medicine, this transition is enabled by skin-interfaced sensors, flexible electronics, microneedles, bioresponsive materials, artificial intelligence, adaptive control, and miniaturized actuation modules. This chapter reviews artificial intelligence-integrated wearable closed-loop systems from conceptual foundations to application domains. We distinguish open-loop, feedback-assisted, and closed-loop systems; classify wearable architectures into self-sustained material/bioresponse-driven systems, externally triggered electronics/control-driven systems, and hybrid material-electronic systems; and organize the field into diagnostic loops, therapeutic loops, and integrated theragnostic loops. Application domains include wearable closed-loop drug delivery and metabolic control, smart bandages and adaptive wound therapy, wearable neuromodulation and adaptive transcutaneous electrical nerve stimulation, closed-loop sensorimotor restoration through brain-computer interface-functional electrical stimulation, electromyography-functional electrical stimulation, and bidirectional prosthetics, and wearable biofeedback systems for sleep, stress, fatigue, and autonomic regulation. Across domains, the central challenge is not simply whether sensors and artificial intelligence models can generate accurate outputs, but whether the complete sensor-algorithm-actuator-feedback pathway is valid, safe, interpretable, and clinically meaningful.
-
----
-
-### 20. [NIR-activated graphene oxide@silver molybdate biointerface on 3D-printed Ti scaffolds for enhanced antibacterial therapy](https://doi.org/10.1016/j.colsurfa.2026.142341)
-
-**Authors:** Wenwen Lu, Tong Liang, Nawei Wu, Zhaogang Sun, Hongqian Chu, Bei Liu  
-**Venue/category:** Colloids and Surfaces A: Physicochemical and Engineering Aspects  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.colsurfa.2026.142341`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** biointerface  
-
----
-
-### 21. [Multifunctional APTES-SWCNTs/ILs@PEDOT:PSS/MXene composite film toward wearable sensing, electromagnetic protection and low-voltage Joule heating](https://doi.org/10.1016/j.carbon.2026.122317)
-
-**Authors:** Tian-Li Wang, Wen-Hao Geng, Yue-Xin Wang, Bin-Zheng Wang, Tong-Shun Liu, Fu-Jun Jia, Zhi-Xiao Han, Wenyi Wang, Qingxia Zhu, Hong-Zhang Geng  
-**Venue/category:** Carbon  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.carbon.2026.122317`  
+**Authors:** Irina V. Antonova, Artem I. Ivanov, Anna A. Buzmakova, Olga P. Cherkasova, Marina B. Shavelkina  
+**Venue/category:** Materials Research Bulletin  
+**Date:** 2027-04-01  
+**DOI:** `10.1016/j.materresbull.2026.114551`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** pedot:pss  
 
 ---
 
-### 22. [A highly extensible, transparent, self-adhesive, ionic conductive hydrogel for high gauge factor motion sensing and information transmission](https://doi.org/10.1016/j.cej.2026.183937)
+### 16. [Firefly-Geni: Automated Iteration-Guided Generative Discovery of Thermally Activated Delayed Fluorescence Molecules](https://doi.org/10.1021/acscentsci.6c01736)
 
-**Authors:** Chao Zhou, Guoheng Sun, Ran Wang, Hualin Chen, Xiaobo Deng, Rong Luo, Xingxiang Ji  
-**Venue/category:** Chemical Engineering Journal  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.cej.2026.183937`  
+**Authors:** Boyuan Zhang, Xuerui Fang, Di Yang, Yuanyue Wang, Yunfei Liu, Yumin Xia, Qiang Zhu, Haibo Yu, Meifang Zhu, Jin Wen  
+**Venue/category:** ACS Central Science  
+**Date:** 2026-11-17  
+**DOI:** `10.1021/acscentsci.6c01736`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
-**Matched:** conductive hydrogel  
-
----
-
-### 23. [Smart Apparel for Continuous Healthcare Monitoring: Textile Biosensing, AI-Driven Design, and Digital Manufacturing](https://doi.org/10.1021/bk-2026-1539.ch005)
-
-**Authors:** Jia Wu, Yurou Zeng, Pengyu Chen  
-**Venue/category:** AI-Integrated Biosensors, Microfluidics, and Wearable Systems for Personalized Healthcare  
-**Date:** 2026-11-16  
-**DOI:** `10.1021/bk-2026-1539.ch005`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** conductive polymer, biosensor  
+**Matched:** thermally activated delayed fluorescence  
 
 **Abstract**
 
-Abstract Smart apparel is evolving beyond apparel with electronic components attached to it into a wearable healthcare platform in which textiles, conductive materials, biosensors, electronic modules, data processing, and apparel design are developed as an integrated system. This chapter reviews the role of smart apparel in continuous health monitoring with emphasis on textile-based sensing and apparel-level integration. It first discusses conductive polymers, fibers, and yarns as the material basis for sensing and signal transmission. It then examines major integration strategies, including functional components built into textile structures, deposited onto textile surfaces, or attached as flexible electronic modules. The chapter further describes how apparel-integrated biosystems convert physiological and biochemical signals into usable health information, and how AI-assisted design and digital manufacturing can connect material selection, sensor placement, body fit, and scalable production workflows. This chapter shows how smart apparel opens a new healthcare paradigm by turning daily apparel into an active interface for continuous monitoring, interpretation, and timely care.
-
----
-
-### 24. [Photo-Oxidized Highly Oriented Pyrolytic Graphite as a Reactive Carbon Biointerface for Biomolecule Immobilization](https://doi.org/10.1021/acsabm.6c01469.s001)
-
-**Date:** 2026-11-16  
-**DOI:** `10.1021/acsabm.6c01469.s001`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** biointerface  
-
----
-
-### 25. [Ionically conductive hydrogels with excellent adhesion, sensitivity, and freeze resistance for flexible wearable strain sensors](https://doi.org/10.1007/s00396-026-05768-6)
-
-**Authors:** Kai Wang, Yi Kong, Yang Cheng, Mingjie Li, Kangjing Chen  
-**Venue/category:** Colloid and Polymer Science  
-**Date:** 2026-11-16  
-**DOI:** `10.1007/s00396-026-05768-6`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** conductive hydrogel  
+Abstract The efficient discovery of thermally activated delayed fluorescence (TADF) molecules remains heavily dependent on expert-driven design rules, while the vast structure–property knowledge accumulated in the literature stays largely fragmented and underutilized. Here, we present Firefly-Geni, an automated and interpretable active-evolution framework that transforms dispersed literature knowledge into structurally novel TADF candidates through a closed-loop workflow. Firefly-Geni integrates large-language-model (LLM)-assisted data extraction, multitask property prediction, conditional molecular generation, and theoretical evaluation. Its data-mining module converts unstructured literature into a curated database of experimental property entries. A dual-molecular-graph multitask predictor and a conditional generator are integrated with quantum-chemical feedback, enabling iterative refinement toward structural novelty. From 100,000 molecules generated under target conditions of a singlet–triplet energy gap ΔEST = 0.05 eV and a synthetic accessibility (SA) score of 2.5, Firefly-Geni identifies 100 structurally novel candidates computationally predicted to support reverse intersystem crossing and to be synthetically tractable, spanning diverse emission wavelengths. One synthesized candidate exhibited an experimental ΔEST of 0.019 eV and a film photoluminescence quantum yield (PLQY) of 84% under nitrogen, broadly consistent with the predicted small gap and high PLQY. Interpretability analyses further reveal chemically meaningful structure–property relationships and generation preferences, confirming that the candidates encode physically relevant low-ΔEST design motifs. This work offers a closed-loop, explainable strategy for actively evolving TADF candidates from literature knowledge, providing a generalizable route for data-driven molecular discovery.
 
 ---
