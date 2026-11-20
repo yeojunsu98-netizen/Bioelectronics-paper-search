@@ -1,155 +1,226 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-19
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-20
 
-- **New candidate records across sources:** 106
-- **Papers passing keyword filter:** 11
+- **New candidate records across sources:** 133
+- **Papers passing keyword filter:** 16
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [Gold and Silver Nanoparticles for Bioimaging Applications](https://doi.org/10.1021/bk-2026-1537.ch011)
+### 1. [Fiber based WS2 quantum dots/MOF fluorescence and organic photoelectrochemical transistor dual-mode glucose sensors](https://doi.org/10.1016/j.bios.2026.119439)
 
-**Authors:** Namdeo Anwesha, Srikanta Moharana, Ram Naresh Mahaling, Kalim Deshmukh  
-**Venue/category:** Advances in Gold and Silver Nanoparticles for Biomedical Applications, Volume 1  
-**Date:** 2026-11-19  
-**DOI:** `10.1021/bk-2026-1537.ch011`  
+**Authors:** Yuedan Wang, Jing Xu, Changhui Li, Yang Liu, Dong Wang, Yan Tan  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119439`  
 **Source(s):** Crossref  
-**Keyword score:** 29  
-**Matched:** bioimaging, fluorescence imaging, molecular imaging, photoacoustic imaging  
+**Keyword score:** 26  
+**Matched:** bioelectronics, bioelectronic, electrochemical transistor, biosensor  
+
+---
+
+### 2. [Liposomal Encapsulation of Camcholate, a Marine Catecholate Siderophore, for Fluorescence-Based Bioimaging in Artemia nauplii](https://doi.org/10.21203/rs.3.rs-11358292/v1)
+
+**Authors:** V Archana, VP Limna Mol, TC Sreelatha, K b . Revathi, G Dharani  
+**Date:** 2026-11-20  
+**DOI:** `10.21203/rs.3.rs-11358292/v1`  
+**Source(s):** Crossref  
+**Keyword score:** 21  
+**Matched:** bioimaging, fluorescent bioimaging  
 
 **Abstract**
 
-Abstract Gold nanoparticles (AuNPs) and silver nanoparticles (AgNPs) have emerged as important tools in biomedical imaging owing to their distinctive optical, electrical, and surface-chemical properties. These noble-metal nanoparticles exhibit localized surface plasmon resonance (LSPR), which enables high extinction coefficients, large two-photon absorption cross-sections, and tunable optical responses across the visible to near-infrared (NIR) spectral range. These attributes make AuNPs and AgNPs highly suitable for a broad range of bioimaging modalities, including dark-field microscopy, surface-enhanced Raman scattering (SERS), photoacoustic imaging (PAI), computed tomography (CT), fluorescence imaging, and two-photon luminescence (TPL) microscopy. This chapter provides a focused analysis of LSPR-driven optical mechanisms and the modality-specific applications of gold and silver nanoparticles in biomedical imaging, with particular emphasis on how nanoparticle size and shape influence optical tunability and imaging performance. The chapter also discusses their integration into multimodal imaging platforms, highlighting opportunities for complementary structural, functional, and molecular imaging. In addition, the chapter critically examines the development of nanoparticle-based contrast agents, with particular attention to key challenges related to biocompatibility, long-term stability, and clinical translation.
+Abstract We report the chemical synthesis of Camcholate, a catecholate siderophore, its loading into liposomes, and a test of its use as a fluorescent bioimaging agent in the brine shrimp Artemia salina. Camcholate was made by peptide coupling of 2,3-dihydroxybenzoic acid to an amino acid frame, giving a catecholate–amide structure similar to enterobactin [1]. The purified product was characterised by FTIR (broad O–H/N–H stretch and strong amide C = O bands at 1678 and 1657 cm⁻¹), ¹H and ¹³C NMR (aromatic signals at δ 6.9–7.5, amide NH at δ 7.8–8.5, aliphatic CH at δ 4.7 and CH₃ at δ 1.48), and high-resolution ESI-MS, which gave [M + H]⁺ at m/z 387.1531, consistent with C₂₀H₂₃N₂O₆. Camcholate was encapsulated in phosphatidylcholine–cholesterol liposomes by thin-film hydration. Dynamic light scattering gave a mean diameter of about 125 nm, and SEM showed spherical vesicles of 100–150 nm. No mortality was seen in a brine shrimp lethality assay at 1–100 µg/mL. Under UV excitation, liposomal Camcholate gave bright fluorescence in the gut of Artemia nauplii (Fig. 8), where it remained visible for up to 120 min. These results show that synthetic Camcholate can be formulated into stable, biocompatible liposomes and used to follow ingested particles in a small aquatic model, which makes it a candidate imaging agent for nanomedicine.
 
 ---
 
-### 2. [Meso-functionalized silk for bioelectronic interfaces in cognitive symbiosis](https://www.semanticscholar.org/paper/9c1b66596e6141f94368ca2acc17f70a161db704)
+### 3. [Near-infrared fluorescence imaging for structural, identification and functional guidance in canine and feline surgery](https://doi.org/10.1080/09712119.2026.2765588)
 
-**Authors:** Chang-Sheng Lu, Jing Li, Xiao Wang, Wei-Li Zhao, Shui-Yi Gao, Can Wang, Hai-Yan Xiu, Li-Na Cui, Bao-Song Xie, D. Zhuo, Jian-Bing Xiahou, Xiang-Yang Liu  
-**Venue/category:** Cell Reports Physical Science  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.xcrp.2026.103632`  
-**Source(s):** Semantic Scholar  
-**Keyword score:** 21  
-**Matched:** bioelectronic, bioelectronic interface  
+**Authors:** Feiyang Ling, Yunen Dong, Ying Wu, Rui Zhong, Guo Chen, Jianfeng Gao  
+**Venue/category:** Journal of Applied Animal Research  
+**Date:** 2026-11-20  
+**DOI:** `10.1080/09712119.2026.2765588`  
+**Source(s):** Crossref  
+**Keyword score:** 19  
+**Matched:** fluorescence imaging, near-infrared fluorescence  
 
 ---
 
-### 3. [Machine learning-assisted nanofiber colorimetric sensor array: A new strategy for non-destructive discrimination among foodborne pathogens](https://doi.org/10.1016/j.bios.2026.119440)
+### 4. [Enhancing reliability of electrochemical biosensors via in situ electrochemical filtration using carbon micromesh electrode](https://doi.org/10.1016/j.bios.2026.119441)
 
-**Authors:** Jiankun Cao, Yingyi Zhang, Lixin Yang, Yuejing Qiao, Yanke Lu, Hongyuan Yan  
+**Authors:** Woojae Jeong, Akhsunkhar Khazhmurat, Heungjoo Shin  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119440`  
+**DOI:** `10.1016/j.bios.2026.119441`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
+**Keyword score:** 17  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 4. [A practical electrochemical aptasensor platform via a label-free strand-displacement strategy for saxitoxin detection in real samples](https://doi.org/10.1016/j.bios.2026.119435)
+### 5. [Seeing deeper, seeing more: Complementary philosophy in the constructions of fluorescence imaging probes for surgical navigation](https://doi.org/10.1016/j.colsurfb.2026.116340)
 
-**Authors:** Tingting Liu, Bicheng Zhu, Yitong Tseo, John R.D. Hervey, Jadranka Travas-Sejdic  
-**Venue/category:** Biosensors and Bioelectronics  
-**Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119435`  
+**Authors:** Chun Zhang, Yue Yuan, Xian Wu, Qinmei Zhong, Wei Tang, Sheng-Tao Yang  
+**Venue/category:** Colloids and Surfaces B: Biointerfaces  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.colsurfb.2026.116340`  
 **Source(s):** Crossref  
-**Keyword score:** 16  
-**Matched:** bioelectronics, bioelectronic, biosensor  
+**Keyword score:** 14  
+**Matched:** biointerface, fluorescence imaging  
 
 ---
 
-### 5. [Ti2C MXene/Fe hydrogel electrode for enhanced Fe redox cycling in electrochemical Fenton-like degradation of sulfamethoxazole](https://doi.org/10.1016/j.electacta.2026.150432)
+### 6. [Monolithic tiered microlithography for stretchable multilayer electronics with high-density, soft, and ultrathin VIAs](https://doi.org/10.1126/sciadv.aei9286)
 
-**Authors:** Peipei Wang, Shanshan Gao, Mingyue Geng, Jiayu Tian  
-**Venue/category:** Electrochimica Acta  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.electacta.2026.150432`  
+**Authors:** Xinjian Xie, Guangrui Ju, Xiongwei Luo, Shengwei Feng, Hongjiao Li, Yijun Zhang, Wenqian Feng  
+**Venue/category:** Science Advances  
+**Date:** 2026-11-20  
+**DOI:** `10.1126/sciadv.aei9286`  
 **Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** hydrogel electrode  
+**Keyword score:** 13  
+**Matched:** bioelectronics, bioelectronic  
+
+**Abstract**
+
+Stretchable multilayer electronics that sustain reliable electrical performance under mechanical deformation are critical for advanced skin-like devices. A remaining challenge is the development of high-density, soft, and ultrathin vertical interconnect accesses (VIAs) that enable reliable electrical interconnection in flexible and stretchable circuits, particularly at small feature sizes. Here, we present a three-dimensional (3D), tier-by-tier photolithography strategy using PEDOT-based conductors and polydimethylsiloxane (PDMS)–based insulators, each photocurable within 10 seconds, to directly pattern soft VIAs and planar interconnects across lithographically defined PDMS openings. Maskless, full-field exposure enables thousands of in-plane and through-plane electrical connections in a single step, bypassing conventional hole-by-hole fabrication and manual VIA-to-pad alignment. The multilayer stack ensures minimal thickness, matched mechanical compliance, and robust conduction and insulation, enabling soft VIAs to preserve cross-layer electrical performance. Integration of lithographically defined cutouts and perforations yields breathable, conformal bioelectronics with skin-friendliness and stable signal acquisition in wearable wireless ECG monitoring. This multilayer 3D electronics platform can be extended to biomolecular sensing in soft organs, where thin, integrated, and stretchable designs are essential.
 
 ---
 
-### 6. [Rapid DNA fragment sizing by short-path microchip electrophoresis with CMOS fluorescence imaging](https://doi.org/10.1016/j.chroma.2026.467637)
+### 7. [Integrating data management and analysis in bioimaging: A core facility perspective](https://doi.org/10.1111/jmi.70211)
 
-**Authors:** Zhenqing Li, Xiaoyu Zhu, Bo Yang, Jing Yang, Dawei Zhang, Yoshinori Yamaguchi, Shengqiong Deng  
-**Venue/category:** Journal of Chromatography A  
-**Date:** 2027-01-01  
-**DOI:** `10.1016/j.chroma.2026.467637`  
+**Authors:** Lu Cao, Maarten W. Paul, Joost Willemse, Lenard M. Voortman, Tooba Abbassi‐Daloii, Katherine Wolstencroft, Sylvia Le Dévédec  
+**Venue/category:** Journal of Microscopy  
+**Date:** 2026-11-20  
+**DOI:** `10.1111/jmi.70211`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** bioimaging  
+
+**Abstract**
+
+Abstract Bioimaging core facilities increasingly operate at the centre of data‐intensive biological research. Advances in microscopy instrumentation, automation, image analysis, and multimodal workflows have increased the scale, complexity, and institutional importance of imaging data. At the same time, the scientific community embraces the FAIR principles, which require data to be Findable, Accessible, Interoperable, and Reusable. Existing literature provides foundational guidance in discrete domains such as data stewardship, metadata standards, data storage and visualisation, workflow integration, and community file formats. However, a comprehensive view that unifies these domains from the perspective of an imaging core facility is missing. This review fills that gap by proposing an integrated model for modern imaging data ecosystems. We connect/integrate developments in metadata standards, cloud‐native file formats, workflow orchestration frameworks, AI reproducibility, and multimodal data integration. We explore the organisational and governance challenges that shape institutional adoption and sustainability, and present facility‐level strategies for transforming imaging data management and analysis into a coherent, future‐proof ecosystem.
+
+---
+
+### 8. [Fluorescence imaging of electric-field-induced reorganization in a confined ionic liquid](https://doi.org/10.1016/j.triboint.2026.112981)
+
+**Authors:** Michal Michalec, Jan Blahut, Vít Šimara, Michal Okál, Patrik Sokola, Petr Svoboda, Oldřich Zmeškal  
+**Venue/category:** Tribology International  
+**Date:** 2027-03-01  
+**DOI:** `10.1016/j.triboint.2026.112981`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 ---
 
-### 7. [Implantable Antenna–Biosensor Systems for Cancer Surveillance: Evidence, Biological Interfaces, and a Translational Design Framework](https://doi.org/10.3390/electronics15225395)
+### 9. [Mobile-ion-mediated interfacial electrostatic screening in flexible iontronic triboelectric nanogenerators for robust wearable electronics](https://doi.org/10.1016/j.nanoen.2026.112628)
 
-**Authors:** Sumer Singh Singhwal  
-**Venue/category:** Electronics  
-**Date:** 2026-11-19  
-**DOI:** `10.3390/electronics15225395`  
+**Authors:** Min-Kyu Seo, Puran Pandey, Jung Inn Sohn  
+**Venue/category:** Nano Energy  
+**Date:** 2027-01-01  
+**DOI:** `10.1016/j.nanoen.2026.112628`  
 **Source(s):** Crossref  
 **Keyword score:** 9  
-**Matched:** biointerface, biosensor  
+**Matched:** iontronic  
+
+---
+
+### 10. [Iontronic triboelectric tele-perception enabled by ion-relaxation engineering and a lightweight 1D-CNN decoder](https://doi.org/10.21203/rs.3.rs-11588570/v1)
+
+**Authors:** Jiaxin Guo, Yan Du, Zhong Lin Wang, Di Wei  
+**Date:** 2026-11-20  
+**DOI:** `10.21203/rs.3.rs-11588570/v1`  
+**Source(s):** Crossref  
+**Keyword score:** 9  
+**Matched:** iontronic  
 
 **Abstract**
 
-An implanted antenna can support cancer surveillance when a disease-related change produces a reproducible measurement that can be distinguished from relevant benign changes and interpreted within a defined clinical pathway. This critical review connects cancer biomarkers, local physiological changes, biosensor mechanisms, and in-body RF interfaces across major tumour sites, with particular attention to oral, head and neck, and lung cancer. Three approaches are distinguished: antennas that sense tissue dielectric properties, chemically functionalized antenna immunosensors, and separate cancer sensors coupled to implanted radio telemetry. The unresolved problem is durable, site- and endpoint-specific surveillance under realistic sampling, inflammatory, biointerface, and wireless constraints. Comparative evidence tables identify measured specimens, demonstrated endpoints, candidate sensor–antenna combinations, and decisive missing experiments. A compact quantitative framework links target access, binding, RF observability, confounder control, read availability, and false-alert burden. A gated development workflow, illustrated using a published CEA antenna, converts these constraints into testable research requirements. The outcome is a research roadmap for clinically interpretable local warnings.
+Abstract Robots must recognize what is approaching before they touch it. Triboelectric tele-perception meets this need, but its responses stay pinned to the material permittivity (dielectric constant) of the target: the voltage waveform collapses to a scaled copy of the electrostatic coupling, and material identity must then be recovered from a handful of amplitudes. We show that ionic relaxation in an iontronic dielectric breaks this constraint. Dispersing room temperature ionic liquid of BMIMTFSI (10 wt%) in thermoplastic polyurethane (TPU) gives an iontronic triboelectric sensor (ITS) whose mobile ions relax on the time scale of an approach event, so that ionic polarization and electrostatic induction act as two independent contributions to the same voltage transient. The resulting waveforms differ in shape, not merely in height: the iontronic film retains 91.57% of its initial output after 10⁵ cycles and resolves four target materials as distinct polarity-amplitude classes at 70 mm. Because the discriminating information lies in the waveform morphology, a generic one-dimensional convolutional neural network (1D-CNN) fed with raw voltage traces classifies the four materials at 90.5% mean accuracy without hand-crafted features. We use this output to drive material-specific robot motions and a polarity-gated three-level warning display. Ionic relaxation thus supplies a design degree of freedom that is orthogonal to permittivity, and it turns an electrostatic proximity signal into a material fingerprint that a small decoder can read.
 
 ---
 
-### 8. [Thermally activated delayed fluorescence hydrogen-bonded macrocycle: host-guest confinement triggered circularly Polarized luminescence](https://doi.org/10.1016/j.dyepig.2026.114378)
+### 11. [Intraoperative Indocyanine Green Fluorescence Imaging in Pancreatic Head and Periampullary Surgery: A Scoping Review](https://doi.org/10.3390/diagnostics16223901)
 
-**Authors:** Zecong Ye, Xiongrui Ai, Lingzhi He, Jiahao He, Junbo Ruan, Ziying Lu, Yingxiao Mu, Qiquan Luo, Shaomin Ji, Yanping Huo  
-**Venue/category:** Dyes and Pigments  
-**Date:** 2027-03-01  
-**DOI:** `10.1016/j.dyepig.2026.114378`  
+**Authors:** Loizos Hadjigeorgiou, Dimitra Sertidou, Spiros G. Delis, Vasileios Tatsis, Evangelos Lolis, Konstantinos Vlachos, Georgios K. Glantzounis  
+**Venue/category:** Diagnostics  
+**Date:** 2026-11-20  
+**DOI:** `10.3390/diagnostics16223901`  
 **Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** thermally activated delayed fluorescence  
-
----
-
-### 9. [Redox-Modulating Cold Plasma Biointerface Promotes Hair Follicle Regeneration Accompanied by β-Catenin Signaling Activation](https://doi.org/10.34133/bmr.0449)
-
-**Authors:** Young-Ae Choi, Mi Hee Kwack, Ons Ben Hamida, Juyeon Choi, Hyo Jung Kim, Joo Young Park, Sunghoon Jung, Seunghun Lee, Yong Hyun Jang, Sang-Hyun Kim  
-**Venue/category:** Biomaterials Research  
-**Date:** 2026-11-19  
-**DOI:** `10.34133/bmr.0449`  
-**Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** biointerface  
+**Keyword score:** 9  
+**Matched:** fluorescence imaging  
 
 **Abstract**
 
-Disruption of redox homeostasis within the hair follicle microenvironment suppresses β-catenin-dependent regenerative signaling and impairs follicular growth. Here, we developed a flexible dielectric-barrier discharge (DBD)-based cold atmospheric plasma (CAP) biointerface capable of generating reactive oxygen and nitrogen species under electrically and thermally controlled operating conditions and evaluated its regenerative potential in in vitro, ex vivo, and in vivo models. The regenerative effects of the CAP patch were evaluated using murine telogen-to-anagen transition models and ex vivo human hair follicle cultures. CAP treatment accelerated hair growth and hair shaft elongation and promoted proliferation of dermal papilla (DP) and outer root sheath keratinocytes, accompanied by enhanced expression of vascular endothelial growth factor A, hepatocyte growth factor, fibroblast growth factor 7, insulin-like growth factor 1, and anagen-associated keratins. CAP activated protein kinase B (AKT)/glycogen synthase kinase-3 beta signaling and enhanced β-catenin nuclear localization. Pharmacological inhibition of AKT or β-catenin attenuated CAP-induced β-catenin nuclear localization in DP cells, while β-catenin inhibition also reduced CAP-induced expression of DP-derived growth factors. A patch designed to suppress the generation of reactive oxygen and nitrogen species and treatment with the reactive species scavenger N -acetylcysteine similarly diminished these responses. The restorative effects of CAP under androgen-suppressed conditions were evaluated using dihydrotestosterone (DHT)-treated models, in which CAP improved follicular morphology in vivo and enhanced β-catenin activation in DHT-treated DP cells. Collectively, these findings demonstrate the potential of a flexible DBD-based CAP biointerface to promote hair follicle regeneration and provide mechanistic evidence linking plasma-derived redox signaling to AKT/β-catenin-associated responses in DP cells. This platform integrates flexible plasma biointerface engineering with validation in human hair follicles and complementary redox and pathway-interference approaches, supporting future translational investigation.
+Background/Objectives: Indocyanine green (ICG) fluorescence imaging is inexpensive and increasingly used in pancreatic surgery, but its evidence base has been appraised only in fragments—one application at a time, or ICG pooled with investigational fluorophores—and never specifically for the pancreatic head and periampullary region. We mapped its intraoperative applications, techniques and reported outcomes. Methods: Following the PRISMA-ScR guidelines, we searched PubMed, Scopus, the Cochrane Library and the Directory of Open Access Journals on 29 July 2026 without date restriction. Two reviewers screened and charted independently, one row per article-by-application combination, and synthesised the findings narratively. Results: Forty-two studies (51 article-by-application combinations, 613 patients) covered six applications: stump perfusion, biliary identification and anastomotic testing, perfusion of reconstructed vessels and the duodenal arcade, tumour detection and margin assessment, lymphatic mapping, and staging laparoscopy. Eighteen were case or technique reports, no randomised trial was identified, and only three studies included a group operated without ICG. Remnant hypoperfusion predicted postoperative acute pancreatitis (80% versus 16%, p = 0.011) and clinically relevant fistula (odds ratio 10.0) in two small prospective cohorts, yet in the largest series (n = 100) a visual score of the pancreaticojejunostomy was reproducible (intraclass correlation coefficient 0.76) but discriminated poorly (area under the curve 0.64) and altered no operation. In a single retrospective comparison in duodenum-preserving resection, ICG guidance was associated with less intraoperative bile-duct injury (10% versus 60%, p = 0.009). Conventional doses did not distinguish pancreatic adenocarcinoma from normal parenchyma, whereas second-window imaging made 12 of 13 invasive specimens fluoresce. Dose varied by two orders of magnitude, and no adverse reaction was reported, although tolerability was formally assessed in only nine studies. Conclusions: Intraoperative ICG use in pancreatic head surgery appears safe and feasible. ICG shows key anatomical structures—above all the biliary tree—more reliably than white light alone. Its most promising benefits are the early recognition of an ischaemic pancreatic remnant, with the prospect of preventing postoperative fistula and pancreatitis, and the early identification and protection of the distal bile duct during duodenum-preserving pancreatic head resection.
 
 ---
 
-### 10. [Multi-resonant thermally activated delayed fluorescence](https://www.semanticscholar.org/paper/47a3e9cd514f615e487e1452f703c3f2f3131e15)
+### 12. [MXene and ionic liquids-enhanced conductive hydrogels for low-temperature wearable sensors](https://doi.org/10.1016/j.colsurfa.2026.142391)
 
-**Authors:** David Hall, E. Zysman-colman  
-**Venue/category:** Nature Reviews Methods Primers  
-**Date:** 2026-11-19  
-**DOI:** `10.1038/s43586-026-00541-z`  
-**Source(s):** Crossref, Semantic Scholar  
-**Keyword score:** 7  
-**Matched:** thermally activated delayed fluorescence  
-
----
-
-### 11. [Activity-based fluorescence screening uncovers host enzymatic responses to SARS-CoV-2 infection](https://doi.org/10.64898/2026.11.17.766338)
-
-**Authors:** Kyohhei Fujita, Yukiko Muramoto, Kazuya Shimura, Mako Kamiya, Hayato Wakabayashi, Miyuki Tani, Chiho Onishi, Yoshio Koyanagi, Takeshi Noda, Yasuteru Urano  
-**Date:** 2026-11-19  
-**DOI:** `10.64898/2026.11.17.766338`  
+**Authors:** Peng Zhao, Hui Lv, Ying Wang, Yan Zhou, Xiaolong Lu, Lin Liu, Bencai Lin, Guanggui Cheng, Ningyi Yuan, Jianning Ding  
+**Venue/category:** Colloids and Surfaces A: Physicochemical and Engineering Aspects  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.colsurfa.2026.142391`  
 **Source(s):** Crossref  
-**Keyword score:** 6  
-**Matched:** fluorescence probe  
+**Keyword score:** 7  
+**Matched:** conductive hydrogel  
+
+---
+
+### 13. [Lignin interface modification liquid metal enabling controllable catalyzed conductive hydrogel polymerization for stable self-powered sensing](https://doi.org/10.1016/j.cej.2026.184397)
+
+**Authors:** Weisheng Yang, Jingren Ma, Langjian Zhao, Minming Jiang, Pinle Zhang, Xinliang Liu, Jingquan Han  
+**Venue/category:** Chemical Engineering Journal  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.cej.2026.184397`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** conductive hydrogel  
+
+---
+
+### 14. [Solubility-driven morphological decoupling enables elastic electron-deficient semiconducting polymers for fully stretchable electronics](https://doi.org/10.1126/sciadv.aej3331)
+
+**Authors:** Hayeong Park, Qian Liu, Wenhao Li, Minji Chung, Gunmo Koo, Chien-Chung Shih, Christopher R. McNeill, Dongsheng Yan, Yang Wang, Shanshan Zhou, Mandar M. Shirolkar, Ruicheng Li et al.  
+**Venue/category:** Science Advances  
+**Date:** 2026-11-20  
+**DOI:** `10.1126/sciadv.aej3331`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** conducting polymer  
 
 **Abstract**
 
-Transcriptomic and proteomic studies have characterized host responses to SARS-CoV-2 infection, yet changes in endogenous enzymatic activities remain poorly understood. Here, we screened 89 enzyme-activatable fluorescence probes in living SARS-CoV-2-infected Calu-3 cells and identified 18 probes showing enhanced fluorescence, with some exhibiting multiplicity-of-infection-dependent responses. Neither SARS-CoV-2 Mpro nor PLpro activated the tested probes, and several did not exhibit comparable fluorescence enhancements in influenza-virus-infected cells. Target identification and biochemical validation implicated calpain-1 (CAPN1) and puromycin-sensitive aminopeptidase (PSA) as major contributors to probe activation. A PSA-reactive fluorescence probe confirmed that SARS-CoV-2-infected living cells showed enhanced PSA activity, which was suppressed by puromycin. Immunofluorescence analysis revealed a strong positive correlation between PSA and SARS-CoV-2 spike protein signals. Notably, neither CAPN1 nor PSA was included among differentially expressed genes or proteins previously identified in SARS-CoV-2-infected cells. These findings highlight activity-based fluorescence screening as a complementary strategy to expression-based analyses for discovering infection-induced biomarker enzymes.
+The development of fully stretchable electronics is limited by the scarcity of electron-deficient polymers that combine high electron mobility with mechanical elasticity. Here, we report a solubility-driven morphological decoupling strategy that mitigates this trade-off by incorporating ∼10% planar, insoluble PyF units into a semicrystalline PySe backbone. This approach yields a hierarchical morphology characterized by suppressed long-range crystallinity alongside robust local aggregation. Driven by strong fluorine (F)-sulfur (S) interactions, highly ordered face-on domains function as robust physical anchors, providing the polymer network with exceptional elasticity to reversibly dissipate stress and preserve charge percolation pathways. Consequently, the resulting terpolymer largely relieves the long-standing trade-off between charge transport and mechanical stretchability, delivering a near-unity initial electron mobility (∼1.0 square centimeter per volt per second) and retaining 0.5 square centimeters per volt per second even under 100% applied strain, representing the highest performance reported to date. To demonstrate the practical utility of this system, we fabricated stretchable ambipolar inverters and phototransistors that maintain high performance under severe deformation. Notably, the phototransistors sustain an exceptional responsivity of 15.8 amperes per watt and an external quantum efficiency exceeding 2900% at 100% strain. These results establish a powerful blueprint for intrinsically elastic semiconductors, enabling the realization of high-performance, fully deformable optoelectronic systems.
+
+---
+
+### 15. [Multifunctional, Tough, and Highly Stretchable Aramid Nanofiber Reinforced Conductive Hydrogel for Wearable Electronics](https://doi.org/10.1021/acsanm.6c04162)
+
+**Authors:** Qifa Gou, Yadong Chen, Jipeng Wang, Chang Wu, Longbiao Yuan, Zihao Gao, Jianmin Guo, Xuelei Wang, Li Ke, Qiang Du, Tianxing Gong, Chongshu Wang et al.  
+**Venue/category:** ACS Applied Nano Materials  
+**Date:** 2026-11-20  
+**DOI:** `10.1021/acsanm.6c04162`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** conductive hydrogel  
+
+**Abstract**
+
+Abstract Flexible strain sensors require stable, sensitive, and repeatable signal acquisition during complex motions, and hydrogels have emerged as promising candidates for this purpose. In this study, a fiber-reinforced ionic conductive hydrogel was constructed by introducing an aramid nanofiber (ANF) reinforcing framework and a dynamic Zn2+ coordination network. ANF enhanced stress transfer and load-bearing capacity, while reversible Zn2+ coordination crosslinks provided energy dissipation and stable ionic conductive pathways. The resulting hydrogel exhibited a tensile strength of 2.22 MPa, fracture strain of 800%, toughness of 9.58 MJ m−3, and electrical conductivity of 0.66 S m−1. Moreover, it showed reliable resistance responses to tensile and compressive stimuli, with tensile and compressive gauge factors (GF) of 6.94 and 8.4, respectively. The synergistic design of ANF reinforcement and Zn2+ coordination effectively balances mechanical performance, conductivity, and sensing sensitivity, offering a feasible strategy for flexible electronics and wearable sensors.
+
+---
+
+### 16. [Green AI in brain-computer interfaces for neurorehabilitation](https://doi.org/10.1201/9781003644637-8)
+
+**Authors:** Sudarvizhi Duraisamy, Balasamy Krishnasamy, Sushma Ramesh  
+**Venue/category:** Green Artificial Intelligence in Smart Cities  
+**Date:** 2026-11-20  
+**DOI:** `10.1201/9781003644637-8`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** brain-computer interface  
 
 ---
