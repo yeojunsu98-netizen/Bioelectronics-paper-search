@@ -1,60 +1,60 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-21
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-22
 
-- **New candidate records across sources:** 39
+- **New candidate records across sources:** 180
 - **Papers passing keyword filter:** 4
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [Label-free fluorescence lifetime imaging microscopy reveals spatial heterogeneity of cell wall-associated autofluorescence in legume root nodules](https://doi.org/10.1016/j.micron.2026.104144)
+### 1. [Early on-site diagnosis of citrus Huanglongbing via a microfluidic electrochemical biosensor for dual-modal detection of bacterial OmpA and host-derived H2O2](https://doi.org/10.1016/j.bios.2026.119445)
 
-**Authors:** Javier Adur, Analia Michel, Lucia Dominguez, Octavio P. Caviglia, Juan Etchart, Delfina A. Ré  
-**Venue/category:** Micron  
+**Authors:** Chunliu Xie, Jing Wang, Qing Chen, Jinhua Li, Lin Ma, Qili Li, Youyan Liu, Hai-Bo Liu  
+**Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.micron.2026.104144`  
-**Source(s):** Crossref, Semantic Scholar  
-**Keyword score:** 13  
-**Matched:** fluorescence lifetime imaging  
+**DOI:** `10.1016/j.bios.2026.119445`  
+**Source(s):** Crossref  
+**Keyword score:** 17  
+**Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 2. [A stretchable, conductive hydrogel with photothermal antibacterial and antioxidant properties for wound healing and motion monitoring](https://doi.org/10.1016/j.colsurfa.2026.142376)
+### 2. [Rapid, low-cost colorimetric capillary-driven immunoassay for screening of bacterial STIs: Chlamydia, syphilis, and gonorrhea](https://doi.org/10.1016/j.bios.2026.119436)
 
-**Authors:** Yalei Qiao, Lin Shi, Chengnan Chu, Shihao Chen, Chenchen Qin, Zheyu Shen, Chuntao Chen, Dongping Sun  
-**Venue/category:** Colloids and Surfaces A: Physicochemical and Engineering Aspects  
+**Authors:** Joowon Park, Elijah J.O. Barstis, Jonah Rodasta, Brian J. Geiss, David S. Dandy, Charles S. Henry  
+**Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.colsurfa.2026.142376`  
+**DOI:** `10.1016/j.bios.2026.119436`  
 **Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** conductive hydrogel  
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 3. [From Serum to Dairy: Target Accessibility, Biointerface Engineering, and Translation Readiness in IGF-1 Biosensing](https://doi.org/10.1007/s12161-026-03356-6)
+### 3. [Near-Infrared Fluorescence Cholangiography With Indocyanine Green Versus Standard White-Light Laparoscopy in Laparoscopic Cholecystectomy: A Systematic Review of Randomized Controlled Trials](https://doi.org/10.7759/cureus.120086)
 
-**Authors:** Tobias Topisia  
-**Venue/category:** Food Analytical Methods  
-**Date:** 2026-11-21  
-**DOI:** `10.1007/s12161-026-03356-6`  
+**Authors:** Angel I Garcia Prado, Daniela M Nuñez Quintanilla, Yomar F Rivera Inga, José A Guamán Paredes, Dayana M Arroba Mantilla  
+**Venue/category:** Cureus  
+**Date:** 2026-11-22  
+**DOI:** `10.7759/cureus.120086`  
 **Source(s):** Crossref  
-**Keyword score:** 7  
-**Matched:** biointerface  
+**Keyword score:** 10  
+**Matched:** near-infrared fluorescence  
 
 ---
 
-### 4. [Photocrosslinked gelatin hydrogel-mediated IGF-1 delivery promotes early cartilage-like tissue formation in a rabbit auricular defect model](https://doi.org/10.1038/s41598-026-81713-5)
+### 4. [Fluorescence Imaging Reveals Heterogeneous Water Structuring and Protein Organization in Liquid−Liquid Phase Separation](https://doi.org/10.1021/acs.biomac.6c02047)
 
-**Authors:** Toshihiro Kushibiki, Yoshine Mayumi, Eiko Nakayama, Toshifumi Yamashiro, Ryuichi Azuma, Miya Ishihara  
-**Venue/category:** Scientific Reports  
-**Date:** 2026-11-21  
-**DOI:** `10.1038/s41598-026-81713-5`  
+**Authors:** Sara Anselmo, Federica Scollo, Elisa Bonaccorso, Giuseppe Sancataldo, Giovanna d’Angelo, Luca Lanzanò, Valeria Vetri  
+**Venue/category:** Biomacromolecules  
+**Date:** 2026-11-22  
+**DOI:** `10.1021/acs.biomac.6c02047`  
 **Source(s):** Crossref  
-**Keyword score:** 6  
+**Keyword score:** 9  
 **Matched:** fluorescence imaging  
 
 **Abstract**
 
-Abstract Auricular cartilage has a limited capacity for self-repair. Insulin-like growth factor-1 (IGF-1) promotes chondrocyte proliferation and extracellular matrix synthesis; however, its therapeutic efficacy is constrained by rapid diffusion and a short in vivo half-life. In this study, we investigated whether IGF-1 delivered in a previously developed visible-light photocrosslinked gelatin hydrogel could promote cartilage repair. In a mouse subcutaneous model, ex vivo fluorescence imaging over 14 days showed that the hydrogel prolonged the local retention of fluorescently labeled IGF-1 compared with IGF-1 solution. In a rabbit auricular-cartilage defect model, defects were treated with saline, IGF-1 solution, hydrogel alone, or IGF-1-loaded hydrogel ( n = 5 per group) and evaluated 1 month later. The IGF-1-loaded hydrogel group formed cartilage-like tissue with rounded cells within lacunae, proteoglycan-rich matrix, and type-II collagen, which occupied 83.8% of the defect length compared with 6.4% in the hydrogel-only group. This group also showed higher COL2A1 , ACAN , SOX9 , and COL1A1 expression, more Ki-67-positive cells, and increased peripheral angiogenesis, without calcification. IGF-1 delivery using photocrosslinked gelatin hydrogels, which prolonged local IGF-1 retention, is thus a promising strategy for promoting early cartilage-like tissue formation, although long-term maturation and mechanical function remain to be established.
+Abstract Water is increasingly recognized as an active thermodynamic component of liquid−liquid phase separation, whose local organization and dynamics regulate phase behavior by modulating intermolecular interactions, solvent entropy, and the stability of condensed phases. Here, we combine micro-Raman spectroscopy with phasor-based spectral imaging and fluorescence lifetime analysis of environment-sensitive probes to map solvent-dependent changes across coexisting phases at the sub-microscale. Complementary observables reporting on solvent dipolar relaxation, local protein environment, phase partitioning, and hydrogen-bond organization converge to a consistent picture of local hydration. Our results reveal distinct hydration states in the coexisting phases: the protein-rich phase displays reduced dipolar relaxation, consistent with a more constrained hydration state than the PEG-rich phase, and these signatures remain associated with the phase composition across different conditions. Furthermore, the multimodal approach identifies substantial local heterogeneity within both phases and an interfacial microenvironment with physicochemical properties distinct from those of the coexisting bulk phases, demonstrating that LLPS generates spatially heterogeneous microenvironments rather than homogeneous compartments. Overall, this work provides a spatially resolved view of hydration heterogeneity in LLPS and establishes a broadly applicable strategy for investigating hydration and local physicochemical organization in biomolecular condensates and other phase-separated soft matter systems.
 
 ---
