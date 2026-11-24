@@ -2,24 +2,24 @@
   "run_day": "2026-11-24",
   "report_path": "reports/2026-11-24.md",
   "csv_path": "reports/2026-11-24.csv",
-  "new_candidate_count": 336,
-  "fetched_count": 741,
+  "new_candidate_count": 108,
+  "fetched_count": 474,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 5,
+    "Semantic Scholar": 11,
     "Crossref": 27,
     "arXiv": 27
   },
   "source_record_counts": {
-    "Semantic Scholar": 9,
-    "Crossref": 732,
+    "Semantic Scholar": 16,
+    "Crossref": 458,
     "arXiv": 0
   },
   "source_errors": {
-    "Semantic Scholar": "Semantic Scholar query 'implantable bioelectronics' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=implantable+bioelectronics&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
+    "Semantic Scholar": "Semantic Scholar query 'conducting polymer neural interface' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=conducting+polymer+neural+interface&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
   },
   "health_degraded": true,
-  "kept_count": 19,
+  "kept_count": 15,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }
