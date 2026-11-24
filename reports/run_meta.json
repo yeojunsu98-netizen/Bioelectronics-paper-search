@@ -1,9 +1,9 @@
 {
-  "run_day": "2026-11-22",
-  "report_path": "reports/2026-11-22.md",
-  "csv_path": "reports/2026-11-22.csv",
-  "new_candidate_count": 180,
-  "fetched_count": 300,
+  "run_day": "2026-11-24",
+  "report_path": "reports/2026-11-24.md",
+  "csv_path": "reports/2026-11-24.csv",
+  "new_candidate_count": 336,
+  "fetched_count": 741,
   "lookback_hours": 40,
   "source_query_counts": {
     "Semantic Scholar": 5,
@@ -12,14 +12,14 @@
   },
   "source_record_counts": {
     "Semantic Scholar": 9,
-    "Crossref": 291,
+    "Crossref": 732,
     "arXiv": 0
   },
   "source_errors": {
     "Semantic Scholar": "Semantic Scholar query 'implantable bioelectronics' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=implantable+bioelectronics&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
   },
   "health_degraded": true,
-  "kept_count": 4,
+  "kept_count": 19,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }
