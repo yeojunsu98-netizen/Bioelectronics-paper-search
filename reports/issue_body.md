@@ -1,206 +1,214 @@
-# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-24
+# Bioelectronics + Bioimaging Daily Literature Tracker — 2026-11-25
 
-- **New candidate records across sources:** 108
-- **Papers passing keyword filter:** 15
+- **New candidate records across sources:** 93
+- **Papers passing keyword filter:** 16
 - **Sources:** Semantic Scholar, Crossref, arXiv
 - **Cost:** $0 (no paid API / no LLM)
 
 ## New papers
 
-### 1. [An activatable hemicyanine probe for fluorescence imaging in experimental sepsis and acute lung injury](https://doi.org/10.1016/j.bios.2026.119443)
+### 1. [High-density channel-all-around vertical organic electrochemical transistors for reservoir computing](https://doi.org/10.1016/j.wees.2026.09.003)
 
-**Authors:** Feng-Ming Liang, Lan Yang, Kai Wang, Hao-Da Yu, Fei Gao  
+**Authors:** Miao Cheng, Yue Tian, Haonan Wang, Chenzhan Wang, Changrui Liu, Shuaidi Zhang, Feng Zhang, Lingfei Wang, Zhenzhong Yang, Zhenjie Ni, Mengmeng Li, Ling Li  
+**Venue/category:** Wearable Electronics  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.wees.2026.09.003`  
+**Source(s):** Crossref  
+**Keyword score:** 40  
+**Matched:** organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
+
+---
+
+### 2. [Hierarchical Ionic Programming of Stretchable Organic Electrochemical Transistors for Dual-Mode Sensing and Computing](https://doi.org/10.1021/acs.nanolett.6c04188.s001)
+
+**Date:** 2026-11-25  
+**DOI:** `10.1021/acs.nanolett.6c04188.s001`  
+**Source(s):** Crossref  
+**Keyword score:** 40  
+**Matched:** organic electrochemical transistor, organic electrochemical transistors, electrochemical transistor  
+
+---
+
+### 3. [Layer-selective 3D printing of monolithic ECG patches for wearable bioelectronics](https://doi.org/10.1016/j.bios.2026.119450)
+
+**Authors:** Hyeon Yun Jeong, Hyeon Beom Kim, Soo Wan Kim, Hyeok Bin Lee, Jeong Beom Ko, Chul Ung Kang, Daeha Joung, Byung Choo Moon, Sung Hyun Park  
 **Venue/category:** Biosensors and Bioelectronics  
 **Date:** 2027-02-01  
-**DOI:** `10.1016/j.bios.2026.119443`  
+**DOI:** `10.1016/j.bios.2026.119450`  
 **Source(s):** Crossref  
-**Keyword score:** 25  
-**Matched:** bioelectronics, bioelectronic, biosensor, fluorescence imaging  
+**Keyword score:** 32  
+**Matched:** bioelectronics, bioelectronic, wearable bioelectronics, biosensor  
 
 ---
 
-### 2. [A dual-twisted molecular strategy achieves dramatic quantum-yield enhancement in NIR-II AIEgen for high-performance bioimaging](https://doi.org/10.1016/j.biomaterials.2026.124404)
+### 4. [Activatable iron-doped silver indium zinc sulfide quantum dot fluorescent probe combined with rolling circle amplification for cancer cell imaging and treatment evaluation](https://doi.org/10.1016/j.bios.2026.119453)
 
-**Authors:** Shiping Yang, Liang Guo, Xinwen Ou, Jia Yao, Jiaxin Zheng, Mingkai Zheng, Guorui Jin, Shaobing Zhou, Ben Zhong Tang  
-**Venue/category:** Biomaterials  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.biomaterials.2026.124404`  
+**Authors:** Kexin Ding, Xiufeng Wang, Yuying Wang, Yahui Zhou, Xiaobing Huo, Ting Zhou, Fang Wang, Zhiqing Zhang  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119453`  
 **Source(s):** Crossref  
-**Keyword score:** 24  
-**Matched:** bioimaging, nir-ii  
+**Keyword score:** 31  
+**Matched:** bioelectronics, bioelectronic, biosensor, fluorescent probe, cell imaging  
 
 ---
 
-### 3. [MXene/MnOX heterojunction-engineered hydrogel with antibacterial, hemostasis, conductive properties and high-adaptability for synergistic skin bioelectronics and diabetic wound healing](https://doi.org/10.1016/j.cej.2026.184476)
+### 5. [Self-powered organic photodiodes and phototransistors for circuits and bioelectronics](https://doi.org/10.70675/f11349f7z358bz4f33z99e4zdcf35c03f98a)
 
-**Authors:** Wei Jiang, Siqi Zhan, Nannan Wang, Li Sheng, Changling Liu, Yan Fu, Hong Yu Yang  
-**Venue/category:** Chemical Engineering Journal  
-**Date:** 2026-12-01  
-**DOI:** `10.1016/j.cej.2026.184476`  
+**Authors:** Yongju Lee  
+**Date:** 2026-11-25  
+**DOI:** `10.70675/f11349f7z358bz4f33z99e4zdcf35c03f98a`  
 **Source(s):** Crossref  
-**Keyword score:** 19  
-**Matched:** bioelectronics, bioelectronic  
-
----
-
-### 4. [Ultrasound Rechargeable Bioelectronics With Acoustic Metamaterial‐Enhanced Triboelectric Energy Harvesting](https://doi.org/10.1002/adma.75855)
-
-**Authors:** Yuanchao Ren, Zizhuo Wang, Shanlin Yan, Haifeng Zhang, Shaonan Wang, Jie Chen, Zhong Luo, Fei Wu, Hengyu Guo  
-**Venue/category:** Advanced Materials  
-**Date:** 2026-11-24  
-**DOI:** `10.1002/adma.75855`  
-**Source(s):** Crossref  
-**Keyword score:** 19  
-**Matched:** bioelectronics, bioelectronic  
+**Keyword score:** 29  
+**Matched:** bioelectronics, bioelectronic, pedot:pss, e-skin  
 
 **Abstract**
 
-ABSTRACT Wireless transcutaneous energy transfer to deep‐tissue bioelectronic implants remains challenging for long‐term autonomous bioelectronic operation because tissue attenuation limits the available acoustic excitation. Here, we present a proof‐of‐concept ultrasound rechargeable bioelectronic platform that integrates spatially confined acoustic energy delivery, energy harvesting, power management, and programmable electrical stimulation. A non‐resonant, transmissive acoustic metamaterial reshapes the incident ultrasound wavefront to form a localized field in the receiving region. The platform couples this acoustic structure with a compliant thin‐film triboelectric nanogenerator (TENG) for energy harvesting in a fluidic environment. An on‐board power conditioning circuit regulates the harvested energy to support recharging and controlled electrical pulse delivery. In ex vivo evaluations using a layered porcine‐tissue configuration, approximately 3.5 min of ultrasonic recharging supports nearly 16 h of programmed pulse generation into a 5 kΩ surrogate load, corresponding to an acoustic charging duty cycle of 0.36%. The stored energy also powered electrical pulses that evoked repeatable limb movement in ex vivo frog preparations. These results demonstrate a system‐level strategy for ultrasound‐rechargeable bioelectronics, providing a basis for future implantable neuromodulation systems.
+Photodiodes et phototransistors organiques auto-alimentés pour les circuits et la bioélectronique Cette thèse développe des photodétecteurs à base de semi-conducteurs organiques fonctionnant sans alimentation externe et propose une plateforme intégrée pour leur application aux circuits et aux dispositifs bioélectroniques. En couvrant l'ensemble de la chaîne de la récolte d'énergie, des photodiodes auto-alimentées et des phototransistors organiques jusqu'à l'implémentation de circuits et aux applications de biosignaux elle établit la faisabilité de systèmes optoélectroniques auto-alimentés ainsi que les technologies fondamentales nécessaires à leur déploiement pratique. Des nanogénérateurs triboélectriques (TENG) et des cellules photovoltaïques organiques (PV) ont été conçus comme sources d'énergie embarquées pour les photodétecteurs, avec une évaluation systématique des caractéristiques de sortie, de la densité de puissance et de la stabilité. Des photodiodes organiques auto-alimentées (OPD) ont ensuite été réalisées et analysées en faible éclairement en termes de réponse photoélectrique, de sensibilité et de détectivité ; en particulier, le poly(pyrrole):PSS (PPY:PSS) a été synthétisé et introduit comme couche de transport de trous (HTL) en remplacement du PEDOT:PSS, améliorant la stabilité environnementale. Les phototransistors organiques (OPT) ont été étudiés de façon comparative dans des architectures monocomposant et à hétérojonction en volume (BHJ) afin d'élucider les corrélations entre transport de charge et réponse électro-optique. En se concentrant sur les systèmes PM6\:Y6, l'analyse quantitative de la réponse photoélectrique et de la vitesse de commutation démontre la faisabilité de phototransistors à haute sensibilité et faible consommation, et précise comment le rapport donneur\:accepteur et l'ingénierie interfaciale gouvernent les performances photoélectriques. Un inverseur logique basé sur BHJ a en outre été réalisé pour valider les caractéristiques de fonctionnement et la stabilité de commande au niveau circuit. Enfin, une peau électronique (e-skin) auto-alimentée à base de TENG, dotée de capacités d'auto-cicatrisation, a permis l'acquisition fiable de biosignaux tels que l'EMG et l'ECG, tandis qu'une analyse assistée par apprentissage automatique a rendu possible la classification des types de mouvement et des applications de rétroaction. Dans l'ensemble, en reliant de manière cohérente l'auto-alimentation, l'amélioration des performances, l'intégration aux circuits et l'interface avec le vivant, ce travail fournit des fondations technologiques de niveau plateforme pour les futures applications en santé connectée, biosenseurs intelligents et circuits neuromorphiques.
 
 ---
 
-### 5. [CXCR4-targeting near-infrared fluorescence imaging probe for selective detection of peritoneal metastasis of colorectal cancer](https://doi.org/10.1007/s13346-026-02259-7)
+### 6. [Iodinated Heptamethinecyanine Dye / Dextran-Polyacrylamide Polymer / Gold Nanorods Nanohybrid with Plasmon Enhanced NIR Optical Response for Potential Bioimaging and Biosensing Applications](https://doi.org/10.21203/rs.3.rs-11857424/v1)
 
-**Authors:** Quoc-Viet Le, Jihee Cho, Jeong Gil Sun, Tri-Thuc Nguyen Duc, Jaehyun Choi, Changhyun Lim, Jaeseong Lee, Jaiwoo Lee, Jun-Pil Jee, Sanghee Kim, Gayong Shim  
-**Venue/category:** Drug Delivery and Translational Research  
-**Date:** 2026-11-24  
-**DOI:** `10.1007/s13346-026-02259-7`  
+**Authors:** Oleg Yeshchenko, Oles Fedotov, Pavlo Khort, Dmytro Kobzev, Anatoliy Tatarets, Mykola Ischenko, Volodymyr Doroschuk, Pavlo Virych, Natalia Kutsevol  
+**Date:** 2026-11-25  
+**DOI:** `10.21203/rs.3.rs-11857424/v1`  
 **Source(s):** Crossref  
-**Keyword score:** 19  
-**Matched:** fluorescence imaging, near-infrared fluorescence  
-
----
-
-### 6. [Near‐Infrared II Bioimaging of M1/M2 Macrophage Polarization for Monitoring Radiation‐Induced Lung Injury Progression](https://doi.org/10.1002/adfm.79320)
-
-**Authors:** Zhengxia Yang, Yifan Xiong, Xiaoqi Lin, Jiayuan Jing, Liang Song, Yun Zhang  
-**Venue/category:** Advanced Functional Materials  
-**Date:** 2026-11-24  
-**DOI:** `10.1002/adfm.79320`  
-**Source(s):** Crossref  
-**Keyword score:** 18  
-**Matched:** bioimaging, fluorescent probe  
+**Keyword score:** 28  
+**Matched:** bioimaging, fluorescence bioimaging, nir fluorescence  
 
 **Abstract**
 
-ABSTRACT Radiation‐induced lung injury (RILI) has emerged as a severe complication of radiation exposure, because of the high radiosensitivity of pulmonary tissue. RILI is primarily divided into radiation pneumonitis (RP) and radiation pulmonary fibrosis (RPF), with each phase characterized by distinct pathological features that necessitate corresponding intervention strategies. However, computed tomography (CT) imaging lacks adequate sensitivity and specificity to reliably distinguish between RP and RPF. Therefore, we have developed near‐infrared II (NIR‐II) fluorescent probes targeting M1 and M2 macrophages, enabling sensitive and specific imaging‐based diagnosis of RP and RPF. Initially, a murine model of RILI is established, and the dynamic activation of M1 and M2 macrophages is systematically characterized throughout the progression from RP to RPF. For imaging detection, we have synthesized YbCeEr@Y@Glu and YbCeEr@Y@M2pep, which specifically target M1 and M2 macrophages, respectively. Leveraging NIR‐II fluorescence, these probes enable precise visualization of macrophage subtypes in vivo, facilitating early and specific diagnosis of RP and RPF phases. Notably, YbCeEr@Y@Glu allows sensitive detection of RP as early as day 4 post‐irradiation, while YbCeEr@Y@M2pep enables early diagnosis of RPF by week 4. Importantly, both probes demonstrate significantly superior detection sensitivity compared to conventional CT imaging, underscoring their potential for accurate, phase‐specific diagnosis of RILI.
+Abstract Multifunctional hybrid nanoplatforms operating within the near-infrared (NIR) biological transparency window hold immense potential for various biomedical applications. In this work, we report the synthesis and optical investigation of water-soluble 3-component nanohybrids based on iodinated heptamethine cyanine dyes (2I-HITC and 4I-HITC), a star-like dextran-graft-polyacrylamide copolymer matrix (D6-PAA), and plasmonic gold nanorods (AuNRs) with longitudinal surface plasmon resonance (LSPR) at 660 nm (AuNR660) and 745 nm (AuNR745). The D6-PAA polymer matrix effectively reduces hydrophobic dye aggregation as well as encapsulates dye molecules and AuNRs. Spectral tuning of the LSPR of AuNRs to match the NIR absorption and emission bands of the dyes led to strong plasmon-enhanced photoluminescence (SEPL) and Raman scattering (SERS). The optical response exhibited a non-monotonic concentration dependence dictated by the competition between plasmonic enhancement and non-radiative Förster resonance energy transfer (FRET) quenching. Due to weaker FRET quenching and stronger local electromagnetic field hot spots, the 2I-HITC/D6-PAA/AuNR745 nanohybrid achieved the highest enhancement factors for both PL (26.8-fold) and SERS (25.4-fold under 785 nm excitation). Theoretical calculations using Boyd’s local-field enhancement model strongly corroborated the experimental SERS results, confirming the spatial proximity of the functional components within the polymer matrix. These findings highlight the three-component 2I-HITC/D6-PAA/AuNR745 nanohybrid as a potential platform for high-sensitivity NIR fluorescence bioimaging and diagnostic SERS sensing.
 
 ---
 
-### 7. [Microcantilever biosensing: A comparative review of techniques](https://doi.org/10.1016/j.biosx.2026.100851)
+### 7. [Adhesive-Free Paper-Derived Laser-Induced Graphene-Hydrogel Interfaces for Label-Free Bacterial Sensing](https://doi.org/10.1021/acsabm.6c01984)
 
-**Authors:** Adam Whyte, Tom Fitzpatrick, Oren Cooper, Joe Tiralongo, Erik Streed  
-**Venue/category:** Biosensors and Bioelectronics: X  
-**Date:** 2027-03-01  
-**DOI:** `10.1016/j.biosx.2026.100851`  
+**Authors:** Fatemeh Hassanpour, Kimia Noroozi, Farshid Noormohammadi, Michael J. Forrester, Peter Meyer, Kaylee B. Herrig, Bryce Chun, Nicole N. Hashemi, Eric W. Cochran, Laura Jarboe, Patrick A. Johnson, Reza Montazami  
+**Venue/category:** ACS Applied Bio Materials  
+**Date:** 2026-11-25  
+**DOI:** `10.1021/acsabm.6c01984`  
+**Source(s):** Crossref  
+**Keyword score:** 23  
+**Matched:** bioelectronics, bioelectronic, bioelectronic sensor, biosensor  
+
+**Abstract**
+
+Abstract Wearable and disposable bioelectronic sensors require conductive materials that combine electrochemical performance with mechanical compliance, biocompatibility, and environmental sustainability. Yet, most bioelectronics, including those fabricated using laser-induced graphene (LIG) platforms, still rely almost exclusively on non-degradable polyimide substrates, or on transfer methods that require adhesives, solvents, or cryogenic processing. Here, we report a sustainable biosensing platform in which patterned LIG is generated on uncoated paperboard and transferred onto a glyceraldehyde-cross-linked gelatin-glycerol hydrogel by simple contact under ambient conditions, without adhesives or intermediate solvents. The porous LIG forms a continuous, gap-free interface with the hydrogel and retains its graphitic structure after transfer and nine months of ambient storage. The resulting LIG-hydrogel composite is mechanically compliant and electrochemically active, exhibiting reversible mechano-ionic and strain-dependent piezoresistive responses. Configured as a two-electrode, non-Faradaic impedance biosensor with an integrated agar reservoir, the platform discriminates Escherichia coli-containing from sterile samples within 2–3 h through bacteria-associated changes in medium impedance, with the control-bacteria separation maximized near 25 kHz (p = 0.009). This adhesive-free, ambient-processed platform offers a scalable route to environmentally sustainable, disposable, and label-free biosensors.
+
+---
+
+### 8. [Lead-screw-driven nucleic acid extraction enables a low-instrumentation Dual-CRISPR sensor for point-of-care subtyping of HSV-1 and HSV-2](https://doi.org/10.1016/j.bios.2026.119456)
+
+**Authors:** Ziyue Zhu, Haiqian Huang, Changquan Wang, Junheng Zhang, Xiaoying Chen, Tianming Li, Qian Liu, Min Li, Hua Wang  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119456`  
 **Source(s):** Crossref  
 **Keyword score:** 16  
 **Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 8. [Solvent Engineering and MOF Nanoconfinement for Amplified Ratiometric Fluorescence Sensing of Fe3+](https://doi.org/10.1021/acssensors.6c04169)
+### 9. [Fe(II)-enriched hollow NiFePBA nanocage nanozyme for high-sensitivity electrochemical immunosensing](https://doi.org/10.1016/j.bios.2026.119452)
 
-**Authors:** Shangheng Huang, Shuo Yang, Shengfeng Huang, Yang Huang  
-**Venue/category:** ACS Sensors  
-**Date:** 2026-11-24  
-**DOI:** `10.1021/acssensors.6c04169`  
+**Authors:** Haibing Zhu, Xiang Li, Shijie He, Ruixin Liu, Yadong Xue, Juan Li, Zhanjun Yang  
+**Venue/category:** Biosensors and Bioelectronics  
+**Date:** 2027-02-01  
+**DOI:** `10.1016/j.bios.2026.119452`  
 **Source(s):** Crossref  
-**Keyword score:** 14  
-**Matched:** bioimaging, fluorescence imaging  
-
-**Abstract**
-
-Abstract Ratiometric fluorescence sensing of Fe3+ is often limited by inefficient donor–acceptor organization and insufficient signal contrast, particularly in complex biological environments. Here, we develop a nanoconfinement strategy that integrates solvent-controlled emissive-state engineering with spatial regulation of coupled photophysical processes to construct a high-contrast ratiometric Fe3+ sensing platform. Ethanol-mediated synthesis was first used to generate dual-emissive boron/nitrogen codoped carbon dots (3-BNCDs) with well-resolved emissions at 370 and 525 nm, which were subsequently co-confined with curcumin, a Fe3+-responsive acceptor, within metal–organic framework-818 (MOF-818). The confined nanospace shortens the donor–acceptor distance to promote fluorescence resonance energy transfer (FRET) and enriches/aggregates curcumin to modulate the inner filter effect (IFE), establishing a prequenched state. Fe3+ coordination with curcumin disrupts FRET and modulates the IFE, producing an amplified ratiometric response. The resulting nanoprobe exhibits a detection limit of 0.679 nM, corresponding to an approximately 128-fold LOD-based sensitivity enhancement relative to the unconstrained mixture (87.1 nM/0.679 nM ≈ 128.3) while maintaining high selectivity and stability. Moreover, the nanoprobe enables semi-quantitative fluorescence imaging of relative changes in the intracellular labile Fe3+ pool and visualizes Fe3+ accumulation associated with ferroptosis in HCC827 lung adenocarcinoma cells. These findings demonstrate that nanoscale confinement can spatially coordinate multiple photophysical pathways to amplify ratiometric responses, providing a promising design paradigm for high-contrast quantitative sensing and disease-related bioimaging.
+**Keyword score:** 16  
+**Matched:** bioelectronics, bioelectronic, biosensor  
 
 ---
 
-### 9. [Flexible sensor based on spiral-structured hydrogel electrode for handwritten character recognition](https://doi.org/10.1016/j.sna.2026.118835)
+### 10. [High-resolution image-projection fluorescence lifetime imaging microscopy](https://doi.org/10.1364/prj.610413)
 
-**Authors:** Chao Wang, Lingtai Zeng, Qirui Mou, Qian Yi, Jun Ma, Bin Chen  
-**Venue/category:** Sensors and Actuators A: Physical  
+**Authors:** Woong Jae Baek, jongchan park, Liang Gao  
+**Venue/category:** Photonics Research  
+**Date:** 2026-11-25  
+**DOI:** `10.1364/prj.610413`  
+**Source(s):** Crossref  
+**Keyword score:** 13  
+**Matched:** fluorescence lifetime imaging  
+
+---
+
+### 11. [Stretchable Sensors For E-skin Patches](https://doi.org/10.1039/9781837677740-00594)
+
+**Authors:** Ayşenur Acuner, Cem Bayram, Dincer Gokcen, Gokcen Birlik Demirel  
+**Venue/category:** Multifunctional Epidermal Patches  
+**Date:** 2026-11-25  
+**DOI:** `10.1039/9781837677740-00594`  
+**Source(s):** Crossref  
+**Keyword score:** 12  
+**Matched:** electronic skin, e-skin  
+
+**Abstract**
+
+Electronic skin (e-skin) is an important wearable technology designed to mimic the properties of human skin, which has significant potential for the development of personalized healthcare. Flexibility, biocompatibility, and conformability to skin surfaces are important properties of e-skin materials that provide multifunctional sensing capabilities. These systems can provide continuous, non-invasive real-time monitoring of various physical and chemical health indicators while enabling long-term data collection. Advances in materials science play a significant role in the development of e-skin technologies. This chapter discusses the fundamental material requirements for e-skin applications such as biocompatibility, mechanical performance, and sensing functionality. It highlights critical factors in material selection and design, as well as representative examples of sensor operating mechanisms. It also examines the major challenges facing current e-skin systems, including issues related to long-term wearability, signal stability, and data integration, while exploring emerging strategies to overcome these limitations. In this context, ongoing research and innovation in e-skin technology is expected to drive the next generation of wearable health monitoring systems that offer transformative potential for personalized healthcare, disease prevention, and human–machine interfaces.
+
+---
+
+### 12. [Rapid room-temperature fabrication of a robust and self-healing conductive hydrogel via lignin-Ag/Fe3+ dual catalysis for wearable sensors](https://doi.org/10.1016/j.ijbiomac.2026.155394)
+
+**Authors:** Qiaoyu Huang, Yige Chen, Zixuan Shi, Songyang Han, Wenlong Zuo, Xiyuan Lan, Zhaoxia Chen  
+**Venue/category:** International Journal of Biological Macromolecules  
 **Date:** 2027-01-01  
-**DOI:** `10.1016/j.sna.2026.118835`  
+**DOI:** `10.1016/j.ijbiomac.2026.155394`  
 **Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** hydrogel electrode  
+**Keyword score:** 7  
+**Matched:** conductive hydrogel  
 
 ---
 
-### 10. [Unsupervised deep learning for wavelength selection in multi-excitation fluorescence imaging](https://doi.org/10.1038/s41598-026-81023-w)
+### 13. [Rolling-applied dissolving hyaluronic acid microstructures as a patch-free skin biointerface for calcipotriol co-application](https://doi.org/10.1016/j.mtbio.2026.103866)
 
-**Authors:** Narek Meloyan, Narine Sarvazyan  
-**Venue/category:** Scientific Reports  
-**Date:** 2026-11-24  
-**DOI:** `10.1038/s41598-026-81023-w`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
-
-**Abstract**
-
-Abstract Conventional Hyperspectral Imaging (HSI) acquires reflectance, emission, or excitation profiles at each pixel. Emission-based HSI can be expanded into a fourth dimension by varying the excitation wavelength, improving discrimination of materials that contain mixed fluorophores. Multi-excitation HSI (ME-HSI) thus forms a 4D dataset spanning two spatial and two spectral dimensions (emission and excitation wavelengths). Processing ME-HSI datasets is challenging: the many spectral layers per pixel introduce redundancy and computational burden, and band selection methods developed for 3D HSI fail to capture the nonlinear cross-excitation correlations present in ME-HSI data. To address this gap, a deep learning framework was developed comprising three stages: (1) a 3D convolutional autoencoder with parallel excitation branches that learns a unified latent representation, (2) a perturbation-based attribution method that traces reconstruction sensitivity to individual excitation-emission wavelength pairs, and (3) Maximum Marginal Relevance (MMR) selection that balances informativeness with spectral diversity. Evaluated on lichen samples with four ground-truth classes, the framework exceeded the full-spectrum baseline while using only 9 of 192 bands (95% data reduction). Applied without retuning to a chemically distinct collagen sponge dataset, it again exceeded the baseline using a small fraction of the bands. The proposed approach allows to mitigate the computational and hardware challenges of ME-HSI by dramatically decreasing acquisition complexity while boosting its discriminative power.
-
----
-
-### 11. [Fluorescence imaging reveals heterogeneous water structuring and protein organization in liquidliquid phase separation](https://doi.org/10.1021/acs.biomac.6c02047.s001)
-
-**Date:** 2026-11-24  
-**DOI:** `10.1021/acs.biomac.6c02047.s001`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
-
----
-
-### 12. [Decoding molecular remodeling induced by combined 5‑fluorouracil and AlPcS4 photodynamic therapy using cluster‑based Raman spectral and fluorescence imaging](https://doi.org/10.1007/s00604-026-08585-4)
-
-**Authors:** Beata Brozek-Pluska, Monika Kopec, Karolina Beton  
-**Venue/category:** Microchimica Acta  
-**Date:** 2026-11-24  
-**DOI:** `10.1007/s00604-026-08585-4`  
-**Source(s):** Crossref  
-**Keyword score:** 9  
-**Matched:** fluorescence imaging  
-
----
-
-### 13. [Biointerface related effects of Eurotium cristatum-derived selenium nanoparticles on DSS-induced colitis](https://doi.org/10.1016/j.colsurfb.2026.116356)
-
-**Authors:** Nanyang Li, Yifan Cheng, Yanru Yang, Jinyue Xu, Kewei Feng, Fan Shen, Tianli Yue, Yahong Yuan  
-**Venue/category:** Colloids and Surfaces B: Biointerfaces  
-**Date:** 2027-03-01  
-**DOI:** `10.1016/j.colsurfb.2026.116356`  
+**Authors:** Jongsuk Woo, Paul Kim, Dongyoung Kim, Hyunho Hwang, Huisuk Yang, Hyungil Jung  
+**Venue/category:** Materials Today Bio  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.mtbio.2026.103866`  
 **Source(s):** Crossref  
 **Keyword score:** 7  
 **Matched:** biointerface  
 
 ---
 
-### 14. [Subclinical joint inflammation in SLE with arthralgia: a comparative imaging study using musculoskeletal ultrasound and fluorescence optical imaging correlated with clinical and laboratory parameters](https://doi.org/10.1136/lupus-2026-002115)
+### 14. [Recyclable, self-healing, and stable stretchable electrodes based on dynamic polyurethane elastomers](https://doi.org/10.1016/j.polymer.2026.130953)
 
-**Authors:** Giulia M Veglia, Jens Klotsche, Gerhard Krönke, Elise Siegert, Gabriela Schmittat, Paula Hoff, Sandra Hermann, Robert Biesen, Tobias Alexander, Falk Hiepe, Sarah Ohrndorf  
-**Venue/category:** Lupus Science & Medicine  
-**Date:** 2026-11-24  
-**DOI:** `10.1136/lupus-2026-002115`  
+**Authors:** Mengwei Wu, Shuangyu Yang, Pengyuan Zhao, Qinying Yang, Enqi Yang, Chengjun Mo, Yuanyuan Yang, Xuetong Ge, Qiuying Liao, Haiyang Bao, Han Song, Lixia Bao et al.  
+**Venue/category:** Polymer  
+**Date:** 2026-12-01  
+**DOI:** `10.1016/j.polymer.2026.130953`  
 **Source(s):** Crossref  
-**Keyword score:** 6  
-**Matched:** optical imaging  
+**Keyword score:** 7  
+**Matched:** stretchable electrode  
 
 ---
 
-### 15. [Development of a Portable 3D-Printed Fluorescence Imager for Student-Centered Learning in an Open-Lab Course](https://doi.org/10.1021/acs.jchemed.6c01225)
+### 15. [Highly Spiro‐Configured Thermally Activated Delayed Fluorescence Materials for Improving Electroluminescence Efficiencies and Reducing Roll‐Offs of OLEDs](https://doi.org/10.1002/adfm.79850)
 
-**Authors:** Xiaoyue Qi, Di Mou, Zhetao Shangguan, Changchen Wei, Ziyin Zhang, Kexin Liu, Mingxia Liu, Ziyong Chang  
-**Venue/category:** Journal of Chemical Education  
-**Date:** 2026-11-24  
-**DOI:** `10.1021/acs.jchemed.6c01225`  
+**Authors:** Xia Lan, Ruiqi Sun, Chengxi Lin, Zujin Zhao  
+**Venue/category:** Advanced Functional Materials  
+**Date:** 2026-11-25  
+**DOI:** `10.1002/adfm.79850`  
 **Source(s):** Crossref  
-**Keyword score:** 6  
-**Matched:** fluorescence imaging  
+**Keyword score:** 7  
+**Matched:** thermally activated delayed fluorescence  
 
 **Abstract**
 
-Abstract Traditional fluorescence imagers, often bulky, expensive “black boxes”, limit student access to their internal optics and are impractical for resource-constrained educational settings. To address these pedagogical and practical barriers, we designed and fabricated a lightweight, portable fluorescence imaging device (≈300 g) integrated with a smartphone. All core components including the dark box, optical module holder, sample positioning area, and imaging area were fully 3D printed, keeping total material costs below \$40. Using fluorescent microneedle (MN) arrays as the imaging target, we optimized camera parameters and placed the MN patch in the illumination chamber. Image acquisition is typically completed within 1 min, enabling precise quantification of color and intensity. The study also evaluated the effects of ambient temperature and lighting on MN imaging. Notably, the device features an adjustable MN holder that allows imaging angles to be flexibly set between 10° and 30°. This low-cost, open-design platform provides an accessible hands-on tool for real-time fluorescence observation and analysis, making it a viable and economical option for institutions with limited equipment budgets to expand hands-on access to optical instrumentation. More importantly, the device was embedded within an inquiry-based laboratory course that engaged students in an iterative process of equipment assembly, optimization, and application. Through this course, students achieved a deeper conceptual understanding of fluorescence imaging principles, gained practical experience in experimental design and data quantification, and strengthened their collaborative problem-solving skills. The project thus demonstrates how affordable, student-built instrumentation can transform traditional laboratories into active learning environments that foster both technical competency and scientific inquiry.
+ABSTRACT Thermally activated delayed fluorescence (TADF) materials continue to encounter a significant challenge in concurrently attaining high solid‐state photoluminescence efficiency and minimal singlet–triplet energy splitting (Δ E ST ). In this study, a rigid and sterically hindered weak electron acceptor (SAO) is constructed by incorporating a spiro structure into a carbonyl‐based fused‐ring acceptor. Subsequent combination with two weak electron donors, spiro[acridine‐9,9'‐xanthene] and spiro[acridine‐9,9'‐fluorene], yields two sky‐blue TADF emitters (SAO‐X and SAO‐F). The enhanced molecular rigidity conferred by this design improves thermal stability and boosts photoluminescence quantum yields to nearly unity. They exhibit small Δ E ST values (24‒38 meV), rapid reverse intersystem crossing rates of (1.9‒2.7 × 10 6 s −1 ), and short delayed fluorescence lifetimes (1.2‒2.0 µs) in film states. Furthermore, the non‐doped organic light‐emitting diodes (OLEDs) fabricated using SAO‐X and SAO‐F as emitters display bright sky‐blue emission with a maximum external quantum efficiency ( η ext,max ) of 22.8% and a low efficiency roll‐off of 3.9%. Moreover, the doped OLEDs achieve a record‐high η ext,max of 44.1%. Notably, SAO‐X and SAO‐F can also serve as effective sensitizers for the multiresonance TADF emitter tCzphB‐Fl in hyperfluorescence OLEDs, providing impressive η ext,max s of 40.3% and 39.4%. These results demonstrate that these highly spiro‐configured TADF emitters are promising candidates for OLEDs.
+
+---
+
+### 16. [Efficient Long-Wavelength Through-Space Charge-Transfer Thermally Activated Delayed Fluorescence in Conformationally Adaptive Emitters without Conformational Locking](https://doi.org/10.1021/jacs.6c12459.s001)
+
+**Date:** 2026-11-25  
+**DOI:** `10.1021/jacs.6c12459.s001`  
+**Source(s):** Crossref  
+**Keyword score:** 7  
+**Matched:** thermally activated delayed fluorescence  
 
 ---
