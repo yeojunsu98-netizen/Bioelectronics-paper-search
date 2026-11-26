@@ -1,25 +1,23 @@
 {
-  "run_day": "2026-11-25",
-  "report_path": "reports/2026-11-25.md",
-  "csv_path": "reports/2026-11-25.csv",
-  "new_candidate_count": 93,
-  "fetched_count": 362,
+  "run_day": "2026-11-26",
+  "report_path": "reports/2026-11-26.md",
+  "csv_path": "reports/2026-11-26.csv",
+  "new_candidate_count": 138,
+  "fetched_count": 698,
   "lookback_hours": 40,
   "source_query_counts": {
-    "Semantic Scholar": 10,
+    "Semantic Scholar": 27,
     "Crossref": 27,
     "arXiv": 27
   },
   "source_record_counts": {
-    "Semantic Scholar": 15,
-    "Crossref": 347,
+    "Semantic Scholar": 34,
+    "Crossref": 664,
     "arXiv": 0
   },
-  "source_errors": {
-    "Semantic Scholar": "Semantic Scholar query 'OMIEC' failed: Request failed after retries: https://api.semanticscholar.org/graph/v1/paper/search/bulk: HTTP 429 rate limit from https://api.semanticscholar.org/graph/v1/paper/search/bulk?query=OMIEC&fields=title%2Cabstract%2Cyear%2Cvenue%2Cauthors%2Curl%2CpublicationDate%2CexternalIds&sort=publicationDate%3Adesc"
-  },
-  "health_degraded": true,
-  "kept_count": 16,
+  "source_errors": {},
+  "health_degraded": false,
+  "kept_count": 30,
   "create_github_issue": true,
   "issue_body_path": "reports/issue_body.md"
 }
